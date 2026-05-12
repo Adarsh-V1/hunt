@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import { companies as originalCompanies, STATUSES } from "./data/companies";
 
 const STORAGE_KEY = "adarsh-company-application-tracker-v1";
