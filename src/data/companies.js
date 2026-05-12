@@ -396,6 +396,7 @@ export const companies = sourceCompanies.map((company, index) => {
     appliedDate: isSent ? OUTREACH_SENT_DATE : "",
     status: isSent ? "Sent" : "Pending",
     emails: meta?.emails || [],
+    responses: [],
     notes: meta?.notes || "",
   };
 });

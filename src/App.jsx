@@ -1,9 +1,23 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import { companies as originalCompanies, STATUSES } from "./data/companies";
+import { parseReplyImportSource } from "./replyImport";
 
 const STORAGE_KEY = "adarsh-company-application-tracker-v1";
-
-const trackedCounters = ["Pending", "Replied", "Declined", "Sent", "Interview"];
+const RESPONSE_STATUSES = new Set(["Replied", "Interview", "Declined"]);
+const ACTIVE_OUTREACH_STATUSES = new Set(["Sent", "Follow Up"]);
+const PUBLIC_EMAIL_DOMAINS = new Set([
+  "aol.com",
+  "gmail.com",
+  "googlemail.com",
+  "hotmail.com",
+  "icloud.com",
+  "live.com",
+  "outlook.com",
+  "proton.me",
+  "protonmail.com",
+  "yahoo.com",
+  "ymail.com",
+]);
 
 const statusStyles = {
   Pending: "border-amber-200 bg-amber-50 text-amber-800",
@@ -15,10 +29,46 @@ const statusStyles = {
   "Not Applied": "border-slate-200 bg-slate-100 text-slate-700",
 };
 
+const responseToneStyles = {
+  interview: "border-indigo-200 bg-indigo-50 text-indigo-700",
+  declined: "border-rose-200 bg-rose-50 text-rose-700",
+  positive: "border-emerald-200 bg-emerald-50 text-emerald-700",
+  neutral: "border-slate-200 bg-slate-100 text-slate-700",
+};
+
 const emptyFilters = {
   query: "",
   status: "All",
   location: "All",
+  response: "All",
+};
+
+const responseOptions = ["All", "Responded", "Awaiting reply"];
+
+const today = () => new Date().toISOString().slice(0, 10);
+
+const normalizeResponse = (response, index) => {
+  if (typeof response === "string") {
+    return {
+      id: `response-${index + 1}`,
+      from: "",
+      subject: "",
+      summary: response,
+      date: "",
+      sentiment: "neutral",
+    };
+  }
+
+  return {
+    id: response.id || response.gmailMessageId || `response-${index + 1}`,
+    from: response.from || response.sender || "",
+    subject: response.subject || "",
+    summary: response.summary || response.snippet || response.body || "",
+    date: response.date || response.receivedAt || "",
+    sentiment: ["positive", "neutral", "declined", "interview"].includes(response.sentiment)
+      ? response.sentiment
+      : "neutral",
+  };
 };
 
 const normalizeCompany = (company, index) => ({
@@ -33,7 +83,8 @@ const normalizeCompany = (company, index) => ({
   basicInfo: company.basicInfo || "",
   appliedDate: company.appliedDate || "",
   status: STATUSES.includes(company.status) ? company.status : "Pending",
-  emails: Array.isArray(company.emails) ? company.emails : [],
+  emails: Array.isArray(company.emails) ? [...new Set(company.emails.filter(Boolean))] : [],
+  responses: Array.isArray(company.responses) ? company.responses.map(normalizeResponse) : [],
   notes: company.notes || "",
 });
 
@@ -70,26 +121,291 @@ const buildSearchText = (company) =>
     company.companySize,
     company.website,
     company.linkedin,
-    company.basicInfo,
     company.appliedDate,
     company.status,
     company.emails.join(" "),
     company.notes,
+    company.responses
+      .map((response) =>
+        [response.from, response.subject, response.summary, response.date, response.sentiment].join(
+          " ",
+        ),
+      )
+      .join(" "),
   ]
     .join(" ")
     .toLowerCase();
 
-const today = () => new Date().toISOString().slice(0, 10);
+const getDateValue = (value) => {
+  if (!value) return 0;
+  const parsed = new Date(value).getTime();
+  return Number.isNaN(parsed) ? 0 : parsed;
+};
+
+const formatDate = (value) => {
+  if (!value) return "-";
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return value;
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  }).format(parsed);
+};
+
+const formatCompactDate = (value) => {
+  if (!value) return "";
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return value;
+  return new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+  }).format(parsed);
+};
+
+const getLatestResponse = (company) =>
+  company.responses.reduce((latest, response) => {
+    if (!latest) return response;
+    return getDateValue(response.date) > getDateValue(latest.date) ? response : latest;
+  }, null);
+
+const hasResponse = (company) => company.responses.length > 0 || RESPONSE_STATUSES.has(company.status);
+
+const getResponseCount = (company) => {
+  if (company.responses.length > 0) return company.responses.length;
+  return RESPONSE_STATUSES.has(company.status) ? 1 : 0;
+};
+
+const getResponseTone = (company, latestResponse) => {
+  if (latestResponse?.sentiment === "interview" || company.status === "Interview") return "interview";
+  if (latestResponse?.sentiment === "declined" || company.status === "Declined") return "declined";
+  if (latestResponse?.sentiment === "positive" || company.status === "Replied") return "positive";
+  return "neutral";
+};
+
+const getResponseSummary = (company, latestResponse) => {
+  if (latestResponse?.summary) return latestResponse.summary;
+  if (latestResponse?.subject) return latestResponse.subject;
+  if (company.status === "Interview") return "Interview stage marked, but the email summary is not captured yet.";
+  if (company.status === "Declined") return "Decline recorded, but the reply text is not captured yet.";
+  if (company.status === "Replied") return "Reply recorded, but the response summary is still missing.";
+  return "No response tracked yet.";
+};
+
+const getDaysSince = (value) => {
+  const timestamp = getDateValue(value);
+  if (!timestamp) return null;
+
+  const diff = Date.now() - timestamp;
+  return diff < 0 ? 0 : Math.floor(diff / (1000 * 60 * 60 * 24));
+};
+
+const normalizeKey = (value) =>
+  String(value || "")
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "");
+
+const normalizeEmail = (value) => String(value || "").trim().toLowerCase();
+const extractDomain = (value) => normalizeEmail(value).split("@")[1] || "";
+
+const inferStatusFromResponse = (response, currentStatus) => {
+  if (STATUSES.includes(response.status)) return response.status;
+  if (response.sentiment === "interview") return "Interview";
+  if (response.sentiment === "declined") return "Declined";
+  if (currentStatus === "Interview" || currentStatus === "Declined") return currentStatus;
+  return "Replied";
+};
+
+const looksLikeCompanyRecord = (value) =>
+  value &&
+  typeof value === "object" &&
+  ("companyNumber" in value || "roleTarget" in value || "location" in value || "status" in value);
+
+const normalizeImportedResponse = (response, index) => {
+  const normalized = normalizeResponse(response, index);
+
+  return {
+    ...normalized,
+    companyName: response.companyName || response.company || response.match?.companyName || "",
+    matchEmail: response.matchEmail || response.email || response.match?.email || normalized.from || "",
+    status: response.status || "",
+  };
+};
+
+const mergeResponsesIntoCompanies = (baseCompanies, importedResponses) => {
+  const companies = baseCompanies.map((company) => ({
+    ...company,
+    emails: [...company.emails],
+    responses: [...company.responses],
+  }));
+
+  const byName = new Map();
+  const byEmail = new Map();
+  const byDomain = new Map();
+  const duplicateDomains = new Set();
+
+  companies.forEach((company, index) => {
+    byName.set(normalizeKey(company.companyName), index);
+    company.emails.forEach((email) => {
+      const normalizedEmail = normalizeEmail(email);
+      byEmail.set(normalizedEmail, index);
+
+      const domain = extractDomain(normalizedEmail);
+      if (!domain || PUBLIC_EMAIL_DOMAINS.has(domain)) return;
+
+      const owner = byDomain.get(domain);
+      if (owner === undefined) {
+        byDomain.set(domain, index);
+      } else if (owner !== index) {
+        duplicateDomains.add(domain);
+      }
+    });
+  });
+
+  duplicateDomains.forEach((domain) => {
+    byDomain.delete(domain);
+  });
+
+  let matchedCompanies = 0;
+  let addedResponses = 0;
+  let unmatchedResponses = 0;
+  const matchedCompanyIds = new Set();
+
+  importedResponses.forEach((rawResponse, index) => {
+    const response = normalizeImportedResponse(rawResponse, index);
+    const companyIndex =
+      byName.get(normalizeKey(response.companyName)) ??
+      byEmail.get(normalizeEmail(response.matchEmail)) ??
+      byEmail.get(normalizeEmail(response.from)) ??
+      byDomain.get(extractDomain(response.matchEmail)) ??
+      byDomain.get(extractDomain(response.from));
+
+    if (companyIndex === undefined) {
+      unmatchedResponses += 1;
+      return;
+    }
+
+    const company = companies[companyIndex];
+    const duplicate = company.responses.some((existing) => {
+      if (response.id && existing.id === response.id) return true;
+      return (
+        normalizeEmail(existing.from) === normalizeEmail(response.from) &&
+        existing.subject === response.subject &&
+        existing.date === response.date &&
+        existing.summary === response.summary
+      );
+    });
+
+    if (!duplicate) {
+      company.responses = [...company.responses, response];
+      addedResponses += 1;
+    }
+
+    const nextStatus = inferStatusFromResponse(response, company.status);
+    if (nextStatus && company.status !== nextStatus) {
+      company.status = nextStatus;
+    }
+
+    if (!company.appliedDate && ACTIVE_OUTREACH_STATUSES.has(nextStatus)) {
+      company.appliedDate = today();
+    }
+
+    if (!matchedCompanyIds.has(company.id)) {
+      matchedCompanyIds.add(company.id);
+      matchedCompanies += 1;
+    }
+  });
+
+  return {
+    companies,
+    matchedCompanies,
+    addedResponses,
+    unmatchedResponses,
+  };
+};
+
+const getNextStep = (company) => {
+  const daysSinceApplied = getDaysSince(company.appliedDate);
+
+  switch (company.status) {
+    case "Pending":
+      return "Verify the best contact and send the first outreach.";
+    case "Sent":
+      if (daysSinceApplied !== null && daysSinceApplied >= 5) {
+        return "It has been quiet for a few days, so this is ready for a follow-up.";
+      }
+      return "Wait for a reply, then move to follow-up if the inbox stays quiet.";
+    case "Follow Up":
+      return "Send a concise follow-up and reference the original application.";
+    case "Replied":
+      return "Capture the reply details and respond while the thread is warm.";
+    case "Interview":
+      return "Prep examples, availability, and role-specific questions.";
+    case "Declined":
+      return "Archive the thread and move attention to active opportunities.";
+    case "Not Applied":
+      return "Re-check fit before investing time in outreach.";
+    default:
+      return "Review the current thread and update the next step.";
+  }
+};
+
+const getPriorityWeight = (company) => {
+  const daysSinceApplied = getDaysSince(company.appliedDate) || 0;
+
+  if (company.status === "Interview") return 1000 + daysSinceApplied;
+  if (company.status === "Replied") return 900 + daysSinceApplied;
+  if (company.status === "Follow Up") return 800 + daysSinceApplied;
+  if (company.status === "Sent") return 700 + Math.min(daysSinceApplied, 30);
+  if (company.status === "Pending") return 500;
+  if (company.status === "Not Applied") return 300;
+  if (company.status === "Declined") return 100;
+  return 0;
+};
+
+const compareCompanies = (left, right) => {
+  const priorityDifference = getPriorityWeight(right) - getPriorityWeight(left);
+  if (priorityDifference !== 0) return priorityDifference;
+
+  const responseDifference =
+    getDateValue(getLatestResponse(right)?.date) - getDateValue(getLatestResponse(left)?.date);
+  if (responseDifference !== 0) return responseDifference;
+
+  const appliedDifference = getDateValue(right.appliedDate) - getDateValue(left.appliedDate);
+  if (appliedDifference !== 0) return appliedDifference;
+
+  return left.companyNumber - right.companyNumber;
+};
 
 function App() {
   const fileInputRef = useRef(null);
+  const replyFileInputRef = useRef(null);
   const [companies, setCompanies] = useState(readStoredCompanies);
+  const companiesRef = useRef(companies);
   const [filters, setFilters] = useState(emptyFilters);
   const [notice, setNotice] = useState("");
+  const [replyImportText, setReplyImportText] = useState("");
+  const [replyImportModalOpen, setReplyImportModalOpen] = useState(false);
+  const [replyImportState, setReplyImportState] = useState({
+    phase: "idle",
+    error: "",
+  });
+
+  useEffect(() => {
+    companiesRef.current = companies;
+  }, [companies]);
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(companies));
   }, [companies]);
+
+  useEffect(() => {
+    if (!notice) return undefined;
+
+    const timeoutId = window.setTimeout(() => setNotice(""), 4200);
+    return () => window.clearTimeout(timeoutId);
+  }, [notice]);
 
   const locations = useMemo(() => {
     return [...new Set(companies.map((company) => company.location).filter(Boolean))].sort((a, b) =>
@@ -108,6 +424,40 @@ function App() {
     );
   }, [companies]);
 
+  const responseMetrics = useMemo(() => {
+    return companies.reduce(
+      (acc, company) => {
+        const latestResponse = getLatestResponse(company);
+
+        if (hasResponse(company)) {
+          acc.respondedCompanies += 1;
+          acc.totalResponses += getResponseCount(company);
+        }
+
+        if (ACTIVE_OUTREACH_STATUSES.has(company.status)) {
+          acc.awaitingReply += 1;
+        }
+
+        if (RESPONSE_STATUSES.has(company.status) && company.responses.length === 0) {
+          acc.missingReplyDetails += 1;
+        }
+
+        if (latestResponse?.date && getDateValue(latestResponse.date) > getDateValue(acc.latestResponseDate)) {
+          acc.latestResponseDate = latestResponse.date;
+        }
+
+        return acc;
+      },
+      {
+        respondedCompanies: 0,
+        totalResponses: 0,
+        awaitingReply: 0,
+        missingReplyDetails: 0,
+        latestResponseDate: "",
+      },
+    );
+  }, [companies]);
+
   const filteredCompanies = useMemo(() => {
     const query = filters.query.trim().toLowerCase();
 
@@ -115,9 +465,19 @@ function App() {
       const matchesSearch = !query || buildSearchText(company).includes(query);
       const matchesStatus = filters.status === "All" || company.status === filters.status;
       const matchesLocation = filters.location === "All" || company.location === filters.location;
-      return matchesSearch && matchesStatus && matchesLocation;
+      const matchesResponse =
+        filters.response === "All" ||
+        (filters.response === "Responded" && hasResponse(company)) ||
+        (filters.response === "Awaiting reply" && !hasResponse(company));
+
+      return matchesSearch && matchesStatus && matchesLocation && matchesResponse;
     });
   }, [companies, filters]);
+
+  const sortedFilteredCompanies = useMemo(
+    () => [...filteredCompanies].sort(compareCompanies),
+    [filteredCompanies],
+  );
 
   const updateStatus = (companyId, status) => {
     setCompanies((current) =>
@@ -130,6 +490,64 @@ function App() {
         };
       }),
     );
+  };
+
+  const importReplySource = async ({ text, fileName, sourceLabel }) => {
+    setReplyImportState({ phase: "processing", error: "" });
+
+    try {
+      const parsed = parseReplyImportSource({ text, fileName });
+      const companySnapshot = companiesRef.current;
+      const mergeResult = mergeResponsesIntoCompanies(companySnapshot, parsed.responses);
+      const duplicateResponses = Math.max(
+        parsed.responses.length - mergeResult.addedResponses - mergeResult.unmatchedResponses,
+        0,
+      );
+
+      setCompanies(mergeResult.companies);
+      setReplyImportText("");
+      setReplyImportModalOpen(false);
+      setReplyImportState({ phase: "idle", error: "" });
+      setNotice(
+        `Imported ${mergeResult.addedResponses} ${mergeResult.addedResponses === 1 ? "reply" : "replies"} from ${sourceLabel}${duplicateResponses ? `, skipped ${duplicateResponses} duplicates` : ""}${mergeResult.unmatchedResponses ? `, skipped ${mergeResult.unmatchedResponses} unmatched` : ""}.`,
+      );
+    } catch (error) {
+      setReplyImportState({
+        phase: "idle",
+        error: error?.message || "Reply import failed.",
+      });
+    }
+  };
+
+  const importReplyFile = async (event) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    try {
+      const text = await file.text();
+      await importReplySource({
+        text,
+        fileName: file.name,
+        sourceLabel: file.name,
+      });
+    } finally {
+      event.target.value = "";
+    }
+  };
+
+  const importPastedReplies = async () => {
+    if (!replyImportText.trim()) {
+      setReplyImportState({
+        phase: "idle",
+        error: "Paste a raw email, a Gmail Takeout .mbox dump, or JSON before importing.",
+      });
+      return;
+    }
+
+    await importReplySource({
+      text: replyImportText,
+      sourceLabel: "pasted replies",
+    });
   };
 
   const exportJson = () => {
@@ -150,14 +568,39 @@ function App() {
     try {
       const text = await file.text();
       const parsed = JSON.parse(text);
-      const list = Array.isArray(parsed) ? parsed : parsed.companies;
+      const companyList = Array.isArray(parsed)
+        ? parsed.every(looksLikeCompanyRecord)
+          ? parsed
+          : null
+        : Array.isArray(parsed.companies)
+          ? parsed.companies
+          : null;
+      const responseList =
+        !Array.isArray(parsed) && Array.isArray(parsed.responses)
+          ? parsed.responses
+          : !Array.isArray(parsed) && Array.isArray(parsed.gmailResponses)
+            ? parsed.gmailResponses
+            : null;
 
-      if (!Array.isArray(list)) {
-        throw new Error("JSON must be an array or an object with a companies array.");
+      if (!companyList && !responseList) {
+        throw new Error(
+          "JSON must be a company list, an object with a companies array, or an object with a responses array.",
+        );
       }
 
-      setCompanies(list.map(normalizeCompany));
-      setNotice(`Imported ${list.length} companies from JSON.`);
+      const baseCompanies = companyList ? companyList.map(normalizeCompany) : companies;
+
+      if (responseList) {
+        const result = mergeResponsesIntoCompanies(baseCompanies, responseList);
+        setCompanies(result.companies);
+        setNotice(
+          `Imported ${result.addedResponses} response${result.addedResponses === 1 ? "" : "s"} across ${result.matchedCompanies} compan${result.matchedCompanies === 1 ? "y" : "ies"}${result.unmatchedResponses ? `, skipped ${result.unmatchedResponses} unmatched` : ""}.`,
+        );
+        return;
+      }
+
+      setCompanies(baseCompanies);
+      setNotice(`Imported ${baseCompanies.length} companies from JSON.`);
     } catch (error) {
       setNotice(`Import failed: ${error.message}`);
     } finally {
@@ -168,21 +611,23 @@ function App() {
   const resetData = () => {
     setCompanies(originalCompanies);
     setFilters(emptyFilters);
-    setNotice("Reset to the original company list and outreach merge.");
+    setReplyImportText("");
+    setReplyImportModalOpen(false);
+    setReplyImportState({ phase: "idle", error: "" });
+    setNotice("Reset to the original company list, outreach merge, and cleared imported replies.");
   };
 
   return (
-    <main className="min-h-screen px-4 py-6 text-slate-900 sm:px-6 lg:px-8">
-      <div className="mx-auto max-w-7xl">
-        <Hero total={counts.total} sent={counts.Sent || 0} />
+    <main className="min-h-screen px-4 py-4 text-slate-900 sm:px-6 lg:px-8">
+      <div className="w-full">
+        <Stats counts={counts} responseMetrics={responseMetrics} />
 
-        <Stats counts={counts} />
-
-        <section className="mt-6 rounded-[2rem] border border-white/70 bg-white/82 p-4 shadow-soft backdrop-blur sm:p-5">
+        <section className="premium-panel animate-fade-up mt-4 rounded-[2rem] p-4 sm:p-5">
           <Toolbar
             filters={filters}
             setFilters={setFilters}
             locations={locations}
+            onImportReplies={() => setReplyImportModalOpen(true)}
             onExport={exportJson}
             onImport={() => fileInputRef.current?.click()}
             onReset={resetData}
@@ -198,65 +643,65 @@ function App() {
             onChange={importJson}
           />
 
+          <input
+            ref={replyFileInputRef}
+            type="file"
+            accept=".json,.txt,.mbox,.eml,.mime"
+            className="hidden"
+            onChange={importReplyFile}
+          />
+
           {notice ? (
-            <div className="mt-4 rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-700">
+            <div className="animate-fade-up mt-4 rounded-[1.5rem] border border-emerald-100 bg-white/80 px-4 py-3 text-sm text-slate-700 shadow-[0_18px_40px_-34px_rgba(15,23,42,0.5)]">
               {notice}
             </div>
           ) : null}
 
-          <CompanyTable companies={filteredCompanies} onStatusChange={updateStatus} />
-          <CompanyCards companies={filteredCompanies} onStatusChange={updateStatus} />
+          <CompanyTable companies={sortedFilteredCompanies} onStatusChange={updateStatus} />
+          <CompanyCards companies={sortedFilteredCompanies} onStatusChange={updateStatus} />
+
+          <InsightStrip counts={counts} responseMetrics={responseMetrics} />
         </section>
+
+        <ReplyImportModal
+          open={replyImportModalOpen}
+          text={replyImportText}
+          onTextChange={setReplyImportText}
+          onClose={() => {
+            setReplyImportModalOpen(false);
+            setReplyImportState({ phase: "idle", error: "" });
+          }}
+          onImportFile={() => replyFileInputRef.current?.click()}
+          onImportPaste={importPastedReplies}
+          state={replyImportState}
+        />
       </div>
     </main>
   );
 }
 
-function Hero({ total, sent }) {
-  return (
-    <header className="overflow-hidden rounded-[2.5rem] border border-white/70 bg-[#24352f] px-6 py-8 text-white shadow-soft sm:px-8 lg:px-10">
-      <div className="flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
-        <div className="max-w-3xl">
-          <p className="text-sm font-semibold uppercase tracking-[0.26em] text-[#e8c872]">
-            Adarsh Pathania
-          </p>
-          <h1 className="mt-4 text-3xl font-extrabold tracking-tight sm:text-5xl">
-            Company application tracker
-          </h1>
-          <p className="mt-4 max-w-2xl text-base leading-7 text-white/75">
-            A searchable, editable tracker for every company in the outreach lists, merged with
-            verified sent-email data from the existing markdown tracker.
-          </p>
-        </div>
-        <div className="grid grid-cols-2 gap-3 sm:min-w-80">
-          <div className="rounded-3xl border border-white/10 bg-white/10 p-4">
-            <p className="text-sm text-white/60">Companies</p>
-            <p className="mt-1 text-3xl font-bold">{total}</p>
-          </div>
-          <div className="rounded-3xl border border-white/10 bg-white/10 p-4">
-            <p className="text-sm text-white/60">Already sent</p>
-            <p className="mt-1 text-3xl font-bold">{sent}</p>
-          </div>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-function Stats({ counts }) {
+function Stats({ counts, responseMetrics }) {
   const cards = [
-    { label: "Total companies", value: counts.total || 0 },
-    ...trackedCounters.map((status) => ({ label: status, value: counts[status] || 0 })),
+    { label: "Companies", value: counts.total || 0, tone: "text-slate-700" },
+    { label: "Outreach sent", value: counts.Sent || 0, tone: "text-emerald-700" },
+    { label: "Responses tracked", value: responseMetrics.respondedCompanies, tone: "text-sky-700" },
+    { label: "Interviews", value: counts.Interview || 0, tone: "text-indigo-700" },
+    { label: "Pending", value: counts.Pending || 0, tone: "text-amber-700" },
+    { label: "Declined", value: counts.Declined || 0, tone: "text-rose-700" },
   ];
 
   return (
-    <section className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-6">
-      {cards.map((card) => (
-        <div key={card.label} className="rounded-3xl border border-white/80 bg-white/78 p-4 shadow-sm">
-          <p className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">
+    <section className="grid gap-3 sm:grid-cols-2 lg:grid-cols-6">
+      {cards.map((card, index) => (
+        <div
+          key={card.label}
+          className="premium-card animate-fade-up rounded-[1.7rem] p-4"
+          style={{ animationDelay: `${index * 70}ms` }}
+        >
+          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">
             {card.label}
           </p>
-          <p className="mt-2 text-3xl font-extrabold text-slate-900">{card.value}</p>
+          <p className={`mt-3 font-display text-3xl ${card.tone}`}>{card.value}</p>
         </div>
       ))}
     </section>
@@ -267,6 +712,7 @@ function Toolbar({
   filters,
   setFilters,
   locations,
+  onImportReplies,
   onExport,
   onImport,
   onReset,
@@ -275,14 +721,14 @@ function Toolbar({
 }) {
   return (
     <div className="grid gap-4 lg:grid-cols-[1fr_auto] lg:items-end">
-      <div className="grid gap-3 md:grid-cols-[1.4fr_0.8fr_0.8fr]">
+      <div className="grid gap-3 md:grid-cols-[1.45fr_0.75fr_0.75fr_0.85fr]">
         <label className="block">
           <span className="text-sm font-semibold text-slate-700">Search everything</span>
           <input
             value={filters.query}
             onChange={(event) => setFilters((current) => ({ ...current, query: event.target.value }))}
-            placeholder="Company, role, location, email, status, notes..."
-            className="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-slate-400 focus:ring-4 focus:ring-slate-200"
+            placeholder="Company, role, reply summary, sender, notes..."
+            className="mt-2 w-full rounded-[1.35rem] border border-white/60 bg-white/88 px-4 py-3 text-sm outline-none transition focus:border-slate-300 focus:ring-4 focus:ring-slate-200/80"
           />
         </label>
 
@@ -299,37 +745,118 @@ function Toolbar({
           onChange={(value) => setFilters((current) => ({ ...current, location: value }))}
           options={["All", ...locations]}
         />
+
+        <SelectField
+          label="Replies"
+          value={filters.response}
+          onChange={(value) => setFilters((current) => ({ ...current, response: value }))}
+          options={responseOptions}
+        />
       </div>
 
       <div className="flex flex-wrap items-center gap-2 lg:justify-end">
         <p className="mr-auto text-sm font-medium text-slate-500 lg:mr-2">
           Showing {visibleCount} of {totalCount}
         </p>
-        <button
-          onClick={() => setFilters(emptyFilters)}
-          className="rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
-        >
-          Clear
-        </button>
-        <button
-          onClick={onImport}
-          className="rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-slate-50"
-        >
-          Import JSON
-        </button>
-        <button
-          onClick={onExport}
-          className="rounded-2xl bg-[#24352f] px-4 py-3 text-sm font-semibold text-white transition hover:bg-[#18241f]"
-        >
-          Export JSON
-        </button>
+        <ToolbarButton onClick={() => setFilters(emptyFilters)} label="Clear" />
+        <ToolbarButton onClick={onImportReplies} label="Import Replies" />
+        <ToolbarButton onClick={onImport} label="Import Data" />
+        <ToolbarButton onClick={onExport} label="Export JSON" emphasis />
         <button
           onClick={onReset}
-          className="rounded-2xl border border-rose-200 bg-rose-50 px-4 py-3 text-sm font-semibold text-rose-700 transition hover:bg-rose-100"
+          className="rounded-[1.25rem] border border-rose-200/80 bg-rose-50/80 px-4 py-3 text-sm font-semibold text-rose-700 transition duration-200 hover:-translate-y-0.5 hover:bg-rose-100"
         >
           Reset
         </button>
       </div>
+    </div>
+  );
+}
+
+function ToolbarButton({ onClick, label, emphasis = false }) {
+  return (
+    <button
+      onClick={onClick}
+      className={
+        emphasis
+          ? "rounded-[1.25rem] bg-[#24352f] px-4 py-3 text-sm font-semibold text-white shadow-[0_16px_36px_-24px_rgba(17,24,39,0.72)] transition duration-200 hover:-translate-y-0.5 hover:bg-[#18241f]"
+          : "rounded-[1.25rem] border border-white/70 bg-white/82 px-4 py-3 text-sm font-semibold text-slate-700 transition duration-200 hover:-translate-y-0.5 hover:border-slate-200 hover:bg-white"
+      }
+    >
+      {label}
+    </button>
+  );
+}
+
+function ReplyImportModal({ open, text, onTextChange, onClose, onImportFile, onImportPaste, state }) {
+  if (!open) return null;
+
+  return (
+    <div className="fixed inset-0 z-40 flex items-center justify-center bg-slate-950/30 px-4 py-6 backdrop-blur-sm">
+      <section className="premium-panel w-full max-w-4xl rounded-[2rem] p-5 sm:p-6">
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-slate-500">
+              Local Reply Import
+            </p>
+            <h2 className="mt-2 font-display text-3xl text-slate-950">Import replies without Google OAuth</h2>
+            <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">
+              Paste a raw email, Gmail "Show original" content, JSON, or import a Gmail Takeout{" "}
+              <code>.mbox</code> file. The tracker will match replies back to company contacts and update
+              statuses locally.
+            </p>
+          </div>
+
+          <button
+            onClick={onClose}
+            className="rounded-full border border-white/70 bg-white/82 px-4 py-2 text-sm font-semibold text-slate-700 transition duration-200 hover:bg-white"
+          >
+            Close
+          </button>
+        </div>
+
+        <div className="mt-5 flex flex-wrap gap-2">
+          <MetaPill>Supports .mbox</MetaPill>
+          <MetaPill>Supports .eml</MetaPill>
+          <MetaPill>Supports JSON</MetaPill>
+          <MetaPill>Paste raw email text</MetaPill>
+        </div>
+
+        <div className="mt-5 flex flex-wrap gap-3">
+          <ToolbarButton onClick={onImportFile} label="Choose Reply File" />
+          <ToolbarButton onClick={onImportPaste} label="Import Pasted Replies" emphasis />
+        </div>
+
+        <label className="mt-5 block">
+          <span className="text-sm font-semibold text-slate-700">Paste raw message or export text</span>
+          <textarea
+            value={text}
+            onChange={(event) => onTextChange(event.target.value)}
+            placeholder={"From: recruiter@company.com\nSubject: Interview for Frontend Role\nDate: Tue, 13 May 2026 10:00:00 +0530\n\nThanks for applying..."}
+            className="mt-2 min-h-[280px] w-full rounded-[1.35rem] border border-white/60 bg-white/88 px-4 py-3 text-sm leading-6 outline-none transition focus:border-slate-300 focus:ring-4 focus:ring-slate-200/80"
+          />
+        </label>
+
+        <p className="mt-3 text-xs leading-6 text-slate-500">
+          Best results come from exact tracked contact emails or unique company domains. Generic public
+          mailboxes like Gmail or Outlook only match when that exact sender address is already saved for a
+          company.
+        </p>
+
+        {state.error ? (
+          <div className="mt-4 rounded-[1.4rem] border border-rose-200/80 bg-rose-50/85 px-4 py-3 text-sm text-rose-700">
+            {state.error}
+          </div>
+        ) : null}
+
+        <button
+          onClick={onImportPaste}
+          disabled={state.phase !== "idle"}
+          className="mt-5 rounded-[1.3rem] bg-[#24352f] px-5 py-3 text-sm font-semibold text-white shadow-[0_16px_36px_-24px_rgba(17,24,39,0.72)] transition duration-200 hover:-translate-y-0.5 hover:bg-[#18241f] disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:translate-y-0"
+        >
+          {state.phase === "processing" ? "Importing..." : "Import Replies"}
+        </button>
+      </section>
     </div>
   );
 }
@@ -341,7 +868,7 @@ function SelectField({ label, value, onChange, options }) {
       <select
         value={value}
         onChange={(event) => onChange(event.target.value)}
-        className="mt-2 w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-slate-400 focus:ring-4 focus:ring-slate-200"
+        className="mt-2 w-full rounded-[1.35rem] border border-white/60 bg-white/88 px-4 py-3 text-sm outline-none transition focus:border-slate-300 focus:ring-4 focus:ring-slate-200/80"
       >
         {options.map((option) => (
           <option key={option} value={option}>
@@ -353,45 +880,91 @@ function SelectField({ label, value, onChange, options }) {
   );
 }
 
+function InsightStrip({ counts, responseMetrics }) {
+  const items = [
+    {
+      label: "Awaiting reply",
+      value: responseMetrics.awaitingReply,
+      tone: "text-amber-700",
+      caption: "Sent or follow-up companies still waiting on a response.",
+    },
+    {
+      label: "Responses tracked",
+      value: responseMetrics.respondedCompanies,
+      tone: "text-sky-700",
+      caption: "Threads that have already moved beyond first outreach.",
+    },
+    {
+      label: "Interview pipeline",
+      value: counts.Interview || 0,
+      tone: "text-indigo-700",
+      caption: "Highest-priority conversations that need active prep.",
+    },
+    {
+      label: "Reply detail missing",
+      value: responseMetrics.missingReplyDetails,
+      tone: "text-slate-700",
+      caption: "Statuses updated without the actual reply summary captured.",
+    },
+  ];
+
+  return (
+    <div className="mt-5 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
+      {items.map((item, index) => (
+        <div
+          key={item.label}
+          className="premium-card animate-fade-up rounded-[1.5rem] px-4 py-4"
+          style={{ animationDelay: `${index * 60}ms` }}
+        >
+          <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">
+            {item.label}
+          </p>
+          <p className={`mt-2 text-2xl font-bold ${item.tone}`}>{item.value}</p>
+          <p className="mt-2 text-sm leading-6 text-slate-500">{item.caption}</p>
+        </div>
+      ))}
+    </div>
+  );
+}
+
 function CompanyTable({ companies, onStatusChange }) {
   return (
-    <div className="mt-5 hidden overflow-hidden rounded-3xl border border-slate-200 bg-white xl:block">
-      <div className="max-h-[70vh] overflow-auto">
-        <table className="w-full min-w-[1180px] border-collapse text-left text-sm">
-          <thead className="sticky top-0 z-10 bg-slate-50 text-xs uppercase tracking-[0.16em] text-slate-500">
+    <div className="mt-6 hidden overflow-hidden rounded-[1.9rem] border border-white/70 bg-white/72 shadow-[0_28px_70px_-48px_rgba(15,23,42,0.52)] xl:block">
+      <div className="max-h-[72vh] overflow-auto">
+        <table className="w-full min-w-[1340px] border-collapse text-left text-sm">
+          <thead className="sticky top-0 z-10 bg-[rgba(250,247,241,0.94)] text-[11px] uppercase tracking-[0.22em] text-slate-500 backdrop-blur">
             <tr>
               <th className="px-4 py-4 font-bold">#</th>
               <th className="px-4 py-4 font-bold">Company</th>
-              <th className="px-4 py-4 font-bold">Role</th>
-              <th className="px-4 py-4 font-bold">Location</th>
-              <th className="px-4 py-4 font-bold">Size</th>
-              <th className="px-4 py-4 font-bold">Applied</th>
+              <th className="px-4 py-4 font-bold">Snapshot</th>
+              <th className="px-4 py-4 font-bold">Outreach</th>
+              <th className="px-4 py-4 font-bold">Response</th>
               <th className="px-4 py-4 font-bold">Status</th>
               <th className="px-4 py-4 font-bold">Links</th>
-              <th className="px-4 py-4 font-bold">Basic info</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-slate-100">
+          <tbody className="divide-y divide-slate-200/70">
             {companies.map((company) => (
-              <tr key={company.id} className="align-top transition hover:bg-slate-50/70">
-                <td className="px-4 py-4 font-semibold text-slate-500">{company.companyNumber}</td>
-                <td className="px-4 py-4">
-                  <p className="font-bold text-slate-950">{company.companyName}</p>
+              <tr key={company.id} className="align-top transition duration-300 hover:bg-[#f8f5ef]/78">
+                <td className="px-4 py-5 font-semibold text-slate-500">{company.companyNumber}</td>
+                <td className="min-w-[18rem] px-4 py-5">
+                  <p className="text-base font-bold text-slate-950">{company.companyName}</p>
                   <EmailList emails={company.emails} />
                 </td>
-                <td className="px-4 py-4 text-slate-700">{company.roleTarget}</td>
-                <td className="px-4 py-4 text-slate-700">{company.location}</td>
-                <td className="px-4 py-4 text-slate-600">{company.companySize || "Unknown"}</td>
-                <td className="px-4 py-4 text-slate-600">{company.appliedDate || "-"}</td>
-                <td className="px-4 py-4">
+                <td className="min-w-[17rem] px-4 py-5">
+                  <SnapshotCell company={company} />
+                </td>
+                <td className="min-w-[18rem] px-4 py-5">
+                  <OutreachCell company={company} />
+                </td>
+                <td className="min-w-[20rem] px-4 py-5">
+                  <ResponseCell company={company} />
+                </td>
+                <td className="min-w-[12rem] px-4 py-5">
                   <StatusSelect company={company} onStatusChange={onStatusChange} />
                 </td>
-                <td className="px-4 py-4">
+                <td className="px-4 py-5">
                   <LinkStack company={company} />
-                </td>
-                <td className="max-w-sm px-4 py-4 text-slate-600">
-                  <p>{company.basicInfo}</p>
-                  {company.notes ? <p className="mt-2 text-xs leading-5 text-slate-500">{company.notes}</p> : null}
                 </td>
               </tr>
             ))}
@@ -405,24 +978,37 @@ function CompanyTable({ companies, onStatusChange }) {
 
 function CompanyCards({ companies, onStatusChange }) {
   return (
-    <div className="mt-5 grid gap-4 xl:hidden">
-      {companies.map((company) => (
-        <article key={company.id} className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm">
+    <div className="mt-6 grid gap-4 xl:hidden">
+      {companies.map((company, index) => (
+        <article
+          key={company.id}
+          className="premium-card animate-fade-up rounded-[1.8rem] p-5"
+          style={{ animationDelay: `${index * 55}ms` }}
+        >
           <div className="flex items-start justify-between gap-4">
-            <div>
-              <p className="text-xs font-bold uppercase tracking-[0.18em] text-slate-400">
+            <div className="min-w-0">
+              <p className="text-[11px] font-bold uppercase tracking-[0.22em] text-slate-400">
                 #{company.companyNumber}
               </p>
-              <h2 className="mt-1 text-lg font-extrabold text-slate-950">{company.companyName}</h2>
+              <h2 className="mt-2 text-xl font-bold text-slate-950">{company.companyName}</h2>
+              <EmailList emails={company.emails} />
             </div>
             <StatusBadge status={company.status} />
           </div>
 
-          <div className="mt-4 grid gap-3 text-sm text-slate-700 sm:grid-cols-2">
-            <InfoLine label="Role" value={company.roleTarget} />
+          <div className="mt-5 grid gap-3 text-sm text-slate-700 sm:grid-cols-3">
+            <InfoLine label="Role focus" value={company.roleTarget} />
             <InfoLine label="Location" value={company.location} />
             <InfoLine label="Size" value={company.companySize || "Unknown"} />
-            <InfoLine label="Applied" value={company.appliedDate || "-"} />
+          </div>
+
+          <div className="mt-4 grid gap-3 lg:grid-cols-[0.92fr_1.08fr]">
+            <PanelBlock title="Outreach">
+              <OutreachCell company={company} compact />
+            </PanelBlock>
+            <PanelBlock title="Response">
+              <ResponseCell company={company} compact />
+            </PanelBlock>
           </div>
 
           <div className="mt-4">
@@ -432,15 +1018,106 @@ function CompanyCards({ companies, onStatusChange }) {
           <div className="mt-4">
             <LinkStack company={company} />
           </div>
-
-          <EmailList emails={company.emails} />
-
-          <p className="mt-4 text-sm leading-6 text-slate-600">{company.basicInfo}</p>
-          {company.notes ? <p className="mt-2 text-xs leading-5 text-slate-500">{company.notes}</p> : null}
         </article>
       ))}
       {companies.length === 0 ? <EmptyState /> : null}
     </div>
+  );
+}
+
+function SnapshotCell({ company }) {
+  return (
+    <div className="space-y-3">
+      <MiniDetail label="Role focus" value={company.roleTarget} />
+      <div className="flex flex-wrap gap-2">
+        <MetaPill>{company.location || "Unknown location"}</MetaPill>
+        <MetaPill>{company.companySize || "Unknown size"}</MetaPill>
+      </div>
+    </div>
+  );
+}
+
+function OutreachCell({ company, compact = false }) {
+  return (
+    <div className={compact ? "space-y-3 text-sm" : "space-y-3"}>
+      <MiniDetail label="Applied" value={company.appliedDate ? formatDate(company.appliedDate) : "Not sent yet"} />
+      <div className="flex flex-wrap gap-2">
+        <MetaPill>{company.emails.length ? `${company.emails.length} contact${company.emails.length > 1 ? "s" : ""}` : "No email found"}</MetaPill>
+        <MetaPill>{company.website ? "Website found" : "Website missing"}</MetaPill>
+      </div>
+      {company.notes ? (
+        <p className="line-clamp-3 text-sm leading-6 text-slate-600" title={company.notes}>
+          {company.notes}
+        </p>
+      ) : (
+        <p className="text-sm text-slate-400">No outreach note saved.</p>
+      )}
+    </div>
+  );
+}
+
+function ResponseCell({ company, compact = false }) {
+  const latestResponse = getLatestResponse(company);
+  const responseCount = getResponseCount(company);
+  const tone = getResponseTone(company, latestResponse);
+  const summary = getResponseSummary(company, latestResponse);
+  const fromLabel = latestResponse?.from || "";
+  const dateLabel = latestResponse?.date ? formatCompactDate(latestResponse.date) : "";
+
+  return (
+    <div className={compact ? "space-y-3 text-sm" : "space-y-3"}>
+      <div className="flex flex-wrap items-center gap-2">
+        <span
+          className={`rounded-full border px-3 py-1 text-xs font-semibold ${
+            responseCount ? responseToneStyles[tone] : responseToneStyles.neutral
+          }`}
+        >
+          {responseCount ? `${responseCount} response${responseCount > 1 ? "s" : ""}` : "Awaiting reply"}
+        </span>
+        {fromLabel ? <MetaPill>{fromLabel}</MetaPill> : null}
+        {dateLabel ? <MetaPill>{dateLabel}</MetaPill> : null}
+      </div>
+
+      <p className="line-clamp-3 text-sm leading-6 text-slate-700" title={summary}>
+        {summary}
+      </p>
+
+      {latestResponse?.subject ? (
+        <p className="text-xs uppercase tracking-[0.18em] text-slate-400" title={latestResponse.subject}>
+          {latestResponse.subject}
+        </p>
+      ) : null}
+
+      <p className="text-sm leading-6 text-slate-500">
+        <span className="font-semibold text-slate-700">Next step:</span> {getNextStep(company)}
+      </p>
+    </div>
+  );
+}
+
+function PanelBlock({ title, children }) {
+  return (
+    <div className="rounded-[1.35rem] border border-white/70 bg-white/78 p-4">
+      <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">{title}</p>
+      <div className="mt-3">{children}</div>
+    </div>
+  );
+}
+
+function MiniDetail({ label, value }) {
+  return (
+    <div>
+      <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-slate-400">{label}</p>
+      <p className="mt-1 text-sm font-semibold leading-6 text-slate-800">{value}</p>
+    </div>
+  );
+}
+
+function MetaPill({ children }) {
+  return (
+    <span className="rounded-full border border-[#d8e2dc] bg-[#f4f8f5] px-3 py-1 text-xs font-semibold text-[#355246]">
+      {children}
+    </span>
   );
 }
 
@@ -449,7 +1126,7 @@ function StatusSelect({ company, onStatusChange }) {
     <select
       value={company.status}
       onChange={(event) => onStatusChange(company.id, event.target.value)}
-      className={`w-full rounded-2xl border px-3 py-2 text-sm font-bold outline-none transition focus:ring-4 focus:ring-slate-200 ${
+      className={`w-full rounded-[1.25rem] border px-3 py-2.5 text-sm font-bold outline-none transition focus:ring-4 focus:ring-slate-200 ${
         statusStyles[company.status] || statusStyles.Pending
       }`}
     >
@@ -465,7 +1142,7 @@ function StatusSelect({ company, onStatusChange }) {
 function StatusBadge({ status }) {
   return (
     <span
-      className={`rounded-full border px-3 py-1 text-xs font-bold ${
+      className={`rounded-full border px-3 py-1.5 text-xs font-bold ${
         statusStyles[status] || statusStyles.Pending
       }`}
     >
@@ -476,9 +1153,9 @@ function StatusBadge({ status }) {
 
 function InfoLine({ label, value }) {
   return (
-    <div className="rounded-2xl bg-slate-50 px-3 py-2">
-      <p className="text-xs font-bold uppercase tracking-[0.16em] text-slate-400">{label}</p>
-      <p className="mt-1 font-semibold">{value}</p>
+    <div className="rounded-[1.2rem] border border-white/70 bg-white/74 px-3 py-3">
+      <p className="text-[11px] font-bold uppercase tracking-[0.2em] text-slate-400">{label}</p>
+      <p className="mt-2 font-semibold leading-6">{value}</p>
     </div>
   );
 }
@@ -495,7 +1172,7 @@ function LinkStack({ company }) {
 function ExternalLink({ href, label }) {
   if (!href) {
     return (
-      <span className="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-semibold text-slate-400">
+      <span className="rounded-full border border-slate-200 bg-slate-50 px-3 py-1.5 text-xs font-semibold text-slate-400">
         {label}: Unknown
       </span>
     );
@@ -506,7 +1183,7 @@ function ExternalLink({ href, label }) {
       href={href}
       target="_blank"
       rel="noreferrer"
-      className="rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-bold text-slate-700 transition hover:border-slate-400 hover:text-slate-950"
+      className="rounded-full border border-white/80 bg-white px-3 py-1.5 text-xs font-bold text-slate-700 transition duration-200 hover:-translate-y-0.5 hover:border-slate-300 hover:text-slate-950"
     >
       {label}
     </a>
@@ -522,7 +1199,7 @@ function EmailList({ emails }) {
         <a
           key={email}
           href={`mailto:${email}`}
-          className="rounded-full bg-[#edf3ef] px-3 py-1 text-xs font-semibold text-[#355246] transition hover:bg-[#ddebe3]"
+          className="rounded-full bg-[#edf3ef] px-3 py-1 text-xs font-semibold text-[#355246] transition duration-200 hover:-translate-y-0.5 hover:bg-[#ddebe3]"
         >
           {email}
         </a>
@@ -533,9 +1210,11 @@ function EmailList({ emails }) {
 
 function EmptyState() {
   return (
-    <div className="rounded-3xl border border-dashed border-slate-300 bg-white p-10 text-center">
-      <p className="text-lg font-bold text-slate-900">No companies found</p>
-      <p className="mt-2 text-sm text-slate-500">Try clearing filters or searching for something broader.</p>
+    <div className="rounded-[1.8rem] border border-dashed border-slate-300 bg-white/78 p-10 text-center">
+      <p className="font-display text-3xl text-slate-900">No companies found</p>
+      <p className="mt-3 text-sm text-slate-500">
+        Try clearing filters or broadening the search query.
+      </p>
     </div>
   );
 }

@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        display: ["Fraunces", "ui-serif", "Georgia", "serif"],
         sans: ["Manrope", "ui-sans-serif", "system-ui", "sans-serif"],
       },
       boxShadow: {
