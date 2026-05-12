@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #172033;
+  background: #f6f4ef;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(249, 210, 121, 0.32), transparent 30rem),
+    radial-gradient(circle at 85% 15%, rgba(115, 151, 139, 0.18), transparent 28rem),
+    linear-gradient(180deg, #faf8f2 0%, #f2efe8 100%);
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: #24352f;
+  color: #fff9ee;
+}
