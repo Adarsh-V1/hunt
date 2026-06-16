@@ -1,0 +1,16 @@
+[
+  {"companyName":"CloudSmartz","roleTarget":"React Developer","recipientEmail":"info@cloudsmartz.com"},
+  {"companyName":"Firminiq Systems","roleTarget":"Node / Full-stack Developer","recipientEmail":"info@firminiq.com"},
+  {"companyName":"MGSmart Tech","roleTarget":"Full-stack Developer","recipientEmail":"hr@mgsmarttech.com"},
+  {"companyName":"Shine Web Services","roleTarget":"JavaScript Full-stack Developer","recipientEmail":"business@shinewebservices.com"},
+  {"companyName":"Outline Systems","roleTarget":"Software Developer","recipientEmail":"info@outlinesystemsindia.com"},
+  {"companyName":"Touchwood Technologies","roleTarget":"Web/frontend developer","recipientEmail":"info@touchwoodtechnologies.com"},
+  {"companyName":"Skynox Tech","roleTarget":"Web/frontend developer","recipientEmail":"info@skynox.tech"},
+  {"companyName":"Megamind Creations","roleTarget":"Web/frontend developer","recipientEmail":"info@megamindcreations.com"},
+  {"companyName":"Sensation Software Solutions","roleTarget":"Frontend/web developer","recipientEmail":"careers@sensationsolutions.com"},
+  {"companyName":"Netpyx","roleTarget":"React/web developer","recipientEmail":"careers@netpyx.net"},
+  {"companyName":"Scorpio Infotech","roleTarget":"Full-stack Developer","recipientEmail":"hardeepscorpio@gmail.com"},
+  {"companyName":"Kays Harbor Technologies","roleTarget":"Full-stack Developer","recipientEmail":"contactus@kaysharbor.com"},
+  {"companyName":"Brucode Technologies","roleTarget":"React / MERN Developer","recipientEmail":"info@brucode.com"},
+  {"companyName":"Deftsoft","roleTarget":"Frontend Developer","recipientEmail":"hr@deftsoft.com"}
+]

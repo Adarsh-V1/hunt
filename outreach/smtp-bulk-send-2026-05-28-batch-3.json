@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-05-28T01:45:36.968Z",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 4,
+  "failedCount": 0,
+  "skippedCount": 8,
+  "results": [
+    {
+      "no": 8,
+      "company": "DigiMantra Labs",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "hr@digimantra.com, hr.mohali@digimantra.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<a89389ae-fcc8-d7db-9be3-336b6e7ae1bf@gmail.com>",
+      "response": "250 2.0.0 OK  1779932720 d2e1a72fcca58-841dc8b56eesm3595922b3a.17 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@digimantra.com",
+        "hr.mohali@digimantra.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 7,
+      "company": "Pyramid Global Technologies",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "career@pyramidglobaltechnologies.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<da4734a8-be49-731d-7ecc-30bb90621c18@gmail.com>",
+      "response": "250 2.0.0 OK  1779932725 98e67ed59e1d1-36b909456ecsm218798a91.12 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "career@pyramidglobaltechnologies.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 11,
+      "company": "iApp Technologies",
+      "role": "Full Stack / React Native Developer",
+      "recipients": "salesteam@iapptechnologiesllp.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<f4c6015b-b07e-c892-1579-2c0041aae30b@gmail.com>",
+      "response": "250 2.0.0 OK  1779932730 d2e1a72fcca58-841d72f10casm3568708b3a.48 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "salesteam@iapptechnologiesllp.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 10,
+      "company": "Kryszna Cybersecurity",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "info@kryszna.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<38431201-3d46-4233-7406-f97f4b688df2@gmail.com>",
+      "response": "250 2.0.0 OK  1779932735 41be03b00d2f7-c852058557bsm13862397a12.30 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "info@kryszna.in"
+      ],
+      "rejected": []
+    }
+  ],
+  "skipped": [
+    {
+      "company": "NextPage IT Solutions",
+      "reason": "already sent today to hr@nextpageit.com and prior project history marks company as sent"
+    },
+    {
+      "company": "Rackron",
+      "reason": "already sent today to hr@rackron.com"
+    },
+    {
+      "company": "Sunfocus Solutions",
+      "reason": "already sent today to career.sunfocus@gmail.com and prior history exists"
+    },
+    {
+      "company": "Electrovese Solutions",
+      "reason": "prior project history already shows sent to hr@electrovese.com"
+    },
+    {
+      "company": "VT Netzwelt",
+      "reason": "prior project history already shows sent to recruiter@vtnetzwelt.com/careers@vtnetzwelt.com; info route was also sent today"
+    },
+    {
+      "company": "LuminoGuru",
+      "reason": "prior project history already marks company as sent"
+    },
+    {
+      "company": "Codetribe Solutions",
+      "reason": "already sent today to contact@codetribesolutions.com"
+    },
+    {
+      "company": "Kaspro Solutions",
+      "reason": "already sent today to sales@kasproit.com and prior history exists"
+    }
+  ]
+}

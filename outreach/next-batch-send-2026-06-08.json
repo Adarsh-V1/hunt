@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-06-08T17:56:37.176Z",
+  "subject": "Application for React / Full-Stack Role - Adarsh Pathania",
+  "resume": "Adarsh_Pathania_resume.pdf",
+  "total": 29,
+  "sent": 29,
+  "failed": 0,
+  "results": [
+    {
+      "companyName": "Alphabetum Technology",
+      "recipientEmail": "info@alphabetumtech.com",
+      "status": "Sent",
+      "messageId": "<d4cfb211-e038-b2fd-268d-6d663397160a@gmail.com>",
+      "response": "250 2.0.0 OK  1780941244 d2e1a72fcca58-84282882170sm20613379b3a.30 - gsmtp",
+      "accepted": [
+        "info@alphabetumtech.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "BaffleSol Technologies",
+      "recipientEmail": "sales@bafflesol.com",
+      "status": "Sent",
+      "messageId": "<136332fe-4eb2-d109-cb9d-202127aa3176@gmail.com>",
+      "response": "250 2.0.0 OK  1780941249 d9443c01a7336-2c164f6d37esm251103345ad.9 - gsmtp",
+      "accepted": [
+        "sales@bafflesol.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "CRM Masters Infotech LLP",
+      "recipientEmail": "info@crm-masters.com",
+      "status": "Sent",
+      "messageId": "<efef65c8-8e26-1cf7-a7dd-15a7ed8cc0d4@gmail.com>",
+      "response": "250 2.0.0 OK  1780941255 d2e1a72fcca58-842824a2600sm19680950b3a.27 - gsmtp",
+      "accepted": [
+        "info@crm-masters.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "DaasLabs",
+      "recipientEmail": "info@daaslabs.ai",
+      "status": "Sent",
+      "messageId": "<011a6c95-b2d1-1efa-3274-92e948745af6@gmail.com>",
+      "response": "250 2.0.0 OK  1780941261 98e67ed59e1d1-36f6c668e98sm17135114a91.5 - gsmtp",
+      "accepted": [
+        "info@daaslabs.ai"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Gomilestone Private Limited",
+      "recipientEmail": "info@gomilestone.com",
+      "status": "Sent",
+      "messageId": "<f287bd72-69cf-45ff-d54a-d8695d7ae3c6@gmail.com>",
+      "response": "250 2.0.0 OK  1780941265 41be03b00d2f7-c85df045c2csm15728488a12.12 - gsmtp",
+      "accepted": [
+        "info@gomilestone.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "iValuePlus Services Pvt. Ltd.",
+      "recipientEmail": "info@ivalueplus.com",
+      "status": "Sent",
+      "messageId": "<7f2295d6-debf-db32-a21d-9b791a34fc92@gmail.com>",
+      "response": "250 2.0.0 OK  1780941270 d2e1a72fcca58-84282221470sm20066485b3a.6 - gsmtp",
+      "accepted": [
+        "info@ivalueplus.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Lawrbit Lextech India Pvt. Ltd.",
+      "recipientEmail": "info@lawrbit.com",
+      "status": "Sent",
+      "messageId": "<5b063587-0156-4e8d-5e18-19a10df91f96@gmail.com>",
+      "response": "250 2.0.0 OK  1780941275 d9443c01a7336-2c16609e0bbsm189721955ad.50 - gsmtp",
+      "accepted": [
+        "info@lawrbit.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Monkhub Innovations",
+      "recipientEmail": "careers@monkhub.com",
+      "status": "Sent",
+      "messageId": "<95abecbd-eeb6-87b4-8672-0cb748c2d6b0@gmail.com>",
+      "response": "250 2.0.0 OK  1780941280 d9443c01a7336-2c16649d2dfsm187804875ad.75 - gsmtp",
+      "accepted": [
+        "careers@monkhub.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "MetaDesign Solutions",
+      "recipientEmail": "sales@metadesignsolutions.com",
+      "status": "Sent",
+      "messageId": "<308885a6-97c9-ec9d-c0b1-8de645ef94bc@gmail.com>",
+      "response": "250 2.0.0 OK  1780941285 d9443c01a7336-2c16629cfb4sm197945345ad.59 - gsmtp",
+      "accepted": [
+        "sales@metadesignsolutions.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Neuronimbus",
+      "recipientEmail": "info@neuronimbus.com",
+      "status": "Sent",
+      "messageId": "<d99b4588-4bb0-ba5d-ae52-268988943460@gmail.com>",
+      "response": "250 2.0.0 OK  1780941292 41be03b00d2f7-c85deeb2bdesm16124021a12.0 - gsmtp",
+      "accepted": [
+        "info@neuronimbus.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "KareXpert Technologies Private Limited",
+      "recipientEmail": "compliance@karexpert.com",
+      "status": "Sent",
+      "messageId": "<4dd0ee69-f928-6f4b-49f4-8854ee4fa70a@gmail.com>",
+      "response": "250 2.0.0 OK  1780941298 98e67ed59e1d1-36f6bf827e6sm20223819a91.1 - gsmtp",
+      "accepted": [
+        "compliance@karexpert.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Imenso Software",
+      "recipientEmail": "info@imensosoftware.com",
+      "status": "Sent",
+      "messageId": "<1b26a682-665e-1255-25f1-5468f56c7eeb@gmail.com>",
+      "response": "250 2.0.0 OK  1780941303 41be03b00d2f7-c85df0bd337sm16295801a12.29 - gsmtp",
+      "accepted": [
+        "info@imensosoftware.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Solis Technology Private Limited",
+      "recipientEmail": "solis@solistechnology.in",
+      "status": "Sent",
+      "messageId": "<90d61d70-dc0b-1aad-190f-51c6d37ff9dd@gmail.com>",
+      "response": "250 2.0.0 OK  1780941310 d9443c01a7336-2c166495203sm179987315ad.70 - gsmtp",
+      "accepted": [
+        "solis@solistechnology.in"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Quytech",
+      "recipientEmail": "hr@quytech.com",
+      "status": "Sent",
+      "messageId": "<4d4e6e89-e8e4-9b19-79db-4798ef432340@gmail.com>",
+      "response": "250 2.0.0 OK  1780941316 d2e1a72fcca58-84282375f2dsm19992346b3a.19 - gsmtp",
+      "accepted": [
+        "hr@quytech.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "LeewayHertz",
+      "recipientEmail": "jobs@leewayhertz.com",
+      "status": "Sent",
+      "messageId": "<6c01493f-0463-edba-d4f3-6e1650587596@gmail.com>",
+      "response": "250 2.0.0 OK  1780941321 d9443c01a7336-2c164f6d211sm191530625ad.3 - gsmtp",
+      "accepted": [
+        "jobs@leewayhertz.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Xeliumtech Solutions",
+      "recipientEmail": "hr@xeliumtech.com",
+      "status": "Sent",
+      "messageId": "<a9701f54-5b12-720f-990f-afe3e570d3c1@gmail.com>",
+      "response": "250 2.0.0 OK  1780941327 d2e1a72fcca58-84282883647sm21693835b3a.36 - gsmtp",
+      "accepted": [
+        "hr@xeliumtech.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "StartxLabs Technologies Private Limited",
+      "recipientEmail": "hr@startxlabs.com",
+      "status": "Sent",
+      "messageId": "<bedc8f8e-76d8-cb50-ed9e-0e3b0151d1f2@gmail.com>",
+      "response": "250 2.0.0 OK  1780941333 d2e1a72fcca58-84282883647sm21693998b3a.36 - gsmtp",
+      "accepted": [
+        "hr@startxlabs.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "CollegeDekho",
+      "recipientEmail": "hello@collegedekho.com",
+      "status": "Sent",
+      "messageId": "<76aa8294-483c-6f17-39f2-87def6384178@gmail.com>",
+      "response": "250 2.0.0 OK  1780941338 41be03b00d2f7-c85df0bdb98sm15338049a12.31 - gsmtp",
+      "accepted": [
+        "hello@collegedekho.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Kodehash Technologies",
+      "recipientEmail": "contact@kodehash.com",
+      "status": "Sent",
+      "messageId": "<08f2d517-104c-22f0-1175-7c187bbdaea5@gmail.com>",
+      "response": "250 2.0.0 OK  1780941343 d9443c01a7336-2c24edc8ad7sm62001275ad.42 - gsmtp",
+      "accepted": [
+        "contact@kodehash.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Promatics Technologies",
+      "recipientEmail": "join@promaticsindia.com",
+      "status": "Sent",
+      "messageId": "<dce93217-d0e4-399e-71ea-44687ea3a928@gmail.com>",
+      "response": "250 2.0.0 OK  1780941349 d9443c01a7336-2c164f6d211sm191537955ad.3 - gsmtp",
+      "accepted": [
+        "join@promaticsindia.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "TravelTriangle",
+      "recipientEmail": "customercare@traveltriangle.com",
+      "status": "Sent",
+      "messageId": "<38912fe4-bc6b-ba5d-5290-14a086914ced@gmail.com>",
+      "response": "250 2.0.0 OK  1780941354 98e67ed59e1d1-36f6bf830b2sm15364959a91.4 - gsmtp",
+      "accepted": [
+        "customercare@traveltriangle.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "ValueCoders",
+      "recipientEmail": "hello@valuecoders.com",
+      "status": "Sent",
+      "messageId": "<dafd02b0-3b2f-43b7-d40f-179d8a0020c5@gmail.com>",
+      "response": "250 2.0.0 OK  1780941360 d9443c01a7336-2c164f70660sm188535655ad.11 - gsmtp",
+      "accepted": [
+        "hello@valuecoders.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "NMG Technologies",
+      "recipientEmail": "hr@nmgtechnologies.com",
+      "status": "Sent",
+      "messageId": "<5622ae86-deec-f5fb-cd49-d18197f8ab0e@gmail.com>",
+      "response": "250 2.0.0 OK  1780941365 98e67ed59e1d1-36f6bf82841sm20022839a91.2 - gsmtp",
+      "accepted": [
+        "hr@nmgtechnologies.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Daffodil Software",
+      "recipientEmail": "info@daffodilsw.com",
+      "status": "Sent",
+      "messageId": "<bc5d493d-6a23-f4cd-3df9-3758d65f78ae@gmail.com>",
+      "response": "250 2.0.0 OK  1780941370 d9443c01a7336-2c16609e573sm190880705ad.47 - gsmtp",
+      "accepted": [
+        "info@daffodilsw.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Dew Solutions",
+      "recipientEmail": "careers@dewsolutions.in",
+      "status": "Sent",
+      "messageId": "<85dfced5-420a-4be7-3f16-cde8bfc74242@gmail.com>",
+      "response": "250 2.0.0 OK  1780941375 98e67ed59e1d1-36f6c76f55asm16682193a91.7 - gsmtp",
+      "accepted": [
+        "careers@dewsolutions.in"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Nagarro",
+      "recipientEmail": "college.recruit@nagarro.com",
+      "status": "Sent",
+      "messageId": "<3d4c0d87-4981-f7ff-63d2-4263a611180a@gmail.com>",
+      "response": "250 2.0.0 OK  1780941380 d9443c01a7336-2c16649d2dfsm187828745ad.75 - gsmtp",
+      "accepted": [
+        "college.recruit@nagarro.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Technians Softech Pvt Ltd.",
+      "recipientEmail": "info@technians.com",
+      "status": "Sent",
+      "messageId": "<9c3ee5b1-b801-62fb-1b02-3bef6a7283cf@gmail.com>",
+      "response": "250 2.0.0 OK  1780941385 d2e1a72fcca58-8428291ed20sm23036419b3a.61 - gsmtp",
+      "accepted": [
+        "info@technians.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "Appinventiv",
+      "recipientEmail": "info@appinventiv.com",
+      "status": "Sent",
+      "messageId": "<ca4e2c17-20d0-dd08-3297-a3a82d43227e@gmail.com>",
+      "response": "250 2.0.0 OK  1780941391 d9443c01a7336-2c164f9ed6csm191032945ad.31 - gsmtp",
+      "accepted": [
+        "info@appinventiv.com"
+      ],
+      "rejected": []
+    },
+    {
+      "companyName": "EDIIIE",
+      "recipientEmail": "namaste@ediiie.com",
+      "status": "Sent",
+      "messageId": "<eb5f38ca-03c3-2362-6c37-6e4f0553a548@gmail.com>",
+      "response": "250 2.0.0 OK  1780941396 d9443c01a7336-2c1664ad138sm194440395ad.82 - gsmtp",
+      "accepted": [
+        "namaste@ediiie.com"
+      ],
+      "rejected": []
+    }
+  ]
+}

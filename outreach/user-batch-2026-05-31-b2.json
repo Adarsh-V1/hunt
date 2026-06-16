@@ -1,0 +1,17 @@
+[
+  {
+    "companyName": "Saviant Consulting",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "contact@saviantconsulting.com"
+  },
+  {
+    "companyName": "Sarvatra Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@sarvatra.in;contact@sarvatra.in"
+  },
+  {
+    "companyName": "Koru UX Design",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@koruux.com;sales@koruux.com"
+  }
+]

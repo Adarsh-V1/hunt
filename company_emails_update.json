@@ -1,0 +1,84 @@
+{
+  "companies": [
+    {
+      "companyName": "Appslin Private Limited",
+      "recipientEmail": "info@appslin.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Peakvisory Private Limited",
+      "recipientEmail": "info@peakvisory.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CipherStudio",
+      "recipientEmail": "hr@cipherstudio.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bebo Technologies",
+      "recipientEmail": "hiring@bebotechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Calsoft",
+      "recipientEmail": "info@calsoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Clerisy Solutions",
+      "recipientEmail": "info@clerisysolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Smarter.Codes",
+      "recipientEmail": "hello@smarter.codes",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IT Infonity",
+      "recipientEmail": "hrmanager@itinfonity.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netpyx",
+      "recipientEmail": "careers@netpyx.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sensation Software Solutions",
+      "recipientEmail": "hr@sensationsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lytegen",
+      "recipientEmail": "info@lytegen.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RGB Web Tech",
+      "recipientEmail": "contact@rgbwebtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VQCodes Software Solutions",
+      "recipientEmail": "info@vqcodes.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SuccessVisa",
+      "recipientEmail": "info@successvisa.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BIZBOOKS Solutions",
+      "recipientEmail": "support@bizbooks.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Brilliants Web",
+      "recipientEmail": "brilliantsweb2020@gmail.com",
+      "roleTarget": "Full-Stack Developer"
+    }
+  ]
+}

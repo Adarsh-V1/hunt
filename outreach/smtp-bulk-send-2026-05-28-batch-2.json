@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-05-28T01:41:08.222Z",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 8,
+  "failedCount": 0,
+  "skippedCount": 9,
+  "results": [
+    {
+      "no": 1,
+      "company": "NextPage IT Solutions",
+      "role": "React JS / Front-End Developer",
+      "recipients": "hr@nextpageit.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e012eeb6-f30f-a949-c9e0-9c87e8f4e854@gmail.com>",
+      "response": "250 2.0.0 OK  1779932432 d2e1a72fcca58-841d72f8c7esm3452560b3a.52 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@nextpageit.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 2,
+      "company": "Codetribe Solutions",
+      "role": "React JS / MERN Stack Developer",
+      "recipients": "contact@codetribesolutions.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<d23d981a-bc26-cc4e-d672-3cb7727a04b4@gmail.com>",
+      "response": "250 2.0.0 OK  1779932436 d9443c01a7336-2beb58c7046sm168650505ad.57 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "contact@codetribesolutions.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 3,
+      "company": "Sunfocus Solutions",
+      "role": "Node.js Developer",
+      "recipients": "career.sunfocus@gmail.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<115f97cf-169c-b807-859f-1048cebc66e3@gmail.com>",
+      "response": "250 2.0.0 OK  1779932441 d2e1a72fcca58-841d7301255sm3906713b3a.57 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "career.sunfocus@gmail.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 4,
+      "company": "Rackron",
+      "role": "MERN Stack Developer",
+      "recipients": "hr@rackron.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<812fc8b1-acb5-63f7-87b9-3a187e8417a4@gmail.com>",
+      "response": "250 2.0.0 OK  1779932446 d9443c01a7336-2beb5695f3dsm165192335ad.1 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@rackron.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 5,
+      "company": "Shopyvilla",
+      "role": "Full Stack Developer",
+      "recipients": "hr@shopyvilladevelopers.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<fcf5845b-3056-9125-18e8-dd9a894f9551@gmail.com>",
+      "response": "250 2.0.0 OK  1779932450 d9443c01a7336-2beb56f4343sm216961045ad.36 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@shopyvilladevelopers.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 6,
+      "company": "Genboot Private Limited",
+      "role": "MERN Stack Developer",
+      "recipients": "info@genboot.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<42425616-c557-01b5-6763-c29e9843cb5f@gmail.com>",
+      "response": "250 2.0.0 OK  1779932455 41be03b00d2f7-c85202902a6sm13368343a12.3 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "info@genboot.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 7,
+      "company": "Kaspro Solutions",
+      "role": "ReactJS Developer",
+      "recipients": "sales@kasproit.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<75ab343a-173f-7198-5006-61b393899ac7@gmail.com>",
+      "response": "250 2.0.0 OK  1779932460 41be03b00d2f7-c856399e12bsm79501a12.32 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "sales@kasproit.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 8,
+      "company": "VT Netzwelt",
+      "role": "Software Engineer - MEAN",
+      "recipients": "info@vtnetzwelt.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e77e3a4b-a6e2-476b-7eb9-1d0a11d82385@gmail.com>",
+      "response": "250 2.0.0 OK  1779932466 d2e1a72fcca58-841d6eb0313sm4591735b3a.13 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "info@vtnetzwelt.com"
+      ],
+      "rejected": []
+    }
+  ],
+  "skipped": [
+    {
+      "no": 9,
+      "company": "iApp Technologies",
+      "role": "Full Stack / React Native Developer",
+      "reason": "career page/resume upload route, no HR/careers email provided"
+    },
+    {
+      "no": 10,
+      "company": "SourceMash Technologies",
+      "role": "Junior Full Stack Developer",
+      "reason": "official careers apply form only"
+    },
+    {
+      "no": 11,
+      "company": "Walkwel Technology",
+      "role": "MERN Stack Developer",
+      "reason": "official HRPartner apply form only"
+    },
+    {
+      "no": 12,
+      "company": "NS Ventures",
+      "role": "Full Stack Developer",
+      "reason": "careers page found, no public HR email provided"
+    },
+    {
+      "no": 13,
+      "company": "Electrovese Solutions",
+      "role": "MERN Stack - Next.js",
+      "reason": "careers page found, no matching direct email provided"
+    },
+    {
+      "no": 14,
+      "company": "Euclide Software Solutions",
+      "role": "Frontend Developer",
+      "reason": "careers page found, no public HR email provided"
+    },
+    {
+      "no": 15,
+      "company": "Ocode Technologies",
+      "role": "Senior Front End Developer",
+      "reason": "opportunities page found, no clear email provided"
+    },
+    {
+      "no": 16,
+      "company": "Ditinus Technology",
+      "role": "React Full Stack Developer",
+      "reason": "contact/career route found, no clear public HR email provided"
+    },
+    {
+      "no": 17,
+      "company": "TRU IT / Tru India",
+      "role": "Software Developer - MERN",
+      "reason": "third-party apply routes only, no direct HR email provided"
+    }
+  ]
+}

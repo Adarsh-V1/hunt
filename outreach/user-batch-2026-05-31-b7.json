@@ -1,0 +1,17 @@
+[
+  {
+    "companyName": "VT Netzwelt",
+    "roleTarget": "Full Stack / MEAN / React",
+    "recipientEmail": "recruiter@vtnetzwelt.com"
+  },
+  {
+    "companyName": "Creatick Solutions",
+    "roleTarget": "React / Angular",
+    "recipientEmail": "hr@creaticksolutions.com;info@creaticksolutions.com"
+  },
+  {
+    "companyName": "Rackron",
+    "roleTarget": "MERN",
+    "recipientEmail": "hr@rackron.com"
+  }
+]

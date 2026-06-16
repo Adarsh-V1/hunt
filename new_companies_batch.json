@@ -1,0 +1,5784 @@
+{
+  "companies": [
+    {
+      "companyName": "Estuate",
+      "recipientEmail": "akhila@estuate.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Elsner Technologies",
+      "recipientEmail": "akriti@elsner.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TEKsystems Global Services in India",
+      "recipientEmail": "aarasina@teksystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Data Glove",
+      "recipientEmail": "aghosh@trimaxamericas.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fulcrum Digital Inc",
+      "recipientEmail": "anjali.sharma@fulcrumdigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NIIT Technologies",
+      "recipientEmail": "ankur.beri@niit-tech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vyom Labs",
+      "recipientEmail": "arathi.gs@vyomlabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pavilion",
+      "recipientEmail": "ashish.karnik@pavilion.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mahindra Satyam BPO",
+      "recipientEmail": "babu_thoppil@mahindrasatyam.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trellissoft",
+      "recipientEmail": "barkha@trellissoft.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ford Pro Charging",
+      "recipientEmail": "batool.ali@electriphi.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Reward360 Global Services.",
+      "recipientEmail": "bedisha@reward360.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CK Solutions",
+      "recipientEmail": "bharat@ka-nex.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Edifecs",
+      "recipientEmail": "bharti.negi@edifecs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HR",
+      "recipientEmail": "bhawna@weexcel.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Writer Information",
+      "recipientEmail": "capt.kansal@writerinformation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HAL",
+      "recipientEmail": "chamola.hal@hal-dz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Founder and Lightning",
+      "recipientEmail": "chandniyadav@ucreate.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Jagran New Media",
+      "recipientEmail": "chandresh.kumar@jagrannewmedia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SRINI PHARMACEUTICALS",
+      "recipientEmail": "charan@srinipharma.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Palni Inc",
+      "recipientEmail": "charles.t@palni.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Axioned",
+      "recipientEmail": "deepa@prdxn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Konica Minolta Business Solutions India",
+      "recipientEmail": "deepa.sripathi@konicaminolta.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IT Services",
+      "recipientEmail": "deepak@uchicago.edu",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Accutech Power Solutions",
+      "recipientEmail": "deepak.pawar@accutech.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "C-Square Info Solutions",
+      "recipientEmail": "deepak.ramakrishnan@csquare.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dixit Infotech Services",
+      "recipientEmail": "deepak@dixitindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Skience",
+      "recipientEmail": "deepashree.v@skience.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Appiness Interactive",
+      "recipientEmail": "deepika@appinessworld.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trell",
+      "recipientEmail": "deepti.m@trell.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quark Software",
+      "recipientEmail": "dgtewari@quark.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Prescient Technologies",
+      "recipientEmail": "deeptiw@pre-scient.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DVG",
+      "recipientEmail": "dreddy@dvginteractive.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ShopX",
+      "recipientEmail": "devika@shopx.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Akshay Software Technologies",
+      "recipientEmail": "dharmendra@akshay.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Data Intensity",
+      "recipientEmail": "dshankar@dataintensity.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Newt Global Consulting",
+      "recipientEmail": "dkamboj@newtglobalcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iValue InfoSolutions",
+      "recipientEmail": "dhirendra.panda@ivalue.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apptware",
+      "recipientEmail": "diksha@apptware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Eternus",
+      "recipientEmail": "diksha.sisodia@eternussolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Senrysa Technologies",
+      "recipientEmail": "borah.dilip@senrysa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Imperative Business Ventures",
+      "recipientEmail": "dilip.s@theimperative.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TactTree LLP",
+      "recipientEmail": "dimpal.patel@tacttree.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CRG Solutions",
+      "recipientEmail": "dgokhale@crgroup.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Logixal Inc",
+      "recipientEmail": "dinesh.hemdev@logixal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hirexa Solutions",
+      "recipientEmail": "dinesh.rai@hirexa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Securelynkx Networks",
+      "recipientEmail": "dipikasharma@slx.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Paytm Insider",
+      "recipientEmail": "dipti@insider.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fable Fintech",
+      "recipientEmail": "disha.bali@remitonline.info",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Virsec Systems",
+      "recipientEmail": "da@virsec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zaggle Prepaid Ocean Services",
+      "recipientEmail": "divya.beneesh@zaggle.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "GreyOrange",
+      "recipientEmail": "divya.b@greyorange.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infoworks.io",
+      "recipientEmail": "divya.chandrasekhara@infoworks.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cloud Analogy",
+      "recipientEmail": "divya.dang@cloudanalogy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gemini Consulting & Services",
+      "recipientEmail": "ddevapathni@gemini-us.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "The Scalers",
+      "recipientEmail": "divya@thescalers.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Promact Infotech",
+      "recipientEmail": "divyajaggi@promactinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Diamondpick",
+      "recipientEmail": "divya.k@diamondpick.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Taashee Linux Services",
+      "recipientEmail": "divya@taashee.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cegonsoft",
+      "recipientEmail": "divyap@cegonsoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CEIPAL Corp.",
+      "recipientEmail": "divya.p@ceipal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Impelsys",
+      "recipientEmail": "divya.prasad@impelsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tanla Platforms",
+      "recipientEmail": "divya.puthireddi@tanla.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Briq",
+      "recipientEmail": "donna.ellies@br.iq",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cotelligent",
+      "recipientEmail": "durga.akula@cotelligent.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Enhops",
+      "recipientEmail": "durgaprasada@proarch.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sysvine Technologies",
+      "recipientEmail": "edwin.vimal@sysvine.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Education Management Solutions",
+      "recipientEmail": "ekta.kohli@simulationiq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Appnomic",
+      "recipientEmail": "elizabeth.j@appnomic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eTouch Systems",
+      "recipientEmail": "emilio@etouch.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Autoplant System India",
+      "recipientEmail": "esha.mayekar@autoplant.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tringapps",
+      "recipientEmail": "eswari.v@tringapps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ARS Traffic & Transport Technology",
+      "recipientEmail": "eustine.thomas@ars-traffic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BDx Data Centers",
+      "recipientEmail": "eyunni.kumar@bdxworld.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cashapona Technologies",
+      "recipientEmail": "fabiana.sobers@cashapona.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Facile Services",
+      "recipientEmail": "vineet.shah@facileserv.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Uneecops Technologies",
+      "recipientEmail": "faisal.siddiqui@uneecops.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apolis",
+      "recipientEmail": "faiza.khan@apolisrises.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hitachi Solutions Asia Pacific",
+      "recipientEmail": "fbegum@hitachi-solutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rapidflow Inc",
+      "recipientEmail": "farheen@rapidflowapps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MetaOption LLC",
+      "recipientEmail": "fazal.karim@metaoption.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Helios Solutions",
+      "recipientEmail": "firdaus.mehta@heliossolutions.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MoEngage",
+      "recipientEmail": "francis.gonsalves@moengage.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MPS Interactive Systems",
+      "recipientEmail": "frida.dias@mpsinteractive.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MResult",
+      "recipientEmail": "ganapathy.d@mresult.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "XTGlobal",
+      "recipientEmail": "gsomisetti@email.xtglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Unicommerce eSolutions",
+      "recipientEmail": "gargi.rajan@unicommerce.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EPSoft",
+      "recipientEmail": "garima.pandey@epsoftinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Accops Systems",
+      "recipientEmail": "garima.sangwan@accops.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NASSCOM",
+      "recipientEmail": "gsharma@nasscom.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Workforce Logiq",
+      "recipientEmail": "gyjoshi@workforcelogiq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Iron Systems",
+      "recipientEmail": "gauravgaur@ironsystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amiga Informatics",
+      "recipientEmail": "gaurav.s@amigainformatics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "V2Solutions",
+      "recipientEmail": "gaurav.upadhyay@v2solutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FirstConnect Solutions",
+      "recipientEmail": "gautam@firstconnectsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechBlocks",
+      "recipientEmail": "gautamn@tblocks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "OpsHub",
+      "recipientEmail": "gautam.pathak@opshub.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "OnDemand Agility Solutions",
+      "recipientEmail": "gautam.prasad@ondemandagility.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "6DegreesIT",
+      "recipientEmail": "gautam.tungare@6degreesit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Accubits Technologies",
+      "recipientEmail": "gautham.p@accubits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TVS Next",
+      "recipientEmail": "gayathri.arunkumar@tvsnext.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Responsive Media Tech Services",
+      "recipientEmail": "gayathri.nagaraj@responsivemts.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aumni Techworks",
+      "recipientEmail": "gayatri@aumnitechworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "INRY",
+      "recipientEmail": "gayatri.nikkula@inry.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gathi Analytics",
+      "recipientEmail": "gayatrip@gathi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KOKO Networks",
+      "recipientEmail": "g.patil@kokonetworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dyooti",
+      "recipientEmail": "gayatri@dyooti.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Solix Technologies",
+      "recipientEmail": "geetanjali.toopran@solix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neovatic Technologies",
+      "recipientEmail": "giri.babu@neovatic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Element5",
+      "recipientEmail": "giridhar.d@e5.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tata CLiQ",
+      "recipientEmail": "gvemuganti@tataunistore.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Symphony RetailAI",
+      "recipientEmail": "girish.subramanian@symphonyretailai.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "INFOMAZE",
+      "recipientEmail": "girish.k@infomazeapps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Covalense Global",
+      "recipientEmail": "gita.madhuri@covalenseglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Excelencia",
+      "recipientEmail": "gitanjali.venkatesh@excelenciaconsulting. com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "W3villa Technologies",
+      "recipientEmail": "gitanjali.verma@w3villa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JSoft Solutions",
+      "recipientEmail": "gopalakrishna.gubbi@jsw.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Systel",
+      "recipientEmail": "gouthamb@systelinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Daloopa",
+      "recipientEmail": "govind.bhandari@daloopa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EOX Vantage",
+      "recipientEmail": "govind@eoxvantage.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infotech Global",
+      "recipientEmail": "govinda.shastry@igiusa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Perfios Software Solutions",
+      "recipientEmail": "gracy@perfios.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Detect Technologies",
+      "recipientEmail": "gripson.martes@detecttechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ideassion Technology Solutions",
+      "recipientEmail": "gugapriya@ideassion.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Near",
+      "recipientEmail": "gulshan@near.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RNF Technologies",
+      "recipientEmail": "gunjan@rnftechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BETSOL",
+      "recipientEmail": "gurpreet.jaggi@betsol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Wingify",
+      "recipientEmail": "gurpreet.singh@wingify.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "one.com",
+      "recipientEmail": "guru@one.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Centroxy",
+      "recipientEmail": "gyan@centroxy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AntWorks",
+      "recipientEmail": "hanish.tiwari@ant.works",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Anchanto",
+      "recipientEmail": "hank.mishra@anchanto.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Capermint Technologies",
+      "recipientEmail": "happy@capermint.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AVASO Technology Solutions",
+      "recipientEmail": "hari.krishnan@avasotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Excelra",
+      "recipientEmail": "harikishore.p@excelra.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "West Agile Labs",
+      "recipientEmail": "hari.p@westagilelabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Monarch Info Tech Services",
+      "recipientEmail": "harikrishna.bachala@mitsind.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ASK Automotive",
+      "recipientEmail": "hariprasadadthale@askbrake.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TRUGlobal",
+      "recipientEmail": "haris.a@truglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zumen Inc",
+      "recipientEmail": "hari@zumen.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Codingmart Technologies",
+      "recipientEmail": "harishankher@codingmart.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Observe.AI",
+      "recipientEmail": "harith.chambravalli@observe.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JNET Technologies",
+      "recipientEmail": "haritha.etakula@jnettechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NVISH Solutions",
+      "recipientEmail": "harpreet.bali@nvish.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Atlas",
+      "recipientEmail": "harshk@elementsgs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fresh Gravity",
+      "recipientEmail": "harshada.moharil@freshgravity.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Centre for Computational Technologies",
+      "recipientEmail": "harshida@cctech.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Moonfrog Labs",
+      "recipientEmail": "harshita.rathore@moonfroglabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apar Peopleworld Software",
+      "recipientEmail": "imran.h@apar.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CleverTap",
+      "recipientEmail": "heena@clevertap.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SupraES.",
+      "recipientEmail": "hemant.batra@supraits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NextGen Digital Solutions",
+      "recipientEmail": "hemant.pawar@ndsglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "U2opia Mobile",
+      "recipientEmail": "hemendra.bist@u2opiamobile.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aspiring Minds",
+      "recipientEmail": "hemlata.goel@shl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CloudThat",
+      "recipientEmail": "hemraj@cloudthat.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infosenseglobal Inc",
+      "recipientEmail": "hsoni@infosenseglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Systango",
+      "recipientEmail": "hima@systango.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MetaMorphoSys Technologies",
+      "recipientEmail": "himagauri@metamorphtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Appcino Technologies",
+      "recipientEmail": "himanshub@appcino.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Valethi Technologies",
+      "recipientEmail": "hmishra@valethi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DEV IT SERV",
+      "recipientEmail": "himanshu@ditserv.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Acute Informatics",
+      "recipientEmail": "hina.khan@acuteinformatics.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hitachi Solutions India",
+      "recipientEmail": "hsingh@hitachi-solutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AQM Technologies",
+      "recipientEmail": "hitesh.nair@aqmtechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PandoCorp",
+      "recipientEmail": "honeydeep@pando.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mawai Infotech",
+      "recipientEmail": "hrd@mawaimail.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sterling Software",
+      "recipientEmail": "hrishikesh@sterlingsoftware.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digital Convergence Technologies",
+      "recipientEmail": "huma@dctinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Truecaller",
+      "recipientEmail": "humera.iffath@truecaller.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "METRO SERVICES",
+      "recipientEmail": "huzefa.retiwala@metro-services.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IMG Global Infotech",
+      "recipientEmail": "img@imgglobalinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Skoruz Technologies",
+      "recipientEmail": "imrannd@skoruz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NTrust Infotech",
+      "recipientEmail": "tindrakumar@ntrustinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inventum",
+      "recipientEmail": "inventum.recruiter@inventum.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Shore Group Associates",
+      "recipientEmail": "irudia.anthony@h1insights.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KBC Technologies Group",
+      "recipientEmail": "ishani.sharma@idctechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Open Destinations",
+      "recipientEmail": "isle@opendestinations.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HulkApps",
+      "recipientEmail": "jabeen@hulkapps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WRENCH Solutions",
+      "recipientEmail": "jacob.j@wrenchsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Leoforce",
+      "recipientEmail": "jagadabhi.krishna@leoforce.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "realworld one",
+      "recipientEmail": "jagadish.v@realworld-one.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mutual Mobile",
+      "recipientEmail": "jaipal.addagatla@mutualmobile.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Freshersworld.com",
+      "recipientEmail": "jaisy@freshersworld.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tata Digital",
+      "recipientEmail": "janaki.naik@tatadigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quantela",
+      "recipientEmail": "janani.prakaash@quantela.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Securonix",
+      "recipientEmail": "jpaul@securonix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Experience.com",
+      "recipientEmail": "jasinta@experience.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Blancco Technology Group",
+      "recipientEmail": "jaslieen.baghh@blancco.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Perpetuuiti Technosoft PTE",
+      "recipientEmail": "jasmine.f@ptechnosoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WFX - World Fashion Exchange",
+      "recipientEmail": "jasmine.vaswani@worldfashionexchange. com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trimax Americas",
+      "recipientEmail": "jaspreetsingh@dataglove-us.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vincit",
+      "recipientEmail": "jaya.laxmi@vincit.fi",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Brainvire Infotech",
+      "recipientEmail": "jaya.pandey@brainvire.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CustomerXPs",
+      "recipientEmail": "jay@customerxps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apps Business IT Solutions",
+      "recipientEmail": "njayakumar@a-bits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mirafra Technologies",
+      "recipientEmail": "jayaprakash@mirafra.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ushur",
+      "recipientEmail": "jayashree.jayanth@ushur.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amrut Software",
+      "recipientEmail": "jayashri@amrutsoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Keka HR",
+      "recipientEmail": "jayati.p@keka.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iSolve Technologies",
+      "recipientEmail": "jegannathan@isolve.global",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "QuestionPro",
+      "recipientEmail": "jeswin.thomas@questionpro.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "M Squared Software and Services",
+      "recipientEmail": "jinu@m2comsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WorkInSync",
+      "recipientEmail": "jitendra.das@workinsync.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Anunta Tech",
+      "recipientEmail": "jitendra.wankhede@anuntatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SoftNice",
+      "recipientEmail": "jitesh@softnice.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zuci Systems",
+      "recipientEmail": "jithesh.v@zucisystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pixentia",
+      "recipientEmail": "jpixentia@pixentia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IT America Inc",
+      "recipientEmail": "joem@itamerica.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "rtCamp",
+      "recipientEmail": "joel.lobo@rtcamp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netrovert Software",
+      "recipientEmail": "johnsonk@netrovert.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dimiour",
+      "recipientEmail": "joseph@vdartinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CloudSEK",
+      "recipientEmail": "joshua.henry@cloudsek.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sailotech",
+      "recipientEmail": "joshua.t@sailotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Barry-Wehmiller International",
+      "recipientEmail": "jothi.prakash@bwdesigngroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sierra Atlantic",
+      "recipientEmail": "joy.dupati@sierraatlantic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lockstep",
+      "recipientEmail": "juhi.sharma@lockstep.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aditi Consulting",
+      "recipientEmail": "jyothendraar@aditiconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kasmo",
+      "recipientEmail": "jyothsna.devi@kasmo.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CommerceIQ",
+      "recipientEmail": "jyoti.g@commerceiq.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Object Technology Solutions India",
+      "recipientEmail": "jgupta@otsi-usa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ampcus Inc",
+      "recipientEmail": "jyoti.kajale@ampcus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ZapCom Group Inc",
+      "recipientEmail": "jyoti.singh@zapcg.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DhanInfo",
+      "recipientEmail": "hr@dhaninfo.biz",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Soroco",
+      "recipientEmail": "kalyan.neelagiri@soroco.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Paramatrix Technologies.",
+      "recipientEmail": "kalyani.mahajan@paramatrix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Votary Softech Solutions",
+      "recipientEmail": "kalyani.mudigonda@votarytech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Blue Flame Labs",
+      "recipientEmail": "kalyani.pendharkar@theblueflamelabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "skillgigs.com",
+      "recipientEmail": "ksingh@skillgigs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SE2",
+      "recipientEmail": "kamla.mulla@se2.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tata Technologies, Pune",
+      "recipientEmail": "kanchan.jagtap@tatatechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "cloudThing",
+      "recipientEmail": "kanhaiya@cloudthing.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EGlogics Softech",
+      "recipientEmail": "kanika@eglogics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trinamix Inc",
+      "recipientEmail": "kannan.krishnan@trinamix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LabVantage Solutions",
+      "recipientEmail": "kantan@labvantage.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ideas2IT Technologies",
+      "recipientEmail": "karthick@ideas2it.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Visteon Technical And Services Centre",
+      "recipientEmail": "karthik.chintapatla@visteon.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Springworks",
+      "recipientEmail": "karthik.i@springworks.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Operative",
+      "recipientEmail": "karthikr@operative.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hiver",
+      "recipientEmail": "karthikeyan@hiverhq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Xansa plc",
+      "recipientEmail": "karthikeyan.samuel@xansa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saviynt",
+      "recipientEmail": "karthikeyan.sivasubramanian@saviynt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "vTech Solution",
+      "recipientEmail": "kartik.v@vtechsolution.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "OmnePresent Technologies",
+      "recipientEmail": "kartik.sehgal@omnepresent.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Arcserve",
+      "recipientEmail": "karuna.geddam@arcserve.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lauren Information Technologies",
+      "recipientEmail": "kausar.khatri@lauren.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ANM",
+      "recipientEmail": "kavita.gupta@anm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Valiance Solutions",
+      "recipientEmail": "kavita.y@valiancesolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sixth Energy Technologies",
+      "recipientEmail": "kavitha@6thenergy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SourceTrace",
+      "recipientEmail": "mkavitha@sourcetrace.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Wolters Kluwer ELM Solutions",
+      "recipientEmail": "kavitha.umasankar@wolterskluwer.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mygo Consulting",
+      "recipientEmail": "kavya.k@mygoconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Stellapps Technologies",
+      "recipientEmail": "keerthi.kamasamudra@stellapps.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RLabs Enterprise Services",
+      "recipientEmail": "keerthi.v@rlabsglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Xeno",
+      "recipientEmail": "kevin@xeno.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Integrass",
+      "recipientEmail": "kparker@integrass.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechTree IT Systems",
+      "recipientEmail": "khandoba.k@techtreeit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Techspian",
+      "recipientEmail": "khushboo@techspian.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechAhead",
+      "recipientEmail": "khushboo@techaheadcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "5ireChain",
+      "recipientEmail": "khushi@5ire.org",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Appitsimple Infotek",
+      "recipientEmail": "khyatisagar@appitsimple.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BiztechCS",
+      "recipientEmail": "kinjal@biztechconsultancy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "UST BlueConch Technologies",
+      "recipientEmail": "kiran.bala@blueconchtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Adea Solutions",
+      "recipientEmail": "kkumar@adea.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TOMIA",
+      "recipientEmail": "kiran.lal@tomiaglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ManekTech",
+      "recipientEmail": "kiran@manektech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zerone Consulting",
+      "recipientEmail": "kiran.s@zerone-consulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HealthFore Technologies",
+      "recipientEmail": "kirti.manucha@healthfore.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Religare Technova",
+      "recipientEmail": "kirti.manucha@religare.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Feuji Inc",
+      "recipientEmail": "kishor.p@feuji.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BDS Services",
+      "recipientEmail": "komal@balajidatasolutions.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Acropetal Technologies",
+      "recipientEmail": "komala.t@acropetal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TestingXperts",
+      "recipientEmail": "koundinya.adiraju@testingxperts.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Polaris",
+      "recipientEmail": "kkumar@polarismanagement.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TAAL Tech",
+      "recipientEmail": "krishan_kumar@taaltech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Actis Technologies",
+      "recipientEmail": "krishna_kumar@actis.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Keysight Network Visibility Test & Security",
+      "recipientEmail": "knair@ixiacom.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Savvysoft Technologies",
+      "recipientEmail": "krishnanvr@savvy-it.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Teknorix",
+      "recipientEmail": "krishnanand.joshi@teknorix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Consummate Technologies",
+      "recipientEmail": "kriti@consummatetechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LoginRadius",
+      "recipientEmail": "kritika.khanduri@loginradius.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intech Systems",
+      "recipientEmail": "kshama.patel@intech-systems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Porteck Corporation",
+      "recipientEmail": "kuldeepg@porteck.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "cloudEQ",
+      "recipientEmail": "kulvir.kaur@cloudeq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EvonSys",
+      "recipientEmail": "kumuda.panda@evonsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pocket FM",
+      "recipientEmail": "kunal.wadhwani@pocketfm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Junglee Games",
+      "recipientEmail": "kushagra.pande@jungleegames.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Narvar",
+      "recipientEmail": "lakshmi.eyyunni@narvar.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tricon Infotech",
+      "recipientEmail": "lakshmi@triconinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quest Innovative Solutions",
+      "recipientEmail": "lakshmi.p@qis.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NetConnectGlobal",
+      "recipientEmail": "lata.c@netconnectglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Liventus",
+      "recipientEmail": "lshankar@liventus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Newfold Digital",
+      "recipientEmail": "lavita.n@endurance.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lorhan IT",
+      "recipientEmail": "laxman.reddy@lorhanit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Certa",
+      "recipientEmail": "leena@getcerta.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Soliton Technologies",
+      "recipientEmail": "leena.xavier@solitontech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Suyati Technologies",
+      "recipientEmail": "lvarughese@suyati.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CRMNEXT",
+      "recipientEmail": "lipika.mohanty@crmnext.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "In-Solutions Global",
+      "recipientEmail": "lisacrage@insolutionsglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Innovsource",
+      "recipientEmail": "litons@innov.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ApMoSys Technologies",
+      "recipientEmail": "lituja.mishra@apmosys.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Teqfocus",
+      "recipientEmail": "livin.varghese@teqfocus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Clumio",
+      "recipientEmail": "logesh@clumio.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nexgen IOT Solutions",
+      "recipientEmail": "lokesh@nexgeniots.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Progility Technologies",
+      "recipientEmail": "lydia.dsouza@progility.com.au",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Manthan",
+      "recipientEmail": "lyndon.saldanha@manthan.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WeP Peripherals",
+      "recipientEmail": "maclean.raphael@wepindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Microexcel Inc",
+      "recipientEmail": "madhava.mallela@microexcel.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "bluCognition",
+      "recipientEmail": "madhavee.singh@blucognition.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Allyis",
+      "recipientEmail": "madhu.kapu@allyis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "QualiZeal",
+      "recipientEmail": "madhu.n@qualizeal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Yotta Infrastructure Solutions",
+      "recipientEmail": "mmhamankar@yotta.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RandomTrees",
+      "recipientEmail": "mpalaji@randomtrees.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Goodera",
+      "recipientEmail": "madhuri.rajath@goodera.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lentra",
+      "recipientEmail": "madhuk@lentra.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iMarque Solutions",
+      "recipientEmail": "madhusudhanan@imarque.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "atyati Technologies",
+      "recipientEmail": "mahasweta.paul@atyati.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VySystems",
+      "recipientEmail": "mahendra@vysystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kovaion Consulting",
+      "recipientEmail": "mahendran.s@kovaion.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neewee",
+      "recipientEmail": "mahesh.bandaru@neewee.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zelite Solutions",
+      "recipientEmail": "mahesh.h@zelitesolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "GeekLurn",
+      "recipientEmail": "mainka.s@geeklurn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Boston Technology Corporation",
+      "recipientEmail": "malathip@boston-technology.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "People10 Technologies",
+      "recipientEmail": "malini.venugopal@people10.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Feat Systems",
+      "recipientEmail": "mallika.poojari@featsystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Modefin",
+      "recipientEmail": "mamatha.n@modefin.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cognus Technology",
+      "recipientEmail": "mamta@cognustechnology.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PC Solutions",
+      "recipientEmail": "mamta.nath@e-pspl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amantya Technologies",
+      "recipientEmail": "mamta.yadav@amantyatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sigmoid",
+      "recipientEmail": "mamtha@sigmoidanalytics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netradyne",
+      "recipientEmail": "mamtha.akula@netradyne.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "phData",
+      "recipientEmail": "mchakraborty@phdata.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CropIn Technology",
+      "recipientEmail": "manasi.kelkar@cropin.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Evolutyz Corp",
+      "recipientEmail": "manda.kishore@evolutyz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tulip Interfaces",
+      "recipientEmail": "mandeep.singh@tulip.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KARYA Technologies",
+      "recipientEmail": "manin@karyatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Info Network Management Company",
+      "recipientEmail": "manian@callezee.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "QA InfoTech",
+      "recipientEmail": "manikmahajan@qainfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "QBA Worldwide",
+      "recipientEmail": "manik.mondal@qbadvisory.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iTech India",
+      "recipientEmail": "manikandan.b@itech-india.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eGain Corporation",
+      "recipientEmail": "msitania@egain.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DreamSoft4u",
+      "recipientEmail": "manisha@dreamsoft4u.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Celigo",
+      "recipientEmail": "manisha.dash@celigo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netrix",
+      "recipientEmail": "mdixit@netrixllc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CloudMoyo",
+      "recipientEmail": "manjiri.shinde@cloudmoyo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nichi-In Software Solutions",
+      "recipientEmail": "manju@nichi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ampl",
+      "recipientEmail": "manoj@ampl.app",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Techversant",
+      "recipientEmail": "manoj@techversantinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amity Software Systems",
+      "recipientEmail": "mxp@amitysoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Asta Crs Inc",
+      "recipientEmail": "asta_onboarding@astacrs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RVU India",
+      "recipientEmail": "manoj.sehgal@rvu.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Anthelio Healthcare Solutions",
+      "recipientEmail": "manuel.fernandes@antheliohealth.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SkyOnn Technologies",
+      "recipientEmail": "jobs@skyonn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Draup",
+      "recipientEmail": "maria.fernandes@draup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FiveS Digital",
+      "recipientEmail": "mary.basu@fivesdigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Software",
+      "recipientEmail": "mary@software.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infoplus Technologies UK",
+      "recipientEmail": "maximus.j@infoplusltd.co.uk",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Verolt",
+      "recipientEmail": "maya.nagpal@verolt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gaana",
+      "recipientEmail": "mayank.agarwal@gaana.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nickelfox Technologies",
+      "recipientEmail": "mayank.ahuja@nickelfox.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tripoto",
+      "recipientEmail": "mayank@tripoto.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Adaequare",
+      "recipientEmail": "mmitra@adaequare.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "smartSense Consulting Solutions",
+      "recipientEmail": "mayur.pabari@smartsensesolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Collabera India",
+      "recipientEmail": "mayur.sisodiya@collabera.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KiwiTech",
+      "recipientEmail": "medha.sharma@kiwitech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Airmeet",
+      "recipientEmail": "meena@airmeet.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NewVision Software",
+      "recipientEmail": "meenakshi.kogje@newvisionsoftware.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InheritX Solutions",
+      "recipientEmail": "megh@inheritx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SMS-Magic",
+      "recipientEmail": "megh.risaldar@sms-magic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Godrej Infotech",
+      "recipientEmail": "megh@godrej.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IDrive Software India",
+      "recipientEmail": "meghana@idrive.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "StartUP",
+      "recipientEmail": "mehak@startupnation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "mphrX",
+      "recipientEmail": "gaurav@mphrx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WebEngage",
+      "recipientEmail": "mili.panicker@webengage.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ProTechmanize Solutions",
+      "recipientEmail": "minal@protechmanize.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Avanze",
+      "recipientEmail": "miriam.shaju@avanzegroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Volante Technologies",
+      "recipientEmail": "mirunalini@volantetech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Savantis Solutions LLC",
+      "recipientEmail": "mithun.jose@savantis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Eastern Enterprise",
+      "recipientEmail": "m.patel@easternenterprise.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quess GTS",
+      "recipientEmail": "msiddique@quessgts.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Reverie Language Technologies",
+      "recipientEmail": "mohammed.rizwan@reverieinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Panzer Technologies",
+      "recipientEmail": "tariq.yaseen@panzertechnologies.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MyGlamm",
+      "recipientEmail": "mohan.joshi@myglamm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Deqode",
+      "recipientEmail": "mbansal@deqode.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Benchmark IT Solutions",
+      "recipientEmail": "monica.bajaj@soft-corner.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pinga Solution",
+      "recipientEmail": "monica@pingasolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Precision Technologies",
+      "recipientEmail": "monika@precisiontechcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Embitel Technologies",
+      "recipientEmail": "monika@embitel.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ZIGRAM",
+      "recipientEmail": "monika.miglani@zigram.tech",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BridgeLabz",
+      "recipientEmail": "monika@bridgelabz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tech Connect Services",
+      "recipientEmail": "monika@techretail.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HELM360",
+      "recipientEmail": "mgupta@helm360.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "QUADRIFIC MEDIA",
+      "recipientEmail": "moumi@spartanpoker.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Federal Soft Systems",
+      "recipientEmail": "mrudul.k@fssglobal.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vagaro Inc",
+      "recipientEmail": "mruga.dave@vagaro.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eProcurement Technologies",
+      "recipientEmail": "mrugesh.maisuriya@procuretiger.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nascent Info Technologies",
+      "recipientEmail": "mrugesh.raval@nascentinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ellicium Solutions",
+      "recipientEmail": "mugdha.wagh@ellicium.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Awign",
+      "recipientEmail": "payable@awign.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LRS Services (P)",
+      "recipientEmail": "mukesh.t@lrsservices.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Caelius Consulting",
+      "recipientEmail": "mukta.dewan@caeliusconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Excelacom Technologies",
+      "recipientEmail": "murali.k@excelacom.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Softlogic Systems",
+      "recipientEmail": "murali@softlogicsys.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Corent Technology",
+      "recipientEmail": "pmurugesan@corenttech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechnoGen",
+      "recipientEmail": "muthukumar.k@technogeninc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ABSYZ Inc",
+      "recipientEmail": "muthyala.manasa@absyz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "UrbanPiper",
+      "recipientEmail": "n.siddharth@urbanpiper.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SoftSol",
+      "recipientEmail": "nagamani.yerneni@softsol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "GlobalEdge",
+      "recipientEmail": "naganagouda.sj@globaledgesoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BPK Technologies",
+      "recipientEmail": "naindeep.kaur@bpktechmail.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AM Research",
+      "recipientEmail": "nalini@amresearch.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inspiredge IT Solutions",
+      "recipientEmail": "namrata.k@inspiredgeit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inflow Technologies",
+      "recipientEmail": "nancy.varghese@inflowtechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Enhancesys Innovations",
+      "recipientEmail": "nandini.aggarwal@enhancesys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Indusface",
+      "recipientEmail": "nandini.tandon@indusface.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SELP",
+      "recipientEmail": "nandita.singh@selp.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "e-Emphasys Technologies",
+      "recipientEmail": "nbhatnagar@e-emphasys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Opsera",
+      "recipientEmail": "narasimhan@opsera.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Smartedge Solutions",
+      "recipientEmail": "narayana@smartedgesolutions.co.uk",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Privafy",
+      "recipientEmail": "narayana.pawar@privafy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LSA Recruit",
+      "recipientEmail": "narender@lsarecruit.co.uk",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netenrich",
+      "recipientEmail": "narendra.s@netenrich.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "National Computer Systems",
+      "recipientEmail": "naresh@ncsus.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ATMECS Inc",
+      "recipientEmail": "naresh.nuthulapati@atmecs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "UniqueHire Consulting LLP",
+      "recipientEmail": "natarajan@uniquehire.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PRIMUS Global Technologies",
+      "recipientEmail": "naveen@primusglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Crayon Data",
+      "recipientEmail": "naveen@crayondata.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bourntec Solutions Inc",
+      "recipientEmail": "naveen.s@bourntec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DynPro",
+      "recipientEmail": "naveen@dynpro.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inventech Info Solutions",
+      "recipientEmail": "navneet@inventechinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InfoVision Labs",
+      "recipientEmail": "nawaaz.hafeez@ivlglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Numeric Technologies",
+      "recipientEmail": "nayaki@numerictech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Serole Technologies",
+      "recipientEmail": "neel.rao@serole.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Provar Testing",
+      "recipientEmail": "neelam.sharma@provartesting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Minfy",
+      "recipientEmail": "neelima.vaka@minfytech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fint Solutions",
+      "recipientEmail": "neena@fintinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cavista",
+      "recipientEmail": "neerajsharma@cavistatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FourKites",
+      "recipientEmail": "neeraj@fourkites.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IDS NEXT Business Solutions",
+      "recipientEmail": "neetu.choudhary@idsnext.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VMock",
+      "recipientEmail": "neha.bhandari@vmock.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TraceLink",
+      "recipientEmail": "nbhise@tracelink.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AIS Technolabs",
+      "recipientEmail": "neha@aistechnolabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trineo",
+      "recipientEmail": "nchoudhary@tractionondemand.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BenQ India",
+      "recipientEmail": "neha.kohli@benq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "i2k2 Networks",
+      "recipientEmail": "neha@i2k2.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "freeskout",
+      "recipientEmail": "nehasharma@freeskout.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infodart Technologies",
+      "recipientEmail": "neha.sharma@infodartmail.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cavisson Systems",
+      "recipientEmail": "neha.sharma@cavisson.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MultiQoS Technologies",
+      "recipientEmail": "neha@multiqos.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dynalog India",
+      "recipientEmail": "neha@dynalogindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Norwin Technologies",
+      "recipientEmail": "nevyg@norwintechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nature Technologies",
+      "recipientEmail": "nibedita.dutta@natureglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "2iSolutions",
+      "recipientEmail": "nidhi.vishnoi@2isolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hammer",
+      "recipientEmail": "nidhi@empirix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Indus Net Technologies",
+      "recipientEmail": "nidhi@indusnet.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cystems Logic Inc",
+      "recipientEmail": "nidhi@cystemslogic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IAP Company",
+      "recipientEmail": "nidhi.singh@iapcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trangile Services",
+      "recipientEmail": "nidhi.srivastava@trangile.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EverestEngineering",
+      "recipientEmail": "nidhuraj@everest.engineering",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RecruitNXT",
+      "recipientEmail": "nigel@recruitnxt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JetSynthesys",
+      "recipientEmail": "niharika.patel@jetsynthesys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lipi Data Systems",
+      "recipientEmail": "nikhil.bhat@lipi.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saviance Technologies",
+      "recipientEmail": "nikhil.jangir@saviance.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Verinite",
+      "recipientEmail": "nikhil.kadu@verinite.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "nCircle Tech",
+      "recipientEmail": "nikhil.kulkarni@ncircletech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Purplle.com",
+      "recipientEmail": "nikhil.m@purplle.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Leading IT",
+      "recipientEmail": "nikita@goleadingit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Panamax",
+      "recipientEmail": "nilangini.gupta@panamaxil.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Trantor",
+      "recipientEmail": "nilesh.indulkar@trantorinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Haptik",
+      "recipientEmail": "nimesh@haptik.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Jeavio",
+      "recipientEmail": "nimesh@jeavio.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SCORG International Consulting",
+      "recipientEmail": "nirmaln@scorgconsult.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechnoBind Solutions",
+      "recipientEmail": "nirmala@technobind.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EventBeep",
+      "recipientEmail": "nirmiti.hr@eventbeep.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Smaartt Digital Consulting",
+      "recipientEmail": "nirupa.l@smaartt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Qwikcilver Solutions",
+      "recipientEmail": "sridhar.n@qwikcilver.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Benison Technologies",
+      "recipientEmail": "nirzari.sen@benisontech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pratiti Technologies",
+      "recipientEmail": "nisha.motwani@pratititech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sagarsoft",
+      "recipientEmail": "nisha.nair@sagarsoft.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Technovert",
+      "recipientEmail": "nisha.n@technovert.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aabasoft",
+      "recipientEmail": "nisharoy@aabasoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Auriga IT Consulting",
+      "recipientEmail": "nisha.saini@aurigait.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Seanergy Digital",
+      "recipientEmail": "nisha.s@seanergydigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SmartKargo",
+      "recipientEmail": "nishant@smartkargo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hoonartek",
+      "recipientEmail": "nishant.shukla@hoonartek.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fission Labs",
+      "recipientEmail": "nishita@fissionlabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Krish TechnoLabs",
+      "recipientEmail": "nishith.parikh@krishtechnolabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dion Global Solutions",
+      "recipientEmail": "nishtha.sareen@dionglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "OnGraph Technologies",
+      "recipientEmail": "nishu.nits@ongraph.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rrootshell Technologiiss",
+      "recipientEmail": "naryasomayajula@rrootshell.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "mokSa Technologies",
+      "recipientEmail": "nitesh.karir@moksatechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Facilio",
+      "recipientEmail": "nithyanandham@facilio.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Maven Wave",
+      "recipientEmail": "nitika.bhandari@mavenwave.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intellect Bizware Services",
+      "recipientEmail": "nitin.g@intellectbizware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gameskraft",
+      "recipientEmail": "nitin.nahata@gameskraft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IndiaNIC Infotech",
+      "recipientEmail": "nitin.padharia@indianic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Itlize Global",
+      "recipientEmail": "nitin@itlize.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Webomaze Technologies",
+      "recipientEmail": "nitin.suri@webomaze.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Xicom Technologies",
+      "recipientEmail": "nitin.verma@xicom.biz",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sphinx Worldbiz",
+      "recipientEmail": "nitish.k@sphinxworldbiz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Innovapptive Inc",
+      "recipientEmail": "nitisha.baalay@innovapptive.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Eze Software",
+      "recipientEmail": "nk@ezesoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IDMWORKS",
+      "recipientEmail": "nivedita.kaushal@idmworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Teksun Inc",
+      "recipientEmail": "niyati@teksun.us",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ixigo",
+      "recipientEmail": "nupur@ixigo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Potomac Technologies",
+      "recipientEmail": "nphatak@potomactpl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Panamax Infotech",
+      "recipientEmail": "nusrat.supediwala@panamaxil.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "O2F INFO SOLUTIONS",
+      "recipientEmail": "info@o2finfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RT Outsourcing Services",
+      "recipientEmail": "oindrila.das@rteservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CoreFlex Solutions",
+      "recipientEmail": "omkarp@coreflexsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cogencis Information Services",
+      "recipientEmail": "padmajasingh.arya@cogencis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Protean eGov Technologies",
+      "recipientEmail": "padmanavk@nsdl.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bhavna Corp.",
+      "recipientEmail": "pmishra@bhavnacorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Paycraft Solutions",
+      "recipientEmail": "pallavi.singh@paycraftsol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechMatrix Consulting",
+      "recipientEmail": "pallavi@techmatrixconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zenoti",
+      "recipientEmail": "panchalid@zenoti.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FSL Software Technologies",
+      "recipientEmail": "pandey@fsltechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CoreCard India",
+      "recipientEmail": "pankaj.chopra@corecard.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EverQuote",
+      "recipientEmail": "psingh@everquote.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Team Recykal",
+      "recipientEmail": "parameswar.p@recykal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Damco Solutions",
+      "recipientEmail": "pardeepp@damcogroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intello Labs",
+      "recipientEmail": "parinita.kaur@intellolabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Real Time Data Services",
+      "recipientEmail": "parneet.waraich@myrealdata.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "bijnis",
+      "recipientEmail": "parool.duggal@bijnis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vitech Systems Asia",
+      "recipientEmail": "pparavasthu@vitechinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SMARTe",
+      "recipientEmail": "parul.gala@smarteinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sourcebits Digital",
+      "recipientEmail": "parvathy.therembil@sourcebits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fiorano Software",
+      "recipientEmail": "amjad.pasha@fiorano.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Jekson Vision",
+      "recipientEmail": "patel.kavita@jeksonvision.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Relevance Lab",
+      "recipientEmail": "pathanjali.bhat@relevancelab.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LearnQuest",
+      "recipientEmail": "patricia.natalia@learnquest.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Salesken",
+      "recipientEmail": "paul@salesken.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fluentgrid",
+      "recipientEmail": "pavan.b@fluentgrid.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Eightfold",
+      "recipientEmail": "pk@eightfold.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WinWire Technologies",
+      "recipientEmail": "pavankumar.k@winwire.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Eximius Design",
+      "recipientEmail": "pavank@eximiusdesign.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AmpleLogic",
+      "recipientEmail": "pavan.r@amplelogic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SID Global Solutions",
+      "recipientEmail": "pavanv@sidgs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "M3BI",
+      "recipientEmail": "pavan.vemuri@m3bi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "McKinley Rice",
+      "recipientEmail": "pavan.vooribindi@mckinleyrice.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Entropik Tech",
+      "recipientEmail": "pavithra.bopanna@entropiktech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InfraCloud Technologies",
+      "recipientEmail": "pavithra.desai@infracloud.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "High Peak Software",
+      "recipientEmail": "payal@highpeaksw.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Safe Security",
+      "recipientEmail": "payal@safe.security",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LARVOL",
+      "recipientEmail": "payyalore.sainath@larvol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cartesian Consulting",
+      "recipientEmail": "pdsouza@cartesianconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Monster India",
+      "recipientEmail": "peeyush.singhal@monsterindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CIGNEX Datamatics",
+      "recipientEmail": "peterson.pereira@cignex.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Enterprise Minds",
+      "recipientEmail": "phani@eminds.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dextara Digital",
+      "recipientEmail": "phanidhars@dextara.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Posidex",
+      "recipientEmail": "philip.manikya@posidex.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Optimus Information",
+      "recipientEmail": "piali.goswami@optimusinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digital Aptech",
+      "recipientEmail": "piyalib@digitalaptech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DigiValet",
+      "recipientEmail": "piyush.naik@digivalet.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "apna",
+      "recipientEmail": "piyush.r@apna.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Agri10x",
+      "recipientEmail": "pooja@agri10x.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zentek Infosoft",
+      "recipientEmail": "pooja@zentekinfosoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Minosha India",
+      "recipientEmail": "pooja.arora@minosha.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nanostuffs",
+      "recipientEmail": "pooja.malawade@nanostuffs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Avesta Computer Services",
+      "recipientEmail": "pooja@avestacs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IncNut Digital",
+      "recipientEmail": "pooja@incnut.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nuvento Inc",
+      "recipientEmail": "poonam@nuvento.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cynet Systems Inc",
+      "recipientEmail": "poonam.b@cynetsystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WebMobril Technologies",
+      "recipientEmail": "poonam.yadav@webmobril.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fortanix",
+      "recipientEmail": "poornima.gowda@fortanix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Symphony SummitAI",
+      "recipientEmail": "poornima.narayanappa@symphonysummit. com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TestVagrant Technologies",
+      "recipientEmail": "poornima@testvagrant.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NielsenIQ",
+      "recipientEmail": "poornima.s@d4insight.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Acropolis Infotech",
+      "recipientEmail": "prabha.giri@acropolisinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Plivo",
+      "recipientEmail": "prabha.masilamani@plivo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vinculum Group",
+      "recipientEmail": "prachi.singh@vinculumgroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mindtickle",
+      "recipientEmail": "pradeep.chigurupati@mindtickle.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mindteck India",
+      "recipientEmail": "pradeep.k@mindteck.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kaizen Technologies",
+      "recipientEmail": "krishnanp@kaizentek.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Andor Tech",
+      "recipientEmail": "pradeep.kumar@andortech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bidgely",
+      "recipientEmail": "pradeep@bidgely.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digiryte",
+      "recipientEmail": "pradeep@digiryte.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Servosys Solutions",
+      "recipientEmail": "pradeep@servosys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zuper",
+      "recipientEmail": "pradep.s@zuper.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Xento Systems",
+      "recipientEmail": "pjaiswal@xento.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Arya.ag",
+      "recipientEmail": "pragati@aryacma.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AIEnterprise Inc",
+      "recipientEmail": "pkumar@aienterprise.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Onama Consultants",
+      "recipientEmail": "pragati@onamagroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Creative Capsule",
+      "recipientEmail": "pragati.tilve@creativecapsule.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Orbit Techsol",
+      "recipientEmail": "hr.orbit@orbitindia.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lirik",
+      "recipientEmail": "pragya.khanna@lirik.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Payoda Technology",
+      "recipientEmail": "prakash.b@payoda.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kriya IT",
+      "recipientEmail": "prakash.rc@kriyanxw.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Verifaya Corporation",
+      "recipientEmail": "prakyath.k@verifaya.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CriticalRiver",
+      "recipientEmail": "pranab.mishra@criticalriver.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "tyfone",
+      "recipientEmail": "pranitha@tyfone.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ABM Knowledgeware",
+      "recipientEmail": "prasad_k@abmindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neova Solutions",
+      "recipientEmail": "prasad_narayan@neovasolutions.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PreludeSys",
+      "recipientEmail": "prasad_r@preludesys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Shell Transource",
+      "recipientEmail": "prasanna.soparkar@steeplap.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Techila Global Services",
+      "recipientEmail": "prashant.dubey@techilaservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IKF Technologies",
+      "recipientEmail": "prashant@kljindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Diverse Lynx",
+      "recipientEmail": "prashant@diverselynx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Muvi.com",
+      "recipientEmail": "prashasti@muvi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vaisesika Consulting",
+      "recipientEmail": "prastily@vaisesika.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Valenta",
+      "recipientEmail": "pratheek.machaya@valentabpo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "5C Network",
+      "recipientEmail": "prathyusha@5cnetwork.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Baazi Games",
+      "recipientEmail": "pratik.m@baazigames.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RT Network Solutions",
+      "recipientEmail": "pratim.purkait@rtns.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CatalystOne Solutions",
+      "recipientEmail": "pratyush.sinha@catalystone.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MaxVal Group",
+      "recipientEmail": "praveen@maxval.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rigved Technologies",
+      "recipientEmail": "praveen.nambiar@rigvedtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Softpath System",
+      "recipientEmail": "praveen.r@softpath.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "XDuce",
+      "recipientEmail": "praveen.singh@xduce.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Agiliad",
+      "recipientEmail": "praveen.zore@agiliad.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Flo Group",
+      "recipientEmail": "pravin.kankane@flo-group.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BRIDGEi2i Analytics Solutions",
+      "recipientEmail": "preeth.joseph@bridgei2i.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Frontier Business systems",
+      "recipientEmail": "preetha@frontier.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Insemi Technology Services",
+      "recipientEmail": "preethy.paul@insemitech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TripStack",
+      "recipientEmail": "preeti.das@tripstack.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mosambee",
+      "recipientEmail": "preeti.kalyankar@mosambee.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Verisys Corporation",
+      "recipientEmail": "pmani@verisys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eProductivity Software",
+      "recipientEmail": "preeti.mathur@eproductivitysoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Wunderman Thompson Commerce",
+      "recipientEmail": "preeti.msw@wundermanthompson.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cozentus",
+      "recipientEmail": "preety@cozentus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Toshiba Software (India)",
+      "recipientEmail": "prem.nair@toshiba-tsip.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cyware",
+      "recipientEmail": "prerna.kohli@cyware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Innohub Technologies Pte",
+      "recipientEmail": "prince.kumar@innohubtechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mantra Labs",
+      "recipientEmail": "priscilla.f@mantralabsglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fullestop",
+      "recipientEmail": "priya.bagla@fullestop.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Yexle",
+      "recipientEmail": "priya.bhogineni@yexle.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Daffodil Software",
+      "recipientEmail": "priya.malhotra@daffodilsw.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Flexasoft",
+      "recipientEmail": "priya@flexasoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Congruent Info-Tech",
+      "recipientEmail": "priya@congruentindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Talview",
+      "recipientEmail": "priya.subramanian@talview.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quartic.ai",
+      "recipientEmail": "priya@quartic.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JobsForHer",
+      "recipientEmail": "priyadarshini.torke@jobsforher.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CBNITS",
+      "recipientEmail": "priyanka.basak@cbnits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "fifthnote",
+      "recipientEmail": "priyanka.grover@fifthnote.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Paktolus Solutions",
+      "recipientEmail": "pjaiswal@paktolus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Chimera Technologies",
+      "recipientEmail": "priyankam@chimeratechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Decimal Technologies",
+      "recipientEmail": "priyanka.s@decimaltech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Flock",
+      "recipientEmail": "priyankashu@flock.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KritiKal Solutions",
+      "recipientEmail": "priyom.barooah@kritikalvision.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ONE BCG",
+      "recipientEmail": "prof.dutt@onebcg.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TravClan",
+      "recipientEmail": "pronami.borah@travclan.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Affle",
+      "recipientEmail": "puja@affle.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FloBiz",
+      "recipientEmail": "rabi@flobiz.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SpanIdea Systems",
+      "recipientEmail": "radhakrishnak@spanidea.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Blackstraw.ai",
+      "recipientEmail": "radhika.boppana@blackstraw.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Impact Analytics",
+      "recipientEmail": "radhika.khurana@impactanalytics.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SysCloud",
+      "recipientEmail": "raghavendra@syscloud.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fidelis Corporate Solutions",
+      "recipientEmail": "raghavendra@fidelisgroup.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Softcell Technologies Global",
+      "recipientEmail": "rgawde@softcell.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digital Refresh Networks",
+      "recipientEmail": "rahul.bansode@digitalf5.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AMREP SUPPLIER MANAGEMENT SERVICES",
+      "recipientEmail": "rabubakkar@amrepinspect.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "360 Degree Cloud Technologies",
+      "recipientEmail": "raj.agarwal@360degreecloud.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Avataar.Me",
+      "recipientEmail": "rajbose@avataar.me",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Selectsys India",
+      "recipientEmail": "r.kish@selectsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Antra",
+      "recipientEmail": "rajagopal@antra.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Resilience InfoTech",
+      "recipientEmail": "rajanip@resilienceitusa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DreamOrbit",
+      "recipientEmail": "rajani.siddhartha@dreamorbit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Xangars Solutions",
+      "recipientEmail": "m.rajashree@xangars.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NxtGen Infinite Datacenter",
+      "recipientEmail": "rajat.mehra@nxtgen.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Q3 Technologies",
+      "recipientEmail": "rajeeb@q3tech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Algonomy",
+      "recipientEmail": "rajeev.s@algonomy.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Medline India",
+      "recipientEmail": "rsen@medline.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EXILANT Technologies",
+      "recipientEmail": "rajendra.bn@exilant.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechAffinity",
+      "recipientEmail": "rajeshn@techaffinity.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Dremio",
+      "recipientEmail": "rajesh@dremio.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CoffeeBeans Consulting",
+      "recipientEmail": "rajeshb@coffeebeans.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ElectrifAi",
+      "recipientEmail": "rajesh.kethepalle@electrifai.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Goods And Services Tax Network",
+      "recipientEmail": "rajesh.yadav@gstn.org.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JMR Infotech",
+      "recipientEmail": "rajitha.jaffer@jmrinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cendyn",
+      "recipientEmail": "rkumar@cendyn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Growexx",
+      "recipientEmail": "rajni@growexx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ind Innovation",
+      "recipientEmail": "rajni.singh@indinnovation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zensark",
+      "recipientEmail": "rajsekhar.dangeti@zensark.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nsight",
+      "recipientEmail": "raju.vatsavayi@nsight-inc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Technodysis",
+      "recipientEmail": "rajyashree@technodysis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Skilrock Technologies",
+      "recipientEmail": "rakesh.arora@skilrock.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sugal & Damani",
+      "recipientEmail": "rakesh.arora@sugaldamani.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Taazaa Inc",
+      "recipientEmail": "rakesh@taazaa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IFTAS",
+      "recipientEmail": "rakesh.e@63moons.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Alpha Net",
+      "recipientEmail": "rakesh.kumar@anetcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mergen IT LLC",
+      "recipientEmail": "rakesh@mergenit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tejora",
+      "recipientEmail": "rakesh.vishwakarma@tejora.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Easy Eat AI",
+      "recipientEmail": "rakshita@easyeat.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kairos Technologies",
+      "recipientEmail": "ram.r@kairostech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MSRcosmos LLC",
+      "recipientEmail": "ramakrishnac@msrcosmos.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ParadigmIT",
+      "recipientEmail": "ramakrishna.jampala@paradigmit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SEEC",
+      "recipientEmail": "rtsk@seec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hirect India",
+      "recipientEmail": "ramani@hirect.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Optimize IT Systems",
+      "recipientEmail": "ramanjit.goswami@inadev.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iFocus Systec",
+      "recipientEmail": "ramanujam.cs@ifocussystec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Evoke Technologies",
+      "recipientEmail": "rmantana@evoketechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PURVIEW",
+      "recipientEmail": "ramesh.parepalli@purviewservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CEPTES Software",
+      "recipientEmail": "ramkrishna.sahu@ceptes.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aujas Cybersecurity",
+      "recipientEmail": "eradi.ramya@aujas.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Profinch",
+      "recipientEmail": "ramya.hv@profinch.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eMDs",
+      "recipientEmail": "rana.bose@emds.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RPS Consulting",
+      "recipientEmail": "ranjan.hooda@rpsconsulting.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Finesse Global",
+      "recipientEmail": "ranjana@finessedirect.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Iksula",
+      "recipientEmail": "ranjeeta.d@iksula.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Spanco BPO",
+      "recipientEmail": "ranjitd@spancobpo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HealthAsyst",
+      "recipientEmail": "ranjitha.s@healthasyst.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EA Team Inc",
+      "recipientEmail": "ranju@eateam.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Niveus Solutions",
+      "recipientEmail": "rashmi.george@niveussolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WisdmLabs",
+      "recipientEmail": "rashmi.gupte@wisdmlabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Softdel",
+      "recipientEmail": "rashmi.taksande@softdel.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TekLink International",
+      "recipientEmail": "rashmita.pradhan@teklink.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DataCore Software",
+      "recipientEmail": "rashmme.eshwar@datacore.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Creative Synergies Group",
+      "recipientEmail": "ratan.dalal@global-csg.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neviton Softech.",
+      "recipientEmail": "ratika.mirji@neviton.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Maintec Technologies",
+      "recipientEmail": "ratish@maintec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IANT",
+      "recipientEmail": "ratish.r@iantindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechTammina LLC",
+      "recipientEmail": "ravi.devara@tammina.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CRMIT Solutions",
+      "recipientEmail": "ravi.k@crmit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ZenQ",
+      "recipientEmail": "ravi.kuchampudi@zenq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saicon",
+      "recipientEmail": "rkumar@saiconinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WAISL",
+      "recipientEmail": "ravi.mourya@waisl.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Olive Technology",
+      "recipientEmail": "ravi@olivetech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "itelligence India Software Solutions",
+      "recipientEmail": "ravi.vattikota@itelligencegroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Span Technology Services",
+      "recipientEmail": "ravichandran@spantechnologyservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Prowess Software Services",
+      "recipientEmail": "ravindra.musunuru@prowesssoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Niyuj",
+      "recipientEmail": "ravish.chadha@niyuj.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Solverminds Solutions & Technologies",
+      "recipientEmail": "ravishanker.kannan@solverminds.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EPIKInDiFi",
+      "recipientEmail": "ravitha.devasenapathy@epikindifi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "STAND 8 Technology Services",
+      "recipientEmail": "ralbro@stand8.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mantra",
+      "recipientEmail": "reddy@mantratechno.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Matellio",
+      "recipientEmail": "reena@matellio.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AdaniConneX",
+      "recipientEmail": "reena.v@adani.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "63 moons Technologies",
+      "recipientEmail": "reenaa.s@63moons.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Navis",
+      "recipientEmail": "rekha.nair@navis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CodeForce 360",
+      "recipientEmail": "rekhap@codeforce.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SurePrep LLC",
+      "recipientEmail": "remi.vaz@sureprep.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Percipere",
+      "recipientEmail": "remisa.dhar@percipere.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bridge Global",
+      "recipientEmail": "renju.nithin@bridge-global.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AGDATA, LP",
+      "recipientEmail": "renu.srivastava@agdata.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Girmiti Software",
+      "recipientEmail": "reshma.bopanna@girmiti.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iBridge",
+      "recipientEmail": "revathi.venkatesh@ibridgellc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Glu Mobile",
+      "recipientEmail": "revathy.reddy@glu.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inatech",
+      "recipientEmail": "richa.pande@inatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PurpleTalk",
+      "recipientEmail": "joseph@purpletalk.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infobelt",
+      "recipientEmail": "rijil.kannoth@infobelt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Maropost",
+      "recipientEmail": "rima@maropost.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pelican.ai",
+      "recipientEmail": "rkukreja@pelican.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lumel",
+      "recipientEmail": "rinkuc@lumel.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CETPA Infotech",
+      "recipientEmail": "rishabhkalra@cetpainfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Angara E-Commerce",
+      "recipientEmail": "rishabh.jain@angara.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "GoldenSource",
+      "recipientEmail": "radvani@thegoldensource.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Docmation",
+      "recipientEmail": "rjatana@docmation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Codelogicx",
+      "recipientEmail": "ritika.jha@codelogicx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DotPe",
+      "recipientEmail": "ritika.malhotra@dotpe.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infollion Research Services",
+      "recipientEmail": "ritika.naithani@infollion.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zemoso Technologies",
+      "recipientEmail": "ritu.malhotra@zemosolabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BURGEON IT SERVICES",
+      "recipientEmail": "robin@burgeonits.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ECS Fin",
+      "recipientEmail": "robin.thomas@ecsfin.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Innobox",
+      "recipientEmail": "rohini@innobox.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kale Logistics Solutions",
+      "recipientEmail": "rohit.jain@kalelogistics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mindpool Technologies Inc",
+      "recipientEmail": "rohit@mindpooltech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Health Prime",
+      "recipientEmail": "rohit.minton@hpiinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ISSQUARED",
+      "recipientEmail": "rsingh@issquaredinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ForecastEra",
+      "recipientEmail": "roohi.syeda@forecastera.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bobcares",
+      "recipientEmail": "roopa.rajesh@bobcares.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AIT Global India",
+      "recipientEmail": "roopali@aitglobalinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Innoval Digital Solutions",
+      "recipientEmail": "roshan.thomas@ivldsp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netenric",
+      "recipientEmail": "roshni.j@netenrich.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apty",
+      "recipientEmail": "roshni.s@apty.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Altius",
+      "recipientEmail": "rosy.mitra@altiusdata.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Clearbit",
+      "recipientEmail": "ruchi@clearbit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Beetel",
+      "recipientEmail": "ruchi.batra@beetel.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neutrino Tech Systems",
+      "recipientEmail": "ruchi.bhayani@neutrinotechsystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ProdEx Technologies",
+      "recipientEmail": "ruchi@prodexnet.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lighthouse Info Systems",
+      "recipientEmail": "ruchi.jain@lighthouseindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Orange Business Services",
+      "recipientEmail": "ruchi.mago@orange.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HeadSpin",
+      "recipientEmail": "ruchi@headspin.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rooter App",
+      "recipientEmail": "ruchika@rooter.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CometChat",
+      "recipientEmail": "ruchika.sawhney@cometchat.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Micropro Software Solutions",
+      "recipientEmail": "rbagaddeo@microproindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bitwise India",
+      "recipientEmail": "rupali.veerkar@bitwiseglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eQ Technologic",
+      "recipientEmail": "rustom@1eq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cloudaction",
+      "recipientEmail": "sabina.juvekar@cloudaction.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vertex Global Services",
+      "recipientEmail": "sacchin.kalkal@vertexglobalservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TRIARQ Health India",
+      "recipientEmail": "sachin.girolla@triarqhealth.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Simpplr",
+      "recipientEmail": "sadi.hussain@simpplr.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InSync Solutions",
+      "recipientEmail": "sagorika.s@insync.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tecplix Technologies",
+      "recipientEmail": "sahana@tecplix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tera Software",
+      "recipientEmail": "sai.b@terasoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saransh Inc",
+      "recipientEmail": "sai.t@saranshinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DATAECONOMY",
+      "recipientEmail": "ssaranu@dataeconomy.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Futurism Technologies",
+      "recipientEmail": "sailyv@futurismtechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "i95Dev",
+      "recipientEmail": "sajani@i95dev.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Winjit Technologies",
+      "recipientEmail": "sakshia@winjit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Solace Infotech",
+      "recipientEmail": "sakshi.agrawal@solacetechnologies.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ceinsys Tech",
+      "recipientEmail": "sakshi.themaskar@ceinsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CDC Software",
+      "recipientEmail": "smanohar@cdcsoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ideyaLabs",
+      "recipientEmail": "samathar@ideyalabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RIA Advisory",
+      "recipientEmail": "sameer.deo@riaadvisory.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tavisca",
+      "recipientEmail": "sameer.jadhav@tavisca.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Equifax India",
+      "recipientEmail": "sameer.kumar@equifax.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Looking for Opportunities",
+      "recipientEmail": "ssamant@omnicogroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Brainly",
+      "recipientEmail": "sameera.chowdry@brainly.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ittiam Systems",
+      "recipientEmail": "samir.dhond@ittiam.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Skillmine Technology Consulting",
+      "recipientEmail": "samir.mehta@skill-mine.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FiftyFive Technologies",
+      "recipientEmail": "sanchis@fiftyfivetech.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Asset Analytix",
+      "recipientEmail": "sanchita.chakraborty@assetanalytix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Phoenix Advanced Softwares",
+      "recipientEmail": "adops@phoenixsoftwares.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Catchpoint",
+      "recipientEmail": "snair@catchpoint.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Singsys Pte",
+      "recipientEmail": "sandhya@singsys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IonIdea",
+      "recipientEmail": "sangeeta.tandon@ionidea.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Focus Softnet",
+      "recipientEmail": "sangeetha@focussoftnet.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AAPNA Infotech",
+      "recipientEmail": "sroy@aapnainfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BuyerForesight",
+      "recipientEmail": "sangita.nair@buyerforesight.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Secomind.AI",
+      "recipientEmail": "sanika.arora@piri.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RM Education Solutions India.",
+      "recipientEmail": "ssingh@in.rm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Joveo",
+      "recipientEmail": "sanjay.chandel@joveo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NCDEX e Markets",
+      "recipientEmail": "sanjay.mashere@neml.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ST Telemedia Global Data Centres",
+      "recipientEmail": "sanjay.mirchandani@sttelemediagdc.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ControlCase",
+      "recipientEmail": "sshanmugaum@controlcase.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zenith Software",
+      "recipientEmail": "sanjayv@zenithsoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Learning Spiral",
+      "recipientEmail": "sanjeeta@learningspiral.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Crestech Software",
+      "recipientEmail": "sanjeev.rana@crestechsoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Algoworks",
+      "recipientEmail": "sanjukta.biswas@algoworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Macrosoft",
+      "recipientEmail": "snath@macrosoftinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AutoRABIT",
+      "recipientEmail": "sanketh.r@autorabit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hexagon Global",
+      "recipientEmail": "santosh@hexagonglobal.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Agile CRM",
+      "recipientEmail": "santosh@agilecrm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saggezza",
+      "recipientEmail": "santosh.prajapati@saggezza.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rane t4u",
+      "recipientEmail": "santosh.s@telematics4u.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Leena AI",
+      "recipientEmail": "sanya.nagpal@leena.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AST LLC",
+      "recipientEmail": "sapana.suresh@trizetto.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EbixCash Financial Technologies",
+      "recipientEmail": "sapna.sukhrani@milessoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kore.ai",
+      "recipientEmail": "sarada.kandanur@kore.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Archwell",
+      "recipientEmail": "sarah.john@onearchwell.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vasudhaika Software",
+      "recipientEmail": "saraswathi@vasudhaika.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Core Solutions",
+      "recipientEmail": "saravanakumar@coresolutionsinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Janes",
+      "recipientEmail": "saravanan.muralidharan@janes.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Impiger Technologies",
+      "recipientEmail": "saravanan.thinagarasamy@impigertech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Montran Corporation",
+      "recipientEmail": "svaze@montran.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Games24x7",
+      "recipientEmail": "sarita.singh@games24x7.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ValGenesis",
+      "recipientEmail": "sathish.kumar@valgenesis.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amnet Systems",
+      "recipientEmail": "sathyaprakash.sekaran@amnet-systems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "C1X",
+      "recipientEmail": "sathyanarayanan@c1exchange.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LiquidHub",
+      "recipientEmail": "skumar@liquidhub.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Wilco Source",
+      "recipientEmail": "satyak@wilcosource.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BBM",
+      "recipientEmail": "satyanrayana.s@bbm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Krish Compusoft Services",
+      "recipientEmail": "satyendu.naik@kcsitglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rayden Interactive",
+      "recipientEmail": "saud.zafar@raydeninteractive.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SUMERU SOFTWARE SOLUTIONS",
+      "recipientEmail": "saurabh.jadhav@sumerusolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iauro Systems",
+      "recipientEmail": "slion@curologic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Stellar Information Technology",
+      "recipientEmail": "saurabh.srivastavaa@stellarinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iPass",
+      "recipientEmail": "skaranth@ipass.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Reflections Info Systems",
+      "recipientEmail": "sayeram.balakumar@reflectionsinfos.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Juntran Technologies",
+      "recipientEmail": "hameed@juntrantech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Heptagon Technologies",
+      "recipientEmail": "seema@heptagon.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SigTuple",
+      "recipientEmail": "seema.singh@sigtuple.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Magic EdTech",
+      "recipientEmail": "shagun.bhunchal@magicedtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quadrant Resource",
+      "recipientEmail": "shahed@quadrantresource.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Prodevans Technologies",
+      "recipientEmail": "shaheen@prodevans.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BUDDI AI",
+      "recipientEmail": "shailender@buddi.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VOLANSYS",
+      "recipientEmail": "shaili.trivedi@volansys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MatchPoint Solutions",
+      "recipientEmail": "shakeel@matchpointsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bizom",
+      "recipientEmail": "shalaka.kothawale@bizom.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RxLogix",
+      "recipientEmail": "singh.shalini@rxlogix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SixSails",
+      "recipientEmail": "shalinib@sixsails.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intelegain Technologies",
+      "recipientEmail": "shalini@intelegain.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Accelalpha",
+      "recipientEmail": "shalini.director@accelalpha.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Deque Systems",
+      "recipientEmail": "shalini.james@deque.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "eReleGo Technologies",
+      "recipientEmail": "shalini@erelego.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ARK Infosolutions",
+      "recipientEmail": "shalini.pathak@arkinfo.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nexval Group",
+      "recipientEmail": "shambhavi.sharma@nexval.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InfraBeat Technologies",
+      "recipientEmail": "shamika.kulkarni@infrabeat.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Naico ITS",
+      "recipientEmail": "shamna.libu@naicoits.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Editorialist",
+      "recipientEmail": "shams.tabrez@editorialistyx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rite Software",
+      "recipientEmail": "shani.ramakrishnan@ritesoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Blume Global",
+      "recipientEmail": "sharad.srivastava@blumeglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Concord Technologies",
+      "recipientEmail": "sharanya.g@concord.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Spiceworks Ziff Davis",
+      "recipientEmail": "sharika.bhatte@spiceworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TALENTPLOYER",
+      "recipientEmail": "sharmila@talentployer.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Evolgence Telecom Systems",
+      "recipientEmail": "sharmilaa.k@evolgence.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Litmus7",
+      "recipientEmail": "sharon.manaloor@litmus7.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Wibmo",
+      "recipientEmail": "sharon.narang@wibmo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DLT Labs",
+      "recipientEmail": "sharon.nijhawan@dltlabs.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RevGurus Inc",
+      "recipientEmail": "sharwari.shah@revgurus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Celcom Solutions Global",
+      "recipientEmail": "shashikanta@celcomsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MulticoreWare Inc",
+      "recipientEmail": "shashi@multicorewareinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cognitus",
+      "recipientEmail": "sbiswas@cognitusconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ContractPodAi",
+      "recipientEmail": "sheetal.deshmukh@contractpodai.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gameopedia",
+      "recipientEmail": "sheetal@gameopedia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ReBIT",
+      "recipientEmail": "shenoj.balaraman@rebit.org.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CashKaro.com",
+      "recipientEmail": "shhweta@cashkaro.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RAH Infotech",
+      "recipientEmail": "shikha@rahinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tata Communications",
+      "recipientEmail": "shikha.gupta@tatacommunications.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "KlearNow",
+      "recipientEmail": "shikha.kothari@klearnow.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FranConnect",
+      "recipientEmail": "shikha.soni@franconnect.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Anaqua",
+      "recipientEmail": "sshukla@anaqua.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kiya.ai",
+      "recipientEmail": "shilpa.tungikar@infrasofttech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netomi",
+      "recipientEmail": "shilpi@netomi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Petro IT",
+      "recipientEmail": "shilpikar@petroit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JUSPAY",
+      "recipientEmail": "shipra.pandit@juspay.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Milkbasket",
+      "recipientEmail": "shishir.singh@milkbasket.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "coMakeIT",
+      "recipientEmail": "shiva@comakeit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tanisha Systems",
+      "recipientEmail": "sshukla@tanishasystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sense",
+      "recipientEmail": "shivangi@sensehq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Virtual Height IT Services",
+      "recipientEmail": "shivani@virtualheight.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digitate",
+      "recipientEmail": "khanna.shivani@digitate.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ACPL Systems",
+      "recipientEmail": "shivani@acpl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NuWare",
+      "recipientEmail": "shoaib.ahmed@nuware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Digite",
+      "recipientEmail": "shraddha@digite.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LRN",
+      "recipientEmail": "shreeja.santosh@lrn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Four Soft",
+      "recipientEmail": "shreelipta.mishra@blujaysolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BlueRose Technologies",
+      "recipientEmail": "shreesh_katti@bluerose-tech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Valuepitch E Technologies",
+      "recipientEmail": "shreyasi@valuepitch.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Agile Global Solutions",
+      "recipientEmail": "shrikant@agileglobalsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NetCom Learning",
+      "recipientEmail": "shruti.bhargava@netcomlearning.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kastech Software Solutions Group",
+      "recipientEmail": "shubham@kastechssg.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Soltius Indonesia",
+      "recipientEmail": "shubha.menon@soltius.co.id",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Atyeti Inc",
+      "recipientEmail": "shubhada.kale@atyeti.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ameyo",
+      "recipientEmail": "shubhamkatiyar@ameyo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "C-Zentrix",
+      "recipientEmail": "shubhra.narang@c-zentrix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ValueCoders",
+      "recipientEmail": "shweta@valuecoders.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Destek Infosolutions",
+      "recipientEmail": "shweta@desteksolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aurus Inc",
+      "recipientEmail": "smurthy@aurusinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ayoconnect",
+      "recipientEmail": "shwetasetia@ayoconnect.id",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RudderStack",
+      "recipientEmail": "shwetha@rudderstack.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Neudesic Technologies",
+      "recipientEmail": "shyam.warrier@neudesic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Leader Investment Group - LIG",
+      "recipientEmail": "shyama@lesoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tarento Group",
+      "recipientEmail": "shyamili.satyendran@tarento.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Netcon Technologies India",
+      "recipientEmail": "shyni.k@netcon.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Credencys Solutions",
+      "recipientEmail": "siddharth.gaur@credencys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Hexagon Geosystems",
+      "recipientEmail": "simran.nair@hexagon.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SCIO Health Analytics",
+      "recipientEmail": "sprabakar@sciohealthanalytics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ITTDigital",
+      "recipientEmail": "sini@ittdigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CallidusCloud",
+      "recipientEmail": "sp@calliduscloud.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aggne",
+      "recipientEmail": "sirisree.dayanand@aggne.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ProV International",
+      "recipientEmail": "sivasankar.r@provintl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infinite Uptime",
+      "recipientEmail": "smita.narkar@infinite-uptime.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CyberSec Consulting",
+      "recipientEmail": "smitha@cybersecit.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aptos Retail",
+      "recipientEmail": "smitha.pradeep@aptos.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Applexus Technologies",
+      "recipientEmail": "smitha.sajo@applexus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Alchemy Techsol India",
+      "recipientEmail": "smitha@alchemysolutions.asia",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Merkle Science",
+      "recipientEmail": "sneha@merklescience.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Virinchi",
+      "recipientEmail": "sneha@virinchi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tenerity India",
+      "recipientEmail": "sneha@tavisca.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cientra",
+      "recipientEmail": "snehdeep.ambarkar@cientra.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "JioSaavn",
+      "recipientEmail": "snigdha@saavn.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Solution Analysts",
+      "recipientEmail": "solution.head@solutionanalysts.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Encore Software Services",
+      "recipientEmail": "sgupta@encoress.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "InfoStride",
+      "recipientEmail": "somesh.sharma@infostride.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Gram Tarang Employability Training Services",
+      "recipientEmail": "somya.babu@gramtarang.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MobileCoderz",
+      "recipientEmail": "sonal.srivastava@mobilecoderz.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pratham Software",
+      "recipientEmail": "sonal.upadhyay@thepsi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Select Source International",
+      "recipientEmail": "sonalip@selectsourceintl.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cyntexa",
+      "recipientEmail": "hr@cyntexa.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intelegencia",
+      "recipientEmail": "sonali.titus@intelegencia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TransUnion CIBIL",
+      "recipientEmail": "sonam.dwivedi@transunion.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Klaus IT Solutions",
+      "recipientEmail": "sonia@klausit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ReshaMandi",
+      "recipientEmail": "sophronia@reshamandi.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zoondia",
+      "recipientEmail": "soumya@zoondia.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "impress.ai",
+      "recipientEmail": "soumya@impress.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CTS",
+      "recipientEmail": "soundarya.murugaiyan@cts.co",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fiserv Insurance Solutions",
+      "recipientEmail": "sourabh.jain@fiserv.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Drishti",
+      "recipientEmail": "s.rai@drishti.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Value Point Systems",
+      "recipientEmail": "sourabha.ravi@valuepointsystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Frontizo Business Services",
+      "recipientEmail": "sourik.s@frontizo.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Probe42",
+      "recipientEmail": "sowmya@probeinformation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "StraViso",
+      "recipientEmail": "sree@straviso.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Skuad",
+      "recipientEmail": "sreeja.sreedharan@skuad.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EagleView India",
+      "recipientEmail": "sreepriya@eagleview.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "System Soft Technologies",
+      "recipientEmail": "sreevalli.k@sstech.us",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ITOrizon",
+      "recipientEmail": "sreevidhya.shashi@itorizon.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aztecsoft",
+      "recipientEmail": "sputta@aztecsoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Jeevan Technologies",
+      "recipientEmail": "sridevi.v@jeevantechnologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BoardEx",
+      "recipientEmail": "sridhar.srinivasan@boardex.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Techpoint",
+      "recipientEmail": "srikanthb@techpointsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Komprise",
+      "recipientEmail": "srikanth.sathyanarayana@komprise.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FUGO Services",
+      "recipientEmail": "srikrishna@fugoservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Collaborate Solutions",
+      "recipientEmail": "srinivas@collaboratesolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inspirage",
+      "recipientEmail": "srinivas.talampuranam@inspirage.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Tetrasoft",
+      "recipientEmail": "ssundaram@tetrasoft.us",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kumaran Systems",
+      "recipientEmail": "srivathsan.mg@kumaran.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SpringML",
+      "recipientEmail": "srividhya.deshpande@springml.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Geval6 Inc",
+      "recipientEmail": "suba@geval6.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "EDR Continuous Information",
+      "recipientEmail": "sdas@edrinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Manappuram Comptech & Consultants",
+      "recipientEmail": "subhashbv@macomsolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Silverline",
+      "recipientEmail": "subhash.chandra@silverlinecrm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SumTotal Systems",
+      "recipientEmail": "subramanian.adaikalam@sumtotalsystems. com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Logisoft Technologies",
+      "recipientEmail": "subramanian@logisofttechinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aequor Technologies",
+      "recipientEmail": "sponnusamy@aequor.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TAC",
+      "recipientEmail": "mathew@techautocons.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mindstix Software Labs",
+      "recipientEmail": "sucheta.ukidve@mindstix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SSIT",
+      "recipientEmail": "sudeep.chakkingal@ssitsol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Noblesoft Technologies",
+      "recipientEmail": "sudhakar@noblesoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "i-Source Infosystems",
+      "recipientEmail": "sudhindra.sarnobat@isourceinfosystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sears Holdings India",
+      "recipientEmail": "sudhir.salve@searshc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Y Media Labs",
+      "recipientEmail": "suguna.rajaram@ymedialabs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AmZetta Technologies",
+      "recipientEmail": "suhasinir@amzetta.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "OneGlobe",
+      "recipientEmail": "sujatha.v@oneglobesystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Aethereus",
+      "recipientEmail": "sujit.jiandani@aethereus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Napier Healthcare",
+      "recipientEmail": "sukeshni.tulasi@napierhealthcare.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ITILITE",
+      "recipientEmail": "sukhpreet.sandhu@itilite.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Truminds Software Systems",
+      "recipientEmail": "sulabh.daigavhane@truminds.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ultimate Digital Solutions",
+      "recipientEmail": "suman.mukherjee@ultimatesolutions.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NR Consulting",
+      "recipientEmail": "sumit.k@nrconsultingservice.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "U3 Infotech",
+      "recipientEmail": "sunaina@u3infotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Telliant Systems",
+      "recipientEmail": "sunandha@telliant.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Business Integra Inc",
+      "recipientEmail": "sunder.rangarajan@businessintegra.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "The MIL Corporation",
+      "recipientEmail": "skapoor@milcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infosys Finacle",
+      "recipientEmail": "sunila_jaikumar@edgeverve.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AG Technologies",
+      "recipientEmail": "sunit.kanoi@ag-technologies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Relationship Science",
+      "recipientEmail": "sdave@relsci.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Affluent Global Services",
+      "recipientEmail": "sunithas@affluentgs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MediaAgility",
+      "recipientEmail": "sunny.chavan@mediaagility.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Unitech",
+      "recipientEmail": "sunny.shroff@unitech-rio.com.br",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Utopia Global",
+      "recipientEmail": "ssekhar@utopiainc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Euclid Innovations",
+      "recipientEmail": "supreeth.gudla@euclidinnovations.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ecolab Digital Center",
+      "recipientEmail": "supriya.a@ecolabdigitalcenter.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Konverge Technologies",
+      "recipientEmail": "hr.mumbai@konverge.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Doyen Infosolutions",
+      "recipientEmail": "supriya.lulla@doyen.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DeepTek",
+      "recipientEmail": "supriya.shonu@deeptek.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "_G10X",
+      "recipientEmail": "suraj.shylaja@g10x.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "StockEdge",
+      "recipientEmail": "surajeet@stockedge.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Enquero",
+      "recipientEmail": "surbhi.gupta@enquero.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kapture CRM",
+      "recipientEmail": "surbhi.sinha@kapture.cx",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Foodhub",
+      "recipientEmail": "suresh.aade@foodhub.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vuram",
+      "recipientEmail": "sureshc@vuram.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TrueTech Solutions",
+      "recipientEmail": "suresh@truetechsolutions.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "AspireNXT",
+      "recipientEmail": "suresh@aspirenxt.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kutir Corporation",
+      "recipientEmail": "tsuresh@kutirtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Azilen Technologies",
+      "recipientEmail": "suruchi.handa@azilen.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Contec Global",
+      "recipientEmail": "skhosla@contecglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kissflow",
+      "recipientEmail": "susan@kissflow.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Expedite Technology Solutions",
+      "recipientEmail": "sushil.kumar@expediteinc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sigma-Byte Computers",
+      "recipientEmail": "suvarna_f@sigma-byte.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ubique Systems",
+      "recipientEmail": "suvro.karmakar@ubique-systems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ankercloud GmbH",
+      "recipientEmail": "suzanna.tapala@ankercloud.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechnoIdentity",
+      "recipientEmail": "sveta.shenoy@technoidentity.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Transact Campus Inc",
+      "recipientEmail": "swaminathan.srinivasan@transactcampus. com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Optimum Solutions",
+      "recipientEmail": "swapna.krishna@theoptimum.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pragmasys Consulting",
+      "recipientEmail": "swapnil.bhoskar@pragmasys.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "IRIS Business Services",
+      "recipientEmail": "swapnil.trikane@irisbusiness.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Quarks",
+      "recipientEmail": "swarup.chowdhury@qtsolv.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ATSG",
+      "recipientEmail": "snarayan@atsg.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Envoy Global",
+      "recipientEmail": "swathi.s@envoyglobal.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ZiMetrics Technologies",
+      "recipientEmail": "swatip@zimetrics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TrioTree Technologies",
+      "recipientEmail": "swati.sharma@triotree.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mantra Softech",
+      "recipientEmail": "suryavanshi.swati@mantratec.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Alvaria",
+      "recipientEmail": "sweety.rath@aspect.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Saltside",
+      "recipientEmail": "sbidwai@saltside.se",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rizzle",
+      "recipientEmail": "sweta@rizzle.tv",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Indus Valley Partners",
+      "recipientEmail": "smishra@ivp.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "HackerEarth",
+      "recipientEmail": "swetha@hackerearth.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Intone",
+      "recipientEmail": "swetha@intonenetworks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Reliable Software",
+      "recipientEmail": "syed.faizan@rsrit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Helpshift",
+      "recipientEmail": "syed@helpshift.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CEDCOSS Technologies",
+      "recipientEmail": "syedmehandi@cedcoss.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Megasoft Solutions India",
+      "recipientEmail": "syed.rizvi@megasoftsol.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "91social",
+      "recipientEmail": "tanisha@91social.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "RioMed",
+      "recipientEmail": "tanuj.sonawale@riomed.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CodersBrain",
+      "recipientEmail": "tanuj@codersbrain.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VLink Inc",
+      "recipientEmail": "tanvi.mittal@vlinkinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Maantic Inc",
+      "recipientEmail": "tanvi.salpekar@maantic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Placement Services",
+      "recipientEmail": "tariq@pfinfotech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nevaeh Technology",
+      "recipientEmail": "tarit.bhaumik@nevaehtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SupraSoft",
+      "recipientEmail": "krtk@suprasoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TruckX Inc",
+      "recipientEmail": "tejinder@truckx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Symbiosis Technologies",
+      "recipientEmail": "tess.burlow@symbiosystech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sakhatech Information Systems",
+      "recipientEmail": "thejaswini.kulkarni@sakhatech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Azuga",
+      "recipientEmail": "thomask@azuga.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Opt IT Technologies",
+      "recipientEmail": "thrishala.n@optit.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Exly",
+      "recipientEmail": "timcy@exlyapp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NovelVox",
+      "recipientEmail": "t.jain@novelvox.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Nirvana Solutions",
+      "recipientEmail": "trisha.chandra@nirvanasolutions.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Inteliment",
+      "recipientEmail": "trupti.pansare@inteliment.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Optym",
+      "recipientEmail": "trupti.shukla@optym.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Planful",
+      "recipientEmail": "tpochampally@hostanalytics.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cadmaxx Solutions",
+      "recipientEmail": "udaykumar@cadmaxx.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Software Data (India) - SDIL",
+      "recipientEmail": "udit@dataincindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "MINDTREE",
+      "recipientEmail": "uma_maheshwari@mindtree.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Magnasoft",
+      "recipientEmail": "uma.hr@magnasoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Acuver Consulting",
+      "recipientEmail": "umar.k@acuverconsulting.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Systematix Infotech",
+      "recipientEmail": "usha.jaiswal@systematixindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NathCorp",
+      "recipientEmail": "usha.nath@nathcorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CUBE84",
+      "recipientEmail": "usha@cube84.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Embee Software",
+      "recipientEmail": "utsav.kothari@embee.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "FCI CCM",
+      "recipientEmail": "vaibhav.khanna@fci-ccm.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Scienaptic AI",
+      "recipientEmail": "vaibhav@scienaptic.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infogen Labs",
+      "recipientEmail": "vaibhavi.j@infogen-labs.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Infinity",
+      "recipientEmail": "vaidhyanathan@infinitysts.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "California Software",
+      "recipientEmail": "vaidyanathan@calsof.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vibrent Health",
+      "recipientEmail": "vgandhi@vibrenthealth.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Adapty",
+      "recipientEmail": "vandana.pandey@adapty.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ValueFirst",
+      "recipientEmail": "vandana.roy@vfirst.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Amnet Digital",
+      "recipientEmail": "vara.tupalli@amnetdigital.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Agile Financial Technologies",
+      "recipientEmail": "vardhini.mani@agile-ft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rapid Innovation",
+      "recipientEmail": "tyson@rapidinnovation.dev",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Consystent Infotech",
+      "recipientEmail": "varsha@consystentinfo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Fintellix Solutions",
+      "recipientEmail": "varsha.sethia@fintellix.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ServiceMax",
+      "recipientEmail": "varsha.shekar@servicemax.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Birdeye",
+      "recipientEmail": "varun.wadhwa@birdeye.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Kensium",
+      "recipientEmail": "vasudevm@kensium.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Highstreet IT Solutions",
+      "recipientEmail": "veena.rao@highstreetit.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "PlanSource",
+      "recipientEmail": "veena.vishnu@plansource.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "V2Soft",
+      "recipientEmail": "vradha@v2soft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "United Online",
+      "recipientEmail": "ratnakar@corp.untd.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Symphony Corporation",
+      "recipientEmail": "venkata.kuruhuri@symphonycorp.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Changepond Technologies",
+      "recipientEmail": "vs@changepond.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "VRIZE",
+      "recipientEmail": "venkatesh.bj@vrize.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "USEReady",
+      "recipientEmail": "venkateshg@useready.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "La Net Team Software Solution.",
+      "recipientEmail": "vickky.sahoo@lanetteam.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SuperOps.ai",
+      "recipientEmail": "vidhya.sam@superops.ai",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WovV Technologies",
+      "recipientEmail": "vidya.salve@wovvtech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Reputation.com",
+      "recipientEmail": "vsrikumar@reputation.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "ToneTag",
+      "recipientEmail": "vigilmthomas@tonetag.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Calcium",
+      "recipientEmail": "vignesh.m@myhealthchampion.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Rahi",
+      "recipientEmail": "vijay.gupta@rahisystems.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BukuWarung",
+      "recipientEmail": "vijay.kumar@bukuwarung.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Contus",
+      "recipientEmail": "vijaykumar.r@contus.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DWAO",
+      "recipientEmail": "vijaypundir@dwao.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Apollo",
+      "recipientEmail": "vijay.rai@apollo.engineer",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NAVA Software Solutions",
+      "recipientEmail": "vijay.r@navasoftware.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "LeadIQ",
+      "recipientEmail": "vijay@leadiq.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Acqueon",
+      "recipientEmail": "vijay.unnikrishnan@acqueon.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "SightSpectrum LLC",
+      "recipientEmail": "vijayar@sightspectrum.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Lera Technologies",
+      "recipientEmail": "vijayakrishna.t@lera.us",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sellcraft Global Solutions",
+      "recipientEmail": "vijayeta@sellcraft.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "iMocha",
+      "recipientEmail": "viju@imocha.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Cordys",
+      "recipientEmail": "vkallianpur@cordys.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Vouchagram India",
+      "recipientEmail": "vikram@gyftr.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "WeblineIndia",
+      "recipientEmail": "vikrant@weblineindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CDP India",
+      "recipientEmail": "vimal.balsara@cdpindia.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "BelWo Inc",
+      "recipientEmail": "vinay.karrow@belwo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TechGenies",
+      "recipientEmail": "vinay.mahajan@techgenies.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "itelligence",
+      "recipientEmail": "vineela.gopalajosyula@itelligencegroup.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "DSRC",
+      "recipientEmail": "vinibha@dsrc.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TOPS Technologies",
+      "recipientEmail": "vinny@tops-int.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "NeelBlue Technologies",
+      "recipientEmail": "vinod.ch@neelblue.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Ally.io",
+      "recipientEmail": "vinod@ally.io",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "i2 Technologies",
+      "recipientEmail": "vinok.sequeria@jda.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Resulticks",
+      "recipientEmail": "vinutha.govindan@resulticks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Codilar Technologies",
+      "recipientEmail": "vipin.r@codilar.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Headout",
+      "recipientEmail": "viraaj@headout.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Zen & Art",
+      "recipientEmail": "vishal.kanade@zenart.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Mylo",
+      "recipientEmail": "vishal.naithani@mylofamily.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Alumnus Software",
+      "recipientEmail": "vishal@alumnux.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Bitla Software",
+      "recipientEmail": "vishnu.vardhan@bitlasoft.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "UniFocus",
+      "recipientEmail": "varora@unifocus.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Platform9 Systems",
+      "recipientEmail": "vishwa@platform9.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Shivaami Cloud Services",
+      "recipientEmail": "vishwajit@shivaami.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "CodeCraft Technologies",
+      "recipientEmail": "vishwanath.belliappa@codecraft.co.in",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Pacific Global",
+      "recipientEmail": "vivek@pacificbpo.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Helius Technologies",
+      "recipientEmail": "vivek@helius-tech.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "News Technology Services",
+      "recipientEmail": "vivek.saxena@newstechnologyservices.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "TrusTrace",
+      "recipientEmail": "vyas.ramaraj@trustrace.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Techmango Technology Services",
+      "recipientEmail": "yasar.j@techmango.net",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Blubirch",
+      "recipientEmail": "yashwanths@blubirch.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Contentstack",
+      "recipientEmail": "yesha.brahmbhatt@contentstack.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Sandhata Technologies",
+      "recipientEmail": "yogesh.waran@sandhata.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Versa Networks",
+      "recipientEmail": "zarnatrivedi@versa-networks.com",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "Luminescent Digital",
+      "recipientEmail": "zeeshan.khan@luminescent.digital",
+      "roleTarget": "Full-Stack Developer"
+    },
+    {
+      "companyName": "bluepineapple",
+      "recipientEmail": "zia.alam@bluepineapple.io",
+      "roleTarget": "Full-Stack Developer"
+    }
+  ]
+}

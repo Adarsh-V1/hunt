@@ -1,0 +1,158 @@
+{
+  "generatedAt": "2026-05-28T02:04:56.298Z",
+  "scope": "First 20 Gurugram/Haryana companies from user list",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 6,
+  "failedCount": 0,
+  "skippedCount": 14,
+  "results": [
+    {
+      "company": "Daffodil Software",
+      "role": "Frontend / React / Full-Stack Developer",
+      "recipients": "info@daffodilsw.com",
+      "reason": "official general contact; no HR email found",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<faa8d3f7-2b9f-b7b1-0495-4f0ebf0b2c0a@gmail.com>",
+      "response": "250 2.0.0 OK  1779933866 98e67ed59e1d1-36b90950ea4sm224931a91.14 - gsmtp",
+      "accepted": [
+        "info@daffodilsw.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Classic Informatics",
+      "role": "Frontend / React / Full-Stack Developer",
+      "recipients": "hello@classicinformatics.com",
+      "reason": "official careers/contact email",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<ea77fed4-9c75-af43-b876-3d747a1c9f48@gmail.com>",
+      "response": "250 2.0.0 OK  1779933873 d2e1a72fcca58-841d72f10casm3597139b3a.48 - gsmtp",
+      "accepted": [
+        "hello@classicinformatics.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "mTraction Enterprise / Affle mE",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "enterprise@affle.com",
+      "reason": "official Gurugram contact email",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<61226535-59e2-ef95-fedd-6ccdbdc3e803@gmail.com>",
+      "response": "250 2.0.0 OK  1779933878 d2e1a72fcca58-841d71f2d45sm4169572b3a.47 - gsmtp",
+      "accepted": [
+        "enterprise@affle.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "BigStep Technologies",
+      "role": "Backend / Full-Stack Developer",
+      "recipients": "hr@bigsteptech.com",
+      "reason": "public HR email in placement document",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<4bb99d66-cccb-2135-aec6-1f79e3b17e3b@gmail.com>",
+      "response": "250 2.0.0 OK  1779933883 d9443c01a7336-2beb56ce43bsm156887855ad.28 - gsmtp",
+      "accepted": [
+        "hr@bigsteptech.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Squareboat",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "hi@squareboat.com",
+      "reason": "official general contact; careers page has engineering roles",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<75ff9cf9-9170-6979-61c4-37af32d3f3d3@gmail.com>",
+      "response": "250 2.0.0 OK  1779933889 d9443c01a7336-2befda361c4sm12040385ad.32 - gsmtp",
+      "accepted": [
+        "hi@squareboat.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Ezeiatech Systems",
+      "role": "ReactJS / Frontend Developer",
+      "recipients": "sales@ezeiatech.com",
+      "reason": "official careers page lists ReactJS/frontend roles; only public email is general sales",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<377c3e47-fbb4-59a0-63d7-6963129cbedb@gmail.com>",
+      "response": "250 2.0.0 OK  1779933894 d2e1a72fcca58-841d6eb031fsm4699029b3a.16 - gsmtp",
+      "accepted": [
+        "sales@ezeiatech.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ],
+  "skipped": [
+    {
+      "company": "Cvent",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Gartner",
+      "reason": "not selected due to lower confidence or non-application route"
+    },
+    {
+      "company": "Sprinklr",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Nagarro",
+      "reason": "not selected due to lower confidence or non-application route"
+    },
+    {
+      "company": "Publicis Sapient",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Xebia",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Damco Solutions",
+      "reason": "already sent in existing history"
+    },
+    {
+      "company": "OrangeMantra",
+      "reason": "already sent in existing history"
+    },
+    {
+      "company": "ValueCoders",
+      "reason": "not selected due to lower confidence or non-application route"
+    },
+    {
+      "company": "Oodles Technologies",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Dean Infotech",
+      "reason": "not selected due to lower confidence or non-application route"
+    },
+    {
+      "company": "CIGNEX",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Programming.com",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "VAYUZ Technologies",
+      "reason": "apply link only / no public email confirmed"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-05-31T05:42:52.175Z",
+  "inputFile": "outreach/user-batch-2026-06-01-b11.json",
+  "inputCount": 6,
+  "sentCount": 6,
+  "failedCount": 0,
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "results": [
+    {
+      "companyName": "TAC Security",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "mail@tacsecurity.com",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<2e8c121a-1827-841a-57b5-5d6889f3212e@gmail.com>",
+      "response": "250 2.0.0 OK  1780206147 98e67ed59e1d1-36d8a474346sm945167a91.2 - gsmtp",
+      "accepted": [
+        "mail@tacsecurity.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Xornor Technologies",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "sales@xornor.co",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<0396fc98-5d7a-132f-6600-5369dbe37722@gmail.com>",
+      "response": "250 2.0.0 OK  1780206152 41be03b00d2f7-c85a187eb12sm1267890a12.6 - gsmtp",
+      "accepted": [
+        "sales@xornor.co"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "DigiMantra Labs",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "careers@digimantra.com",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<99869889-cead-cda5-2949-1d94a67c0cfa@gmail.com>",
+      "response": "250 2.0.0 OK  1780206157 d2e1a72fcca58-84214b6797esm7315084b3a.26 - gsmtp",
+      "accepted": [
+        "careers@digimantra.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Blocvibe Technologies",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "info@blocvibe.com",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<528de5ae-dd14-4ec3-64e8-dde15f28f172@gmail.com>",
+      "response": "250 2.0.0 OK  1780206162 d2e1a72fcca58-84214c9252bsm6516798b3a.39 - gsmtp",
+      "accepted": [
+        "info@blocvibe.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Emboss Digital",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "info@embossdigital.com",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<dd349fc9-5566-3531-a6a1-8bf3ed0a7ce2@gmail.com>",
+      "response": "250 2.0.0 OK  1780206167 41be03b00d2f7-c85861d5fe2sm3858824a12.8 - gsmtp",
+      "accepted": [
+        "info@embossdigital.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Accelleron",
+      "roleTarget": "Full-Stack Developer",
+      "recipientEmail": "hr@accelleron-industries.com",
+      "status": "Sent",
+      "sentDate": "2026-05-31",
+      "messageId": "<0681b304-3326-d534-a232-bb32bba4e155@gmail.com>",
+      "response": "250 2.0.0 OK  1780206171 d9443c01a7336-2bf23a27ee3sm67439385ad.36 - gsmtp",
+      "accepted": [
+        "hr@accelleron-industries.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ]
+}

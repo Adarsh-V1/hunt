@@ -1,0 +1,188 @@
+{
+  "generatedAt": "2026-05-28T02:20:40.260Z",
+  "scope": "Companies 21-40 from user-provided Gurugram/Haryana list",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 8,
+  "failedCount": 0,
+  "skippedCount": 12,
+  "results": [
+    {
+      "company": "Snapmint",
+      "role": "Frontend / React / Full-Stack Developer",
+      "recipients": "hr@snapmint.com",
+      "reason": "official careers page application email",
+      "companyContext": "Snapmint's credit/EMI product needs reliable user-facing product flows and clean engineering execution",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<1b90ce23-92c5-67d4-0dae-c001844e3295@gmail.com>",
+      "response": "250 2.0.0 OK  1779934802 98e67ed59e1d1-36b908daa0asm264024a91.4 - gsmtp",
+      "accepted": [
+        "hr@snapmint.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Wishlink",
+      "role": "Frontend / React / Full-Stack Developer",
+      "recipients": "careers@wishlink.com",
+      "reason": "public careers page contact email",
+      "companyContext": "Wishlink operates at the intersection of creator commerce and e-commerce, where responsive UI and scalable product features matter",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<b1daab8d-0863-06f5-7f40-ffa9e85e0db6@gmail.com>",
+      "response": "250 2.0.0 OK  1779934808 d9443c01a7336-2beb56b51aesm214574835ad.19 - gsmtp",
+      "accepted": [
+        "careers@wishlink.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Bellurbis",
+      "role": "MERN Stack / Full-Stack Developer",
+      "recipients": "info@bellurbis.com",
+      "reason": "official general contact email; no HR inbox found",
+      "companyContext": "Bellurbis builds digital products across web and mobile, which aligns with practical MERN/full-stack project delivery",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<5f88106a-4879-a958-af3a-e5643b14400e@gmail.com>",
+      "response": "250 2.0.0 OK  1779934813 41be03b00d2f7-c8520560ff8sm13686645a12.24 - gsmtp",
+      "accepted": [
+        "info@bellurbis.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "MSM Unify",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "careers@msquaremedia.com",
+      "reason": "public careers email for M Square Media/MSM",
+      "companyContext": "MSM Unify's education marketplace and student platform work benefits from clear frontend flows and dependable API integrations",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<9c0ebbcb-7464-6a17-c792-74aac860c50d@gmail.com>",
+      "response": "250 2.0.0 OK  1779934818 d9443c01a7336-2beb58b2ea3sm169954215ad.43 - gsmtp",
+      "accepted": [
+        "careers@msquaremedia.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Zed-Axis Technologies",
+      "role": "Backend / Full-Stack Developer",
+      "recipients": "hr@zed-axis.com",
+      "reason": "official Career Contact email",
+      "companyContext": "Zed-Axis focuses on BI, mobility, distribution, and service-management software where backend services and data-driven interfaces are important",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<33e6a0a6-62d7-2fc7-63a8-ac74373e353b@gmail.com>",
+      "response": "250 2.0.0 OK  1779934823 d2e1a72fcca58-841d6eb031fsm4725952b3a.16 - gsmtp",
+      "accepted": [
+        "hr@zed-axis.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Shunya Ekai Technologies",
+      "role": "MERN Stack / Frontend / Full-Stack Developer",
+      "recipients": "hr@shunyaekai.tech",
+      "reason": "public LinkedIn hiring email and official careers roles",
+      "companyContext": "Shunya Ekai's IoT, robotics, and software products need modern dashboards, web apps, and integrations",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<8f231f10-6472-97f7-0768-d7540d73f5f3@gmail.com>",
+      "response": "250 2.0.0 OK  1779934828 d9443c01a7336-2bed2061c59sm111581265ad.2 - gsmtp",
+      "accepted": [
+        "hr@shunyaekai.tech"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Essence Software Solutions",
+      "role": "Frontend / Web / Full-Stack Developer",
+      "recipients": "contact@essencesoftwares.com",
+      "reason": "official general contact email; no HR inbox found",
+      "companyContext": "Essence Software Solutions works across web, app, IoT, and startup consulting projects where broad full-stack execution is useful",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<50e4c7e7-4b1a-4523-3825-2faec562427f@gmail.com>",
+      "response": "250 2.0.0 OK  1779934833 d9443c01a7336-2beb5205f16sm164364195ad.0 - gsmtp",
+      "accepted": [
+        "contact@essencesoftwares.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "SyanSoft",
+      "role": "Frontend / Backend / Full-Stack Developer",
+      "recipients": "contact@syansoft.com",
+      "reason": "official contact email and software careers page",
+      "companyContext": "SyanSoft's custom software and staff-augmentation work aligns with React, Node.js, API, and database-backed delivery",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<908eb9ec-69fa-6872-b447-dbbce648132a@gmail.com>",
+      "response": "250 2.0.0 OK  1779934838 d9443c01a7336-2befda361c4sm12286625ad.32 - gsmtp",
+      "accepted": [
+        "contact@syansoft.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ],
+  "skipped": [
+    {
+      "company": "Anaplan",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "McKinsey & Company",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Bain & Company",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "PayPay India",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Handysolver",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Collaboard",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "HashStudioz",
+      "reason": "already sent in existing history"
+    },
+    {
+      "company": "Big Digital Technologies",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "VML Enterprise Solutions",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "One Impression",
+      "reason": "not selected due to portal preference, weak route, or non-relevant current role"
+    },
+    {
+      "company": "KMG Infotech / Key Management Group",
+      "reason": "not selected due to portal preference, weak route, or non-relevant current role"
+    },
+    {
+      "company": "Technoarch",
+      "reason": "apply link only / no public email confirmed"
+    }
+  ]
+}

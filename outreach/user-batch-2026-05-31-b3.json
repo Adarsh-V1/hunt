@@ -1,0 +1,37 @@
+[
+  {
+    "companyName": "Clarion Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@clariontech.com"
+  },
+  {
+    "companyName": "Suma Soft",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "ithr@sumasoft.net;bpohr@sumasoft.net"
+  },
+  {
+    "companyName": "Aress Software",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@aress.com"
+  },
+  {
+    "companyName": "Codiant Software",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@codiant.com"
+  },
+  {
+    "companyName": "Xento Systems / Entrata India",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers.in@entrata.com;connect.in@entrata.com"
+  },
+  {
+    "companyName": "Mindbowser",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "ta@mindbowser.com;contact@mindbowser.com"
+  },
+  {
+    "companyName": "Mplussoft",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "sales@mplussoft.com"
+  }
+]

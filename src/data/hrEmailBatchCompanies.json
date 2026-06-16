@@ -1,0 +1,1346 @@
+[
+  {
+    "companyName": "Omninos Solutions",
+    "location": "Mohali",
+    "roleTarget": "Next.js frontend",
+    "emails": ["hr@omninos.com", "careers@omninossolutions.com"],
+    "status": "Pending",
+    "notes": "User-provided HR and careers emails from the screenshot shared on 2026-05-16. Existing outreach history may already show this company as sent."
+  },
+  {
+    "companyName": "LuminoGuru",
+    "location": "Chandigarh/Mohali",
+    "roleTarget": "React/frontend developer",
+    "emails": ["hr@luminoguru.com"],
+    "status": "Pending",
+    "notes": "User-provided HR email from the screenshot shared on 2026-05-16. Existing outreach history may already show this company as sent."
+  },
+  {
+    "companyName": "TheCode Wire Technologies",
+    "location": "Mohali",
+    "roleTarget": "Web/frontend developer",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Brillio",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["info@brillio.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Incedo",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; verify jobs through Incedo careers from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Jade Global",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use careers page/contact form from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Aspire Systems",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use official openings page from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Happiest Minds",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Protected contact email; use careers portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "UST",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No public HR email found; use UST careers portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Virtusa",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use careers portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Tietoevry",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use official Tieto careers/jobs portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Softenger",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@softenger.com", "contact@softenger.com"],
+    "status": "Pending",
+    "notes": "Best direct email in batch; careers page says send resume to careers@softenger.com from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Datafortune",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No verified HR/career email found from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Data Dynamics",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["dd_hr@datadynamicsinc.com"],
+    "status": "Pending",
+    "notes": "Strong HR email; careers page repeatedly says submit resumes to this email from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Relfor Labs",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No verified public HR/career email found from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Sagitec Solutions",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["USCareers@sagitec.com"],
+    "status": "Pending",
+    "notes": "Careers email found; careers page says submit resumes to this email from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Kanaka Software",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No verified public HR/career email found from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Nitor Infotech",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; marketing@nitorinfotech.com is generic marketing, not HR from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Vyom Labs / Emergys",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; Vyom Labs is now Emergys from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "GS Lab / Great Software Lab / Neurealm",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; GS Lab redirects to Neurealm from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Equal Experts",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use official opportunities page from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "LogicMonitor",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No HR email found; use careers portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "VT Netzwelt",
+    "location": "Mohali",
+    "roleTarget": "Full Stack / MEAN / React",
+    "emails": ["recruiter@vtnetzwelt.com"],
+    "status": "Pending",
+    "notes": "From user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Codetribe Solutions",
+    "location": "Mohali",
+    "roleTarget": "React JS / MERN",
+    "emails": ["contact@codetribesolutions.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Creatick Solutions",
+    "location": "Mohali",
+    "roleTarget": "React / Angular",
+    "emails": ["hr@creaticksolutions.com", "info@creaticksolutions.com"],
+    "status": "Pending",
+    "notes": "From user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Ghrix Technologies",
+    "location": "Mohali",
+    "roleTarget": "React / JavaScript",
+    "emails": ["join@ghrix.com", "info@ghrix.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Ashriya Infotech",
+    "location": "Mohali",
+    "roleTarget": "Angular / Node / React",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Career form + public email on site; no specific email captured from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Electrovese Solutions",
+    "location": "Mohali",
+    "roleTarget": "MERN / Next.js",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Contact form + protected site email from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Rackron",
+    "location": "Mohali",
+    "roleTarget": "MERN",
+    "emails": ["hr@rackron.com"],
+    "status": "Pending",
+    "notes": "From user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Sunfocus Solutions Pvt Ltd",
+    "location": "Mohali",
+    "roleTarget": "Node.js",
+    "emails": ["career.sunfocus@gmail.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "NextPage IT Solutions",
+    "location": "Mohali",
+    "roleTarget": "React Frontend",
+    "emails": ["hr@nextpageit.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "DigiMantra Labs",
+    "location": "Mohali",
+    "roleTarget": "React / Frontend",
+    "emails": ["hr@digimantra.com", "hr.mohali@digimantra.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "RV Technologies",
+    "location": "Mohali",
+    "roleTarget": "React / React Native",
+    "emails": ["hr@rvtechnologies.com"],
+    "status": "Sent",
+    "notes": "Already sent in prior outreach; email updated from user-provided Mohali batch on 2026-05-31."
+  },
+  {
+    "companyName": "Icertis",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "MindTickle",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Helpshift",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Druva",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Onit India",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "MarketsandMarkets Tech",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Bajaj Finserv Health Tech",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Fibe / EarlySalary",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "LoanTap",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "FlexiLoans",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "CreditVidya",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "CreditEnable",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "AppDirect",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "eQ Technologic",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Simplify Healthcare",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Saama Technologies",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Veradigm",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Pending verification from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "PubMatic",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["pune-info@pubmatic.com"],
+    "status": "Limited",
+    "notes": "Generic backup email only from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Quick Heal / Seqrite",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["support@quickheal.com"],
+    "status": "Limited",
+    "notes": "Generic backup email only from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Kpoint Technologies",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["helpdesk@kpoint.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "BlazeClan Technologies",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["sales@blazeclan.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "miniOrange",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@xecurify.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Digital Group Infotech",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@thedigitalgroup.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Xoriant",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["info@xoriant.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "PubMatic",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["pune-info@pubmatic.com", "india@pubmatic.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Quick Heal / Seqrite",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["support@quickheal.com"],
+    "status": "Pending",
+    "notes": "Generic backup email; user approved sending on 2026-05-31."
+  },
+  {
+    "companyName": "Pyramid Global Technologies",
+    "location": "Mohali",
+    "roleTarget": "Full Stack / MEAN / React",
+    "emails": ["career@pyramidglobaltechnologies.com"],
+    "status": "Pending",
+    "notes": "Verified; careers page says send resume to this email from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "Scorpio Infotech",
+    "location": "Mohali",
+    "roleTarget": "Web / Frontend / Full-stack",
+    "emails": ["hr@scorpioinfotech.com", "info@scorpioinfotech.com"],
+    "status": "Pending",
+    "notes": "Verified; contact page lists HR/career email from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "IdeioSoft",
+    "location": "Mohali",
+    "roleTarget": "React JS / Node JS / Full-stack",
+    "emails": ["info@ideiosoft.com"],
+    "status": "Pending",
+    "notes": "Verified; site lists React JS, Node JS, MongoDB roles from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "Code Inc Solutions",
+    "location": "Mohali",
+    "roleTarget": "Web / Frontend",
+    "emails": ["info@codeincsolutions.com"],
+    "status": "Pending",
+    "notes": "Verified contact email from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "Fortec Web Solutions",
+    "location": "Mohali",
+    "roleTarget": "React Native / Frontend",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Apply form + phone + protected email on page from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "TryDigital Solution",
+    "location": "Mohali",
+    "roleTarget": "React / Node / SaaS",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Career page / contact form only from user-provided batch on 2026-05-31."
+  },
+  {
+    "companyName": "Saviant Consulting",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["contact@saviantconsulting.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Clairvoyant",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Domain for sale; no safe email found from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Sarvatra Technologies",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@sarvatra.in", "contact@sarvatra.in"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "CloudCover",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No verified official email found from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Koru UX Design",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@koruux.com", "sales@koruux.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "YUJ Designs",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Cloudflare-protected emails from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Aloha Technology",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No public email visible from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Clarion Technologies",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@clariontech.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "SRV Media",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Zoho Recruit portal; no public email from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Suma Soft",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["ithr@sumasoft.net", "bpohr@sumasoft.net"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Aress Software",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@aress.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Codiant Software",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@codiant.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Techila Global Services",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Contact form only from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Xento Systems / Entrata India",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers.in@entrata.com", "connect.in@entrata.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Mindbowser",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["ta@mindbowser.com", "contact@mindbowser.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Mplussoft",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["sales@mplussoft.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Wissen Technology",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers portals only from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Enzigma Software",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["career_hr@enzigma.com", "sales@enzigma.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Excellon Software",
+    "location": "",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Protected email; site says job apps via contact form discarded from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Fulcrum Digital",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["info@fulcrumdigital.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Innominds",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["marketing@innominds.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Searce",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@searce.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Intellias",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "No verified HR/career email from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Globant",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["hi@globant.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Apexon",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": ["info@apexon.com"],
+    "status": "Sent",
+    "notes": "Sent via batch send on 2026-05-31."
+  },
+  {
+    "companyName": "Encora",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers redirects to Coforge; no public email from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Ness Digital Engineering",
+    "location": "Pune",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Protected email on careers portal from user-provided list on 2026-05-31."
+  },
+  {
+    "companyName": "Gramener",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@gramener.com", "hr@gramener.com"],
+    "status": "Sent",
+    "notes": "Official FAQ says drop profile here from batch on 2026-06-01."
+  },
+  {
+    "companyName": "Course5 Intelligence",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@c5i.ai"],
+    "status": "Sent",
+    "notes": "Official careers page says email resume here from batch on 2026-06-01."
+  },
+  {
+    "companyName": "Hevo Data",
+    "location": "",
+    "roleTarget": "",
+    "emails": ["careers@hevodata.com"],
+    "status": "Sent",
+    "notes": "Official careers page says drop note here from batch on 2026-06-01."
+  },
+  {
+    "companyName": "LuminoGuru",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": ["hr@luminoguru.com"],
+    "status": "Sent",
+    "notes": "Public source found; sent via batch on 2026-06-01."
+  },
+  {
+    "companyName": "Expert IT Brains",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "emails": ["hr@expertitbrains.com"],
+    "status": "Sent",
+    "notes": "Public source found; sent via batch on 2026-06-01."
+  },
+  {
+    "companyName": "Paxcom",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "emails": ["info@paxcom.net"],
+    "status": "Sent",
+    "notes": "Contact email from careers page; sent via batch on 2026-06-01."
+  },
+  {
+    "companyName": "SourceMash Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page / apply form from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "iApp Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page / resume upload from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Ditinus Technology",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page / contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "ChicMic Studios",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "JungleWorks",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "XenonStack",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Seasia Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Debut Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Antier Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "SoftProdigy",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "ToXSL Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Webguruz Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Matrix Marketers",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "CS Soft Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Cogniter Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Net Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Netsmartz",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "IDS Infotech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Emerson",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Official careers portal from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Edifecs",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Official careers portal from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Trantor Software",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "smartData Enterprises",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Oceaneering India",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Official careers portal from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Basware India",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Official careers portal from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Finxera",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "OATI India",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Elevate Services",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Avaal Technology Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Bursys",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Kays Harbor Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Outline Systems",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Signity Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Kindlebit Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Capanicus",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Stellen Infotech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Code Brew Labs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Click Labs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Jugnoo",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Webdew",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "NetFrux Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Contact/career page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Kbizsoft Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Webroot Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Contact/career page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Megrisoft",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Techwink Services",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Futuristic Simplified Computing",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "CBitss Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "QSS Technosoft",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Softobiz Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Drish Infotech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "GreyB Services",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "TT Consultants",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "AgNext Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "uTrade Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Jupitice Justice Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "MoogleLabs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Rudra Innovative Software",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "CQLsys Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Sebiz Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Solitaire Infosys",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Ficode Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Tech Prastish",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "MobiWeb Creations",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Ariel Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "AcmeMinds",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Softuvo Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "NetSet Software",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Cybrain Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "Deftsoft",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "WebSpero Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  },
+  {
+    "companyName": "SEO Discovery",
+    "location": "Mohali",
+    "roleTarget": "",
+    "emails": [],
+    "status": "Pending",
+    "notes": "Careers/contact page from user-provided list on 2026-06-01."
+  }
+]

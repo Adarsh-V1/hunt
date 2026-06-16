@@ -1,0 +1,260 @@
+{
+  "generatedAt": "2026-05-28T15:10:10.084Z",
+  "scope": "Companies 101-120 from user-provided Gurugram/Haryana list",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 14,
+  "failedCount": 0,
+  "skippedCount": 6,
+  "results": [
+    {
+      "company": "Queppelin",
+      "role": "AI / AR-VR / Full-Stack Developer",
+      "recipients": "careers@queppelintech.com",
+      "reason": "public career email",
+      "companyContext": "Queppelin builds AR, VR, AI and immersive software products where interactive UI, APIs and product thinking fit well",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<35d92cc8-bb09-a182-27af-c725c22dfb80@gmail.com>",
+      "response": "250 2.0.0 OK  1779980913 d2e1a72fcca58-841d6e80246sm6496840b3a.12 - gsmtp",
+      "accepted": [
+        "careers@queppelintech.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Decipher Zone Technologies",
+      "role": "React / Node.js / Full-Stack Developer",
+      "recipients": "info@decipherzone.com",
+      "reason": "official general contact email; no HR inbox found",
+      "companyContext": "Decipher Zone delivers web, app and software engineering services across modern stacks",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<feb1c59a-d690-f659-cc0c-e1020e524042@gmail.com>",
+      "response": "250 2.0.0 OK  1779980921 d9443c01a7336-2bf13d6f122sm11059935ad.3 - gsmtp",
+      "accepted": [
+        "info@decipherzone.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "OTS Solutions",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "info@otssolutions.com",
+      "reason": "official general contact email and careers page",
+      "companyContext": "OTS works across cloud, digital engineering, app development and staffing, where full-stack execution is relevant",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<1307d729-3275-29a8-a86b-cfa46a8347cd@gmail.com>",
+      "response": "250 2.0.0 OK  1779980928 41be03b00d2f7-c8520576972sm16436878a12.29 - gsmtp",
+      "accepted": [
+        "info@otssolutions.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Promatics Technologies",
+      "role": "Web / Mobile / Full-Stack Developer",
+      "recipients": "hr@promaticsindia.com",
+      "reason": "public HR hiring email",
+      "companyContext": "Promatics builds web and mobile products for startups and enterprises",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e70ad635-b722-bb2c-1cb4-29b218b7952d@gmail.com>",
+      "response": "250 2.0.0 OK  1779980935 d9443c01a7336-2beb58b303bsm184633405ad.38 - gsmtp",
+      "accepted": [
+        "hr@promaticsindia.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "NMG Technologies",
+      "role": "Frontend / Backend / Full-Stack Developer",
+      "recipients": "hr@nmgtechnologies.com",
+      "reason": "official careers email",
+      "companyContext": "NMG builds AI-driven enterprise software, web, mobile and cloud products",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<ed1e1b81-a212-abc2-531a-b438c61ee5f5@gmail.com>",
+      "response": "250 2.0.0 OK  1779980942 d9443c01a7336-2beb569592dsm178490295ad.16 - gsmtp",
+      "accepted": [
+        "hr@nmgtechnologies.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "EDIIIE",
+      "role": "Frontend / Game-Tech / Full-Stack Developer",
+      "recipients": "namaste@ediiie.com",
+      "reason": "public company contact email; no HR inbox found",
+      "companyContext": "EDIIIE works across game development, AR/VR and immersive web experiences",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<8fb0be91-ea68-5896-c323-44e0b166c07b@gmail.com>",
+      "response": "250 2.0.0 OK  1779980950 98e67ed59e1d1-36b9096a918sm1968129a91.16 - gsmtp",
+      "accepted": [
+        "namaste@ediiie.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Techsaga Corporations",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "hr@techsaga.co.in",
+      "reason": "official HR careers email",
+      "companyContext": "Techsaga focuses on scalable software, web, app and cloud transformation work",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<1d841218-66e6-305e-74f2-abe0a60661b6@gmail.com>",
+      "response": "250 2.0.0 OK  1779980957 98e67ed59e1d1-36b90950ea4sm1929163a91.14 - gsmtp",
+      "accepted": [
+        "hr@techsaga.co.in"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Technians",
+      "role": "Frontend / Web Developer",
+      "recipients": "info@technians.com",
+      "reason": "public company contact email; no HR inbox found",
+      "companyContext": "Technians works across web, cloud apps and digital transformation projects",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<4ada2ae9-2439-daaa-6d99-138c0baa752e@gmail.com>",
+      "response": "250 2.0.0 OK  1779980964 41be03b00d2f7-c85202902b1sm15047997a12.6 - gsmtp",
+      "accepted": [
+        "info@technians.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Ezulix Software",
+      "role": "Frontend / Web / Full-Stack Developer",
+      "recipients": "info@ezulix.com",
+      "reason": "official career/general contact email",
+      "companyContext": "Ezulix builds web, mobile and custom software products",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<5250cc93-5813-d11d-03be-84744a8bec5d@gmail.com>",
+      "response": "250 2.0.0 OK  1779980972 d9443c01a7336-2beb56b7920sm187997135ad.21 - gsmtp",
+      "accepted": [
+        "info@ezulix.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "StartxLabs Technologies",
+      "role": "Frontend / React Native / Full-Stack Developer",
+      "recipients": "hr@startxlabs.com",
+      "reason": "public HR email",
+      "companyContext": "StartxLabs builds web, mobile and cloud products for startups and enterprises",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<9ef3a925-8662-fb45-2815-c7aa0042ce9a@gmail.com>",
+      "response": "250 2.0.0 OK  1779980980 d2e1a72fcca58-841d6d60d07sm6956885b3a.0 - gsmtp",
+      "accepted": [
+        "hr@startxlabs.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Kodehash Technologies",
+      "role": "Frontend / Mobile / Full-Stack Developer",
+      "recipients": "contact@kodehash.com",
+      "reason": "official general contact email and careers page",
+      "companyContext": "Kodehash focuses on cloud, mobile, e-commerce and digital transformation solutions",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<5490943c-15f1-e4c3-13a2-70c196fb72b2@gmail.com>",
+      "response": "250 2.0.0 OK  1779980987 41be03b00d2f7-c852054b82fsm16035549a12.19 - gsmtp",
+      "accepted": [
+        "contact@kodehash.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Akoode Technologies",
+      "role": "AI / Web / Full-Stack Developer",
+      "recipients": "hr@akoode.in",
+      "reason": "official career page HR email",
+      "companyContext": "Akoode builds AI, software, web, mobile, blockchain and data products",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<70644e87-5bde-506c-39af-cf71f8508c5b@gmail.com>",
+      "response": "250 2.0.0 OK  1779980994 d9443c01a7336-2beb58b3cb3sm186131505ad.40 - gsmtp",
+      "accepted": [
+        "hr@akoode.in"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "MindRich Technologies",
+      "role": "Odoo / Web / Full-Stack Developer",
+      "recipients": "info@themindrich.com",
+      "reason": "public company contact email and official careers page",
+      "companyContext": "MindRich works on Odoo, ERP, web development and software consulting",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<5166345a-50b6-8b7d-56c8-26ba7a6e433a@gmail.com>",
+      "response": "250 2.0.0 OK  1779981001 d9443c01a7336-2beb58ff106sm173090245ad.74 - gsmtp",
+      "accepted": [
+        "info@themindrich.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "WebInfoMart",
+      "role": "Web / Frontend / Full-Stack Developer",
+      "recipients": "career@webinfomart.com",
+      "reason": "public career email",
+      "companyContext": "WebInfoMart builds application, enterprise, product and web development solutions",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<3de6fe8b-9973-2901-35c7-08d5953e4763@gmail.com>",
+      "response": "250 2.0.0 OK  1779981008 d2e1a72fcca58-841d6e82bc6sm5030513b3a.8 - gsmtp",
+      "accepted": [
+        "career@webinfomart.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ],
+  "skipped": [
+    {
+      "company": "Imenso Software",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "KOMPANIONS",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Expand My Business",
+      "reason": "not selected due to portal preference, MX issue, personal-only email, or weak route"
+    },
+    {
+      "company": "IP Media Software Development",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Nanotech Softapp",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "RSK Business Solutions",
+      "reason": "apply link only / no public email confirmed"
+    }
+  ]
+}

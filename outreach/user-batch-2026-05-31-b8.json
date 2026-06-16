@@ -1,0 +1,62 @@
+[
+  {
+    "companyName": "BlazeClan Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "sales@blazeclan.com"
+  },
+  {
+    "companyName": "miniOrange",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@xecurify.com"
+  },
+  {
+    "companyName": "Digital Group Infotech",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@thedigitalgroup.com"
+  },
+  {
+    "companyName": "Xoriant",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@xoriant.com"
+  },
+  {
+    "companyName": "Brillio",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@brillio.com"
+  },
+  {
+    "companyName": "PubMatic",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "pune-info@pubmatic.com;india@pubmatic.com"
+  },
+  {
+    "companyName": "Quick Heal / Seqrite",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "support@quickheal.com"
+  },
+  {
+    "companyName": "Kpoint Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "helpdesk@kpoint.com"
+  },
+  {
+    "companyName": "Pyramid Global Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "career@pyramidglobaltechnologies.com"
+  },
+  {
+    "companyName": "Scorpio Infotech",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "hr@scorpioinfotech.com;info@scorpioinfotech.com"
+  },
+  {
+    "companyName": "IdeioSoft",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@ideiosoft.com"
+  },
+  {
+    "companyName": "Code Inc Solutions",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@codeincsolutions.com"
+  }
+]

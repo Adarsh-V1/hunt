@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-05-28T02:24:07.708Z",
+  "scope": "Companies 41-60 from user-provided Gurugram/Haryana list",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 2,
+  "failedCount": 0,
+  "skippedCount": 18,
+  "results": [
+    {
+      "company": "Webority Technologies",
+      "role": "Frontend / Full-Stack / AI Product Developer",
+      "recipients": "contact@webority.com",
+      "reason": "official general contact email; no HR inbox found",
+      "companyContext": "Webority builds AI, product engineering, cloud, and custom software solutions where React, Node.js, APIs, and clean product execution fit well",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<a52629fd-893f-716b-e7d2-d9ac5ce6b850@gmail.com>",
+      "response": "250 2.0.0 OK  1779935040 41be03b00d2f7-c8520560ff8sm13691223a12.24 - gsmtp",
+      "accepted": [
+        "contact@webority.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Zurato Technologies",
+      "role": "Frontend / Web / Full-Stack Developer",
+      "recipients": "hr@zuratotech.com",
+      "reason": "official HR email from careers/contact page",
+      "companyContext": "Zurato's web, mobile, and digital-solution work aligns with practical frontend and full-stack delivery",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<6537286b-a6c0-85cc-b820-399865e92168@gmail.com>",
+      "response": "250 2.0.0 OK  1779935046 98e67ed59e1d1-36b9096a918sm251107a91.16 - gsmtp",
+      "accepted": [
+        "hr@zuratotech.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ],
+  "skipped": [
+    {
+      "company": "Bizzeonline",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "TrucksUp",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "TCS",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Infosys",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Wipro",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "HCLTech",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Tech Mahindra",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Accenture",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "IBM",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Microsoft",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Google",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Meta",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Oracle",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Salesforce",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "SAP",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Adobe",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Udemy",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Disney+ Hotstar / JioHotstar",
+      "reason": "apply link only / no public email confirmed"
+    }
+  ]
+}

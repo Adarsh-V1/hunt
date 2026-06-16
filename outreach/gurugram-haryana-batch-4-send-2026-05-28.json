@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-05-28T02:44:29.001Z",
+  "scope": "Companies 61-80 from user-provided Gurugram/Haryana list",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 7,
+  "failedCount": 0,
+  "skippedCount": 13,
+  "results": [
+    {
+      "company": "OYO",
+      "role": "Frontend / Full-Stack / Backend Developer",
+      "recipients": "careers@oyorooms.com",
+      "reason": "public careers email from an official OYO asset",
+      "companyContext": "OYO's hospitality technology platform depends on scalable booking flows, internal tools, and service integrations",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<a50eb575-6754-e4ee-a2fd-9ae6f92c0d70@gmail.com>",
+      "response": "250 2.0.0 OK  1779936235 d9443c01a7336-2beb5914287sm201218915ad.79 - gsmtp",
+      "accepted": [
+        "careers@oyorooms.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Urban Company",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "careers@urbancompany.com",
+      "reason": "official careers email",
+      "companyContext": "Urban Company's marketplace and service-professional platform relies on polished product flows and reliable engineering systems",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<fb492c50-69b2-086b-aa40-feead9fa9631@gmail.com>",
+      "response": "250 2.0.0 OK  1779936240 d9443c01a7336-2beb5695f3dsm166119855ad.1 - gsmtp",
+      "accepted": [
+        "careers@urbancompany.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Shiprocket",
+      "role": "Backend / Full-Stack Developer",
+      "recipients": "hr@shiprocket.in",
+      "reason": "public careers HR email",
+      "companyContext": "Shiprocket's e-commerce logistics platform needs strong backend services, integrations, and operational dashboards",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<0421c63f-8d84-dbb4-9b85-575ec08070d4@gmail.com>",
+      "response": "250 2.0.0 OK  1779936246 d9443c01a7336-2beb591d102sm162165565ad.81 - gsmtp",
+      "accepted": [
+        "hr@shiprocket.in"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Spinny",
+      "role": "Frontend / Full-Stack Developer",
+      "recipients": "you@spinny.com",
+      "reason": "official careers contact email",
+      "companyContext": "Spinny's auto-commerce product depends on trustworthy, transparent digital buying and selling experiences",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<511bfa1f-95d2-e9ba-ed92-53e77dda779a@gmail.com>",
+      "response": "250 2.0.0 OK  1779936252 d9443c01a7336-2beb56958c8sm153583205ad.13 - gsmtp",
+      "accepted": [
+        "you@spinny.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "Paisabazaar",
+      "role": "Full-Stack / Backend / Frontend Developer",
+      "recipients": "careers+tech@paisabazaar.com",
+      "reason": "official technology careers email",
+      "companyContext": "Paisabazaar's credit marketplace uses technology, data, APIs, and customer-facing journeys at scale",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<914b1c0b-fe27-3e73-31fe-35eb143a5df3@gmail.com>",
+      "response": "250 2.0.0 OK  1779936257 d9443c01a7336-2beb58d9ae2sm161198235ad.63 - gsmtp",
+      "accepted": [
+        "careers+tech@paisabazaar.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "MobiKwik",
+      "role": "Frontend / Backend / Full-Stack Developer",
+      "recipients": "ta@mobikwik.com",
+      "reason": "official talent acquisition email",
+      "companyContext": "MobiKwik's fintech products rely on secure, high-volume payment and consumer finance experiences",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<b97975fb-a079-a530-9f08-227d01a48fba@gmail.com>",
+      "response": "250 2.0.0 OK  1779936262 d9443c01a7336-2beb56b9fabsm209792865ad.23 - gsmtp",
+      "accepted": [
+        "ta@mobikwik.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "company": "BharatPe",
+      "role": "Backend / Full-Stack / Data-Driven Product Developer",
+      "recipients": "careers@bharatpe.com",
+      "reason": "public BharatPe careers email",
+      "companyContext": "BharatPe's merchant fintech platform needs dependable payment flows, dashboards, APIs, and product features",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e7b8376a-a971-148b-c362-0ba05d53306a@gmail.com>",
+      "response": "250 2.0.0 OK  1779936267 d2e1a72fcca58-841f51c47c4sm303096b3a.35 - gsmtp",
+      "accepted": [
+        "careers@bharatpe.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ],
+  "skipped": [
+    {
+      "company": "Navan",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Expedia Group",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "MakeMyTrip",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Goibibo",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "ixigo",
+      "reason": "already marked portal-only in existing tracker"
+    },
+    {
+      "company": "Zomato",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Blinkit",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Delhivery",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Cars24",
+      "reason": "already marked portal-only in existing tracker"
+    },
+    {
+      "company": "CarDekho / GirnarSoft",
+      "reason": "apply link only / no public email confirmed"
+    },
+    {
+      "company": "Park+",
+      "reason": "already marked portal-only in existing tracker"
+    },
+    {
+      "company": "Policybazaar",
+      "reason": "not selected due to portal preference or weaker non-official route"
+    },
+    {
+      "company": "PayU",
+      "reason": "apply link only / no public email confirmed"
+    }
+  ]
+}

@@ -1,0 +1,2270 @@
+[
+  {
+    "companyName": "Flyweis Technology",
+    "emails": ["info@flyweis.technology", "support@flyweis.technology"],
+    "notes": "General emails only from flyweis.technology contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Trangile Services",
+    "emails": ["hr@trangile.com", "marketing@trangile.com"],
+    "notes": "Strong HR email found on trangile.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "SmartConnect Technologies",
+    "emails": ["transform@smartconnectt.com"],
+    "notes": "General/business email from smartconnectt.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Bijlipay",
+    "emails": ["sales@bijlipay.co.in", "service@bijlipay.co.in"],
+    "notes": "General/service emails from bijlipay.co.in; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Claritus Management Consulting",
+    "emails": ["hr@claritusconsulting.com", "info@claritusconsulting.com", "marketing@claritusconsulting.com"],
+    "notes": "Strong HR email found on claritusconsulting.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Mawai Infotech",
+    "emails": ["info@mawaimail.com", "sales@mawaimail.com", "marketing@mawaimail.com"],
+    "notes": "General emails from mawai.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Absolutelabs",
+    "emails": ["contact@absolutelabs.co"],
+    "notes": "General contact from Salesforce AppExchange listing; careers page uses apply flow",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Quadrafort Technologies",
+    "emails": ["info@quadrafort.com"],
+    "notes": "General email from quadrafort.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ProProfs",
+    "emails": ["support@proprofs.com", "sales@proprofs.com", "adsales@proprofs.com", "partners@proprofs.com", "affiliate@proprofs.com"],
+    "notes": "General/product emails from proprofs.com; no HR found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "NASSCOM",
+    "emails": ["hr@nasscom.in"],
+    "notes": "Strong HR email found on nasscom.in careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "The Web Plant",
+    "emails": ["sales@thewebplant.com"],
+    "notes": "General email from thewebplant.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Mobikasa",
+    "emails": ["info@mobikasa.com"],
+    "notes": "General email from mobikasa.com; careers page has apply form",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ITDOSE INFOSYSTEMS",
+    "emails": [],
+    "notes": "Official site found at itdoseinfo.com, but no public email surfaced in search",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Net Business Solutions",
+    "emails": ["connect@netbsolutions.in"],
+    "notes": "Good general/recruitment-company contact from netbsolutions.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Creative Info-link",
+    "emails": ["info@creativegroup.net.in"],
+    "notes": "Likely matching Creative Group / Creative Info-link; verify before sending",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Quadlabs Technologies",
+    "emails": ["info@quadlabs.com", "sales@quadlabs.com"],
+    "notes": "General/sales emails from quadlabs.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Total IT Global",
+    "emails": ["contactus@totalitglobal.com"],
+    "notes": "General contact from totalitglobal.com; careers page uses apply flow",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Oxigen Services",
+    "emails": ["care@oxigenwallet.com", "Company.Secretary@myoxigen.com"],
+    "notes": "Support/corporate emails from oxigenwallet.com; no HR found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "NovelVox Softwares",
+    "emails": ["marketing@novelvox.com"],
+    "notes": "General/marketing email from novelvox.com; careers page uses job apply flow",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Hemmersbach",
+    "emails": ["Catherine.Ho@hemmersbach.com"],
+    "notes": "Public HR-team contact from hemmersbach.com; also use careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "JOY IT Solutions",
+    "emails": ["sales@joyitsolutions.co"],
+    "notes": "Sales email from joyitsolutions.co; careers form available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Crestech Software",
+    "emails": ["apply@crestechsoftware.com", "connect@crestechsoftware.com", "hi@crestechsoftware.com"],
+    "notes": "Career email found on crestechsoftware.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "VertexPlus Technologies",
+    "emails": ["info@vertexplus.com"],
+    "notes": "General email from vertexplus.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Intello Labs",
+    "emails": ["contact@intellolabs.com"],
+    "notes": "General email from intellolabs.com; careers form available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "HIC Global Solutions",
+    "emails": [],
+    "notes": "Careers/contact pages found at hicglobalsolutions.com; no clear public email surfaced",
+    "confidence": "low"
+  },
+  {
+    "companyName": "C1 India",
+    "emails": ["careers@c1india.com", "enquiry@c1india.com"],
+    "notes": "Careers email from public hiring post; enquiry from official site",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Infotel",
+    "emails": ["careers@infotelgroup.in", "info@infotelgroup.in"],
+    "notes": "Careers email from infotel.in careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Dataman Computer Systems",
+    "emails": ["hr@dataman.in", "shweta@dataman.in"],
+    "notes": "HR email from dataman.in career/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "K7 Computing",
+    "emails": ["support@k7computing.com"],
+    "notes": "Support email from careers.k7computing.com; careers portal based",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Dhanush InfoTech",
+    "emails": ["careers@dhanushinfotech.com", "info@dhanushinfotech.com"],
+    "notes": "Careers email from dhanushinfotech.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "iBoss Tech Solutions",
+    "emails": ["hr@ibosstechsolutions.com"],
+    "notes": "HR email from ibosstechsolutions.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "CS Infocomm",
+    "emails": ["info@csinfocomm.com", "support@csinfocomm.com"],
+    "notes": "General/support emails from csinfocomm.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Apptad Technologies",
+    "emails": ["Mahima.rastogi@apptadinc.com", "info@apptadinc.com"],
+    "notes": "Recruiter email from LinkedIn hiring post; info from official careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Finoit Technologies",
+    "emails": [],
+    "notes": "Official careers page at finoit.com; no clear email surfaced",
+    "confidence": "low"
+  },
+  {
+    "companyName": "SymphonyAI",
+    "emails": [],
+    "notes": "Email protected on official site (Cloudflare); careers portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Xicom Technologies",
+    "emails": ["la@xicom.biz"],
+    "notes": "Email from public Instagram hiring post; verify before sending",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "Alethe Consulting",
+    "emails": ["sales@aletheconsulting.com"],
+    "notes": "Sales email from aletheconsulting.com; careers/contact use forms",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Aayan Infotech",
+    "emails": ["hr@aayaninfotech.com", "info@aayaninfotech.com"],
+    "notes": "HR email from aayaninfotech.com careers/FAQ pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Zazz IT Solutions",
+    "emails": ["careers@zazz.io", "marketing@zazz.io", "sales@zazz.io"],
+    "notes": "Careers email from zazz.io contact/careers pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "PruTech Solutions",
+    "emails": ["sales@prutech.com"],
+    "notes": "Sales email from prutech.com; careers/contact use forms",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "Affixious",
+    "emails": ["hr@affixious.com", "info@affixious.com"],
+    "notes": "HR email from public social/job listing; info from official site",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "OTS Solutions",
+    "emails": ["info@otssolutions.com"],
+    "notes": "General email from otssolutions.com contact/careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Stesalit",
+    "emails": ["info@stesalitsystems.com", "support@stesalitsystems.com"],
+    "notes": "General/support emails from stesalitsystems.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Trident Information Systems",
+    "emails": ["info@tridentinfo.com"],
+    "notes": "General email from tridentinfo.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Codleo Consulting",
+    "emails": ["consult@codleo.com", "sales@codleo.com"],
+    "notes": "Consult/sales emails from codleo.com career/contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Infinite Computing Systems",
+    "emails": ["careers@infinite-usa.com"],
+    "notes": "Careers email from careers.infinite-usa.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Champ Info Software",
+    "emails": ["hr_noida@champinfosoft.com"],
+    "notes": "HR email from champinfosoft.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Hotfoot Technology Solutions",
+    "emails": ["hello@hotfoot.co.in"],
+    "notes": "General email from hotfoot.co.in contact/careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Infoneo Technologies",
+    "emails": ["hr@infoneotech.com", "careers@infoneotech.com", "info@infoneotech.com"],
+    "notes": "HR/careers emails from infoneotech.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Quaere e-Technologies",
+    "emails": ["hr@quaeretech.com", "shiv@quaeretech.com", "sales@quaeretech.com"],
+    "notes": "HR email from Indeed job listings; sales from company records",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Evolutyz IT Services",
+    "emails": ["info@evolutyz.com"],
+    "notes": "General email from evolutyz.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Elcom Digital",
+    "emails": ["info@elcom.digital"],
+    "notes": "General email from elcom.digital contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Analec Infotech",
+    "emails": ["hr@analec.com", "support@analec.com", "sales@analec.com"],
+    "notes": "HR email from analec.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Tachyon Technologies",
+    "emails": ["info@tachyontech.com"],
+    "notes": "General email from tachyontech.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Svam International",
+    "emails": ["sales@svam.com"],
+    "notes": "Sales email from svam.com contact/careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "VAYUZ Technologies",
+    "emails": ["careers@vayuz.com", "hello@vayuz.com"],
+    "notes": "Careers email from public hiring posts; hello from official contact",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "Crayon Software Experts India",
+    "emails": ["marketing.in@crayon.com"],
+    "notes": "Marketing email from crayon.com India contact page; careers portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Tek Ninjas",
+    "emails": ["info@tekninjas.com"],
+    "notes": "General email from tekninjas.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "PageTraffic Web-Tech",
+    "emails": ["sales@pagetraffic.com"],
+    "notes": "Sales email from pagetraffic.com; careers via GoHire portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Velocity",
+    "emails": ["hello@velocity.in"],
+    "notes": "General email from velocity.in about/contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Esskay / Esskay Compuservices",
+    "emails": ["hr@esskay.in", "contactus@esskay.in", "contact@esskay.in"],
+    "notes": "HR email from esskay.in contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Unicode Systems Pvt Ltd",
+    "emails": ["ceo@unicodesystems.in", "amit@unicodesystems.in"],
+    "notes": "Company emails from MCA/Zauba records; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Brain Technosys",
+    "emails": ["info@braintechnosys.com"],
+    "notes": "General email from braintechnosys.com; HR email shown as image on careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Hummingbird Web Solutions",
+    "emails": ["careers@hbwsl.com", "info@hbwsl.com"],
+    "notes": "Careers email from hbwsl.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Goodera",
+    "emails": ["careers@goodera.com", "info@goodera.com", "partnerships@goodera.com"],
+    "notes": "Careers email from goodera.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "VizExperts",
+    "emails": ["hrd@vizexperts.com", "jobs@vizexperts.com"],
+    "notes": "HR/careers emails from vizexperts.com career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Blackcoffer",
+    "emails": ["careers@blackcoffer.com", "hello@blackcoffer.com"],
+    "notes": "Careers email from dataintel.blackcoffer.com contact page",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "Pranathi Software Services",
+    "emails": ["careers@pranathiss.com", "info@pranathiss.com"],
+    "notes": "Careers email from pranathiss.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Big Oh Notation / BigOhTech",
+    "emails": ["careers@bigohtech.com", "sales@bigohtech.com"],
+    "notes": "Careers email from bigohtech.com contact/life page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Solveda Software",
+    "emails": ["hr@solveda.com", "info@solveda.com"],
+    "notes": "HR email from solveda.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Nexus Business Solutions",
+    "emails": ["sales@nexus-business.com"],
+    "notes": "Sales email from nexus-business.com contact page; job portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Naviga",
+    "emails": ["HR@navigaglobal.com"],
+    "notes": "HR email from navigaglobal.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "SDLC Corp",
+    "emails": ["sales@sdlccorp.com", "info@sdlccorp.com"],
+    "notes": "Sales/info emails from sdlccorp.com contact page; careers form based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "DBA Lounge",
+    "emails": ["careers@dbalounge.com", "hr@dbalounge.com", "sales@dbalounge.com"],
+    "notes": "Careers/HR emails from dbalounge.com career/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "FictiveBox Digital",
+    "emails": ["tushar@fictivebox.com"],
+    "notes": "Company contact from ZaubaCorp records; no public HR/careers email found",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "Transworld Terminals",
+    "emails": ["careers@transworld-terminals.com", "connect@transworld-terminals.com", "info@transworld-terminals.com"],
+    "notes": "Careers email from transworld-terminals.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Softpro India Computer Technologies",
+    "emails": ["hr@softproindia.in", "info@softproindia.in"],
+    "notes": "HR email from softproindia.in contact/training pages and hiring posts",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Digital India Corporation",
+    "emails": ["webmaster@digitalindia.gov.in"],
+    "notes": "Webmaster email from dic.gov.in; careers portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Codvo",
+    "emails": ["jobs@codvo.ai", "manasi.rane@codvo.ai"],
+    "notes": "Jobs email from older LinkedIn hiring post; official contact uses Freshteam portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Makunai Global Technologies",
+    "emails": [],
+    "notes": "LinkedIn/company listings found, but no safe public email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "PolicyX.com",
+    "emails": ["hr@policyx.com"],
+    "notes": "HR email from policyx.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Jodo",
+    "emails": ["whatsup@jodopay.com", "support@jodopay.com"],
+    "notes": "Official contact emails from jodo.in; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "QuyTech",
+    "emails": ["hr@quytech.com", "sales@quytech.com"],
+    "notes": "HR email from quytech.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Monotype",
+    "emails": [],
+    "notes": "No general HR email found; apply via careers/Workday portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Alpha Net Consulting",
+    "emails": [],
+    "notes": "Careers/contact form only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Gapbridge Software Services",
+    "emails": [],
+    "notes": "Apply online/contact form only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "DigiLantern",
+    "emails": ["info@digilantern.com", "hr@digilantern.co.in"],
+    "notes": "Info email from digilantern.com; older hiring post shows HR email",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "SPARX IT Solutions",
+    "emails": ["talent@sparxit.com"],
+    "notes": "Talent email from sparxitsolutions.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Infrabeat Technologies",
+    "emails": ["talent@infrabeat.com"],
+    "notes": "Talent email from public LinkedIn hiring post",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Sinclus Engineering Consulting",
+    "emails": ["sinclus@sinclus.com"],
+    "notes": "Official recruitment/contact email from sinclus.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Marquis Technologies",
+    "emails": ["hr@marquistech.com", "sales@marquistech.com"],
+    "notes": "HR email from marquistech.com apply page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Vertex Global Services",
+    "emails": ["info@vertexglobalservices.com"],
+    "notes": "Official contact from vertexglobalservices.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Gigmo Solutions",
+    "emails": [],
+    "notes": "Careers/job portal only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Secure Network Solutions",
+    "emails": ["jobs@snsin.com"],
+    "notes": "Jobs email from snsin.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Openview Technologies",
+    "emails": ["info@ovtlindia.com"],
+    "notes": "Official contact from ovtlindia.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "I.T. Solutions India Pvt Ltd",
+    "emails": ["hrd@itsipl.com"],
+    "notes": "HR email from itsipl.com career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Inspace Technologies",
+    "emails": ["info@inspacetech.com"],
+    "notes": "Official contact from inspacetech.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Tranistics Data Technologies",
+    "emails": ["info@tranistics.com"],
+    "notes": "Official contact from tranistics.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Nethues Technologies",
+    "emails": ["jobs@hr.nethues.com", "info@nethues.com"],
+    "notes": "Careers/job email from nethues.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Caspex Corp",
+    "emails": ["info@caspex.com"],
+    "notes": "General contact from caspex.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "GoKwik",
+    "emails": ["merchantcare@gokwik.co", "support@gokwik.co"],
+    "notes": "General/support emails from gokwik.co; careers via Keka portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Truspeq Consulting",
+    "emails": ["career@truspeq.com"],
+    "notes": "Careers email from public Glassdoor job listing",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Unisoft Global Services",
+    "emails": ["pranathi.badekar@unisoftglobalservices.com"],
+    "notes": "Job enquiry email from unisoftglobalservices.com job page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Kloudrac Softwares",
+    "emails": ["hr@kloudrac.com"],
+    "notes": "HR email from public Instagram hiring posts",
+    "confidence": "high"
+  },
+  {
+    "companyName": "WebBee Global",
+    "emails": ["info@webbeeglobal.com"],
+    "notes": "General contact from webbeeglobal.com; careers page has apply form",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "StockHolding DMS",
+    "emails": ["marketing@stockholdingdms.com"],
+    "notes": "Marketing/general contact from stockholdingdms.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Infozech Software",
+    "emails": ["sales@infozech.com"],
+    "notes": "Sales email from infozech.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Tech Superior Consulting",
+    "emails": ["careers@techsuperiors.com", "marketing@techsuperiors.com"],
+    "notes": "Careers email from techsuperiors.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Manras Technologies",
+    "emails": ["team@manras.com"],
+    "notes": "General team email from manras.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "smartShift Technologies",
+    "emails": ["connect@smartShift.com"],
+    "notes": "General contact from smartshift.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "NetCarrots.com",
+    "emails": ["career@netcarrotsloyalty.com"],
+    "notes": "Careers email from netcarrots.com career page (shown obfuscated)",
+    "confidence": "high"
+  },
+  {
+    "companyName": "RipenApps Technologies",
+    "emails": ["hr@ripenapps.com", "sales@ripenapps.com", "info@ripenapps.com"],
+    "notes": "HR email from LinkedIn company page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "SabPaisa",
+    "emails": ["support@sabpaisa.in"],
+    "notes": "Support email from sabpaisa.in; careers portal found, no HR email",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Cogniscient Business Solutions",
+    "emails": ["hr@cogniscient.in", "sales@cogniscient.in"],
+    "notes": "HR email from cogniscient.in job section",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Xotiv Technologies",
+    "emails": ["careers@xotiv.com", "talent@xotiv.com", "sales@xotiv.com"],
+    "notes": "Careers/talent emails from xotiv.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "NetCreativeMind Solutions",
+    "emails": ["hr@netcreativemind.com", "info@netcreativemind.com"],
+    "notes": "HR email from netcreativemind.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Omnie Solutions",
+    "emails": ["hr@omniesolutions.com"],
+    "notes": "HR email from public LinkedIn hiring post",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Zolve",
+    "emails": ["hello@zolve.com"],
+    "notes": "General contact from zolve.com; careers portal found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Zentek Infosoft",
+    "emails": ["info@zentekinfosoft.com"],
+    "notes": "General contact from zentekinfosoft.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "AtliQ Technologies",
+    "emails": ["careers@atliq.com", "info@atliq.com", "sales@atliq.com"],
+    "notes": "Careers email from public Instagram hiring post; info/sales from official site",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Spraxa Solutions",
+    "emails": ["careers@spraxa.com"],
+    "notes": "Careers email from spraxa.com jobs page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Appnox Technologies",
+    "emails": ["hirings@appnox.ai", "sales@appnox.ai"],
+    "notes": "Hiring email from LinkedIn company profile; official contact uses form",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Startappss System",
+    "emails": ["hr@startappss.com"],
+    "notes": "HR email from public Instagram hiring posts",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Tectura Infotech",
+    "emails": ["IN.careers@tectura.com", "info@tectura.com", "in.information@tectura.com"],
+    "notes": "Careers email from tectura.com India careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Intone Networks",
+    "emails": ["info@intone.com"],
+    "notes": "General email from intone.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "INVIA",
+    "emails": ["hr@invia.co.in", "sales@invia.com.au"],
+    "notes": "HR email from invia.com.au career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "CloudBoson Technologies",
+    "emails": ["support@cloudboson.com"],
+    "notes": "Support email from cloudboson.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Fusionnet",
+    "emails": ["info@fusionnet.in", "support@fusionnet.in"],
+    "notes": "General/support emails from fusionnet.in; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Gemalto / Thales",
+    "emails": [],
+    "notes": "No HR email found; apply via Thales careers portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Intellismith Services",
+    "emails": ["info@intellismith.com"],
+    "notes": "General email from intellismith.com; apply page available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "InfoAxon Technologies",
+    "emails": ["contactus@infoaxon.com"],
+    "notes": "Contact email from infoaxon.com; career queries go to this email",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "KMG Infotech / KMG",
+    "emails": [],
+    "notes": "Careers page has apply buttons at kmgus.com; no public email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Logix Infosecurity",
+    "emails": ["sales@logix.in", "mkt@logix.in"],
+    "notes": "Sales/marketing emails from logix.in; careers page found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Rams Creative Technologies",
+    "emails": ["info@ramscreative.com", "support@ramscreative.com"],
+    "notes": "General/support emails from ramscreative.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Invince / UpsideLMS",
+    "emails": ["contact@invince.com"],
+    "notes": "Contact email from invince.com; no HR-specific email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Infinity, a Stamford Technology Company",
+    "emails": ["info@infinitysts.com"],
+    "notes": "General email from infinitysts.com; careers page exists",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Daphnis Software Services",
+    "emails": [],
+    "notes": "No reliable public HR/company email found; LinkedIn/website profile only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Adore Technosoft",
+    "emails": ["hiring@adoretechnosoft.com", "hr@adoretechnosoft.com", "info@adoretechnosoft.com", "sales@adoretechnosoft.com"],
+    "notes": "Hiring/HR emails from adoretechnosoft.com career/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Speqto Technologies",
+    "emails": ["career@speqto.com", "info@speqto.com"],
+    "notes": "Careers email from speqto.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Zebra Technologies",
+    "emails": [],
+    "notes": "Not found — careers portal only; applications through Zebra careers",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "FloBiz",
+    "emails": ["hr@flobiz.in", "nitin@flobiz.in", "support@flobiz.in"],
+    "notes": "HR email from public hiring post; support from official site",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Sellcraft Global Solutions",
+    "emails": ["info@sellcraft.net", "karishma@sellcraft.net", "anupama@sellcraft.net"],
+    "notes": "Contact emails from sellcraft.net contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "ROI NET Solution",
+    "emails": ["hr@roinet.in", "contact@roinet.in"],
+    "notes": "HR email from roinetsolution.com career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "StrategicERP",
+    "emails": ["enquiry@strategicerp.com"],
+    "notes": "Enquiry email from strategicerp.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "webdew",
+    "emails": ["hr@webdew.com", "sales@webdew.com"],
+    "notes": "HR email from webdew.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "DCM Infotech",
+    "emails": ["shivam.dwivedi@dcminfotech.com", "sales@dcminfotech.com", "secretarial@dcminfotech.com"],
+    "notes": "Contact emails from dcminfotech.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Airpay Payment Services",
+    "emails": ["customerservice@airpay.co.in", "customercare@airpay.co.in", "cards@airpay.co.in"],
+    "notes": "General/support emails; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "BANGMETRIC",
+    "emails": ["connect@bangmetric.com"],
+    "notes": "Contact email from bangmetric.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Vehant Technologies",
+    "emails": ["contact@vehant.com"],
+    "notes": "Contact email from vehant.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Hestabit Technologies",
+    "emails": ["friends@hestabit.com", "query@hestabit.com"],
+    "notes": "General emails from hestabit.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Optimus Information",
+    "emails": ["info@optimusinfo.com", "sales@optimusinfo.com"],
+    "notes": "Info/sales emails from optimusinfo.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "MRI Software",
+    "emails": ["prakruti.sharma@mrisoftware.com"],
+    "notes": "Recruiter email found publicly; official apply route is MRI careers/work-at-MRI form",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Creativelipi Webtech",
+    "emails": ["hr@creativelipi.com", "mail@creativelipi.com"],
+    "notes": "HR email from creativelipi.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Nxtra Data",
+    "emails": ["business@nxtra.in"],
+    "notes": "Business email from nxtra.in; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Xcelore",
+    "emails": ["sales@xcelore.com"],
+    "notes": "Sales email from xcelore.com; careers page has resume submission",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Lotus Wireless Technologies",
+    "emails": ["hr@lotuswireless.com", "info@lotuswireless.com"],
+    "notes": "HR email from lotuswireless.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "STPL",
+    "emails": [],
+    "notes": "Likely STPL IT Solutions/SRM Techsol; info@stpl.biz; no HR email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "BCITS",
+    "emails": ["hr@bcits.co.in", "sales@bcits.co.in", "info@bcits.co.in"],
+    "notes": "HR email from bcits.co.in careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Continuum Managed Services",
+    "emails": [],
+    "notes": "No direct HR email found; now listed as ConnectWise company; use ConnectWise careers",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "KritiKal Solutions",
+    "emails": ["career@kritikalvision.ai", "sales@kritikalsolutions.com"],
+    "notes": "Career email from kritikalsolutions.com job page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Clixlogix Technologies",
+    "emails": ["career@clixlogix.com", "hr@clixlogix.com", "info@clixlogix.com"],
+    "notes": "Career/HR emails from clixlogix.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Konverge Technologies",
+    "emails": ["hr.gurgaon@konverge.co.in", "hr.mumbai@konverge.co.in"],
+    "notes": "HR emails from konverge.co.in career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "PhiStream Consulting",
+    "emails": ["info@phistream.com"],
+    "notes": "General email from phistream.com careers/contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Dhatsol IT Solutions",
+    "emails": ["hr@dhatsol.com"],
+    "notes": "HR email from dhatsol.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Meon Technologies",
+    "emails": ["hr@meon.co.in"],
+    "notes": "HR email from meon.co.in contact page (For Career)",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Bourntec Solutions",
+    "emails": ["ram@bourntec.com"],
+    "notes": "Apply via careers page; ram@bourntec.com is role-specific for AI Transformation Lead only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Nspire Automation",
+    "emails": ["arvind.agarwal@progressive.in"],
+    "notes": "MCA/general contact — not HR",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Niveshan Technologies India",
+    "emails": ["careers@ntplindia.in", "info@ntplindia.in"],
+    "notes": "Careers email from niveshan.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Paytail",
+    "emails": ["support@paytail.com", "grievance.officer@paytail.com"],
+    "notes": "Support/grievance emails — not suitable for jobs",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Saxon Global",
+    "emails": ["info@saxonglobal.com"],
+    "notes": "General email from saxonglobal.com contact/job seeker page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Mobulous Technologies",
+    "emails": ["info@mobulous.com", "sales@mobulous.com"],
+    "notes": "Info/sales emails from mobulous.com contact page (info marked as HR)",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Rang Technologies",
+    "emails": ["info@rangtech.com", "sales@rangtech.com"],
+    "notes": "Info/sales emails from rangtech.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Krazy Mantra IT",
+    "emails": ["jobs@krazymantra.com", "careers@krazymantra.com", "career@krazymantra.com"],
+    "notes": "Jobs/careers emails from krazymantra.com career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Cryptograph Technologies",
+    "emails": ["info@cryptographtech.com"],
+    "notes": "General email from cryptographtech.com contact page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Softmason Technologies India",
+    "emails": ["info@softmason.com"],
+    "notes": "Info email from company hiring post on LinkedIn",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Codeflies Technologies",
+    "emails": ["hr@codeflies.com", "info@codeflies.com", "sales@codeflies.com"],
+    "notes": "HR email from codeflies.com careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "ACS Technologies",
+    "emails": ["neelam@acstechnologies.net", "info@acstechnologies.net"],
+    "notes": "Contact email from acstechnologies.net career page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "JellyFish Technologies",
+    "emails": ["hr@jellyfishtechnologies.com", "enquiry@jellyfishtechnologies.com"],
+    "notes": "HR email from jellyfishtechnologies.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Modus Information Systems",
+    "emails": [],
+    "notes": "Apply via Modus/UST careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Keen & Able Computers",
+    "emails": ["sales@keenable.in"],
+    "notes": "Sales email only from keenable.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Icon Resources & Technologies",
+    "emails": ["delhi@iconresources.com", "bangalore@iconresources.com", "mumbai@iconresources.com"],
+    "notes": "City contact emails from iconresources.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Primus Software Corporation",
+    "emails": ["sales@primussoft.com"],
+    "notes": "Sales email from primussoft.com; careers/apply page available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "9Yards Technology",
+    "emails": ["sales@9yardstechnology.com"],
+    "notes": "Sales email from 9yardstechnology.com; careers page available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "A S Software Services",
+    "emails": ["hr@a3spl.com"],
+    "notes": "HR email from a3spl.com career page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "General Technologies",
+    "emails": ["recruiter@generaltechnologies.co.in", "connect@generaltechnologies.co.in"],
+    "notes": "Recruiter/contact emails from generaltechnologies.co.in careers/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Ameri100 / TSP",
+    "emails": ["info@tsp.tech"],
+    "notes": "Ameri100 now aligns with TSP; use TSP careers/contact",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Cloudare Technologies",
+    "emails": ["hello@cloudare.in"],
+    "notes": "General email from cloudare.in jobs portal; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "AdPushup",
+    "emails": [],
+    "notes": "Apply via AdPushup careers portal at adpushup.hire.trakstar.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ThunderSoft",
+    "emails": ["biz_india@thundersoft.com"],
+    "notes": "India contact email from thundersoft.com; Freshteam jobs available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Nile Technologies",
+    "emails": ["prerana.verma@niletechnologies.com", "enquiry@niletechnologies.com"],
+    "notes": "Recruiter email from LinkedIn hiring post; enquiry from official site",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Webority Technologies",
+    "emails": ["contact@webority.com"],
+    "notes": "Contact email from webority.com careers page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Williams Commerce",
+    "emails": ["hr@williamscommerce.com", "sales@williamscommerce.com"],
+    "notes": "HR email from williamscommerce.com careers page (India team CV email)",
+    "confidence": "high"
+  },
+  {
+    "companyName": "MetaDesign Solutions",
+    "emails": ["hr@metadesignsolutions.com", "sales@metadesignsolutions.com"],
+    "notes": "HR email from metadesignsolutions.com career/contact pages",
+    "confidence": "high"
+  },
+  {
+    "companyName": "InfoStride",
+    "emails": ["reachus@infostride.com", "govt@infostride.com"],
+    "notes": "Contact emails from infostride.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "AHOM Technologies",
+    "emails": ["hr@ahomtech.com"],
+    "notes": "HR email from ahomtech.com job page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Flexis IT",
+    "emails": [],
+    "notes": "Contact form/phone only at flexisit.com; no email shown",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ONE Business Consulting Group",
+    "emails": ["careers.in@onebcg.com"],
+    "notes": "Careers email from careers.onebcg.com portal and public hiring post",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Singsys Pte",
+    "emails": ["info@singsys.com"],
+    "notes": "General email from singsys.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "CEBS Worldwide",
+    "emails": [],
+    "notes": "Careers/contact page only at cebsworldwide.com; no email visible",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "ZingHR",
+    "emails": ["info@zinghr.com"],
+    "notes": "General email from zinghr.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Cogent E-Services",
+    "emails": ["email@cogenteservices.com"],
+    "notes": "General email from cogenteservices.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Appsierra",
+    "emails": ["info@appsierra.com", "recruitment@appsierra.com"],
+    "notes": "Recruitment email found from appsierra.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "E2logy Software Solutions",
+    "emails": ["careers@e2logy.com"],
+    "notes": "Careers email from e2logy.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Development Consultants / DCPL",
+    "emails": ["dcl@dclgroup.com", "enquiry@in.dclgroup.com", "debanganag@in.dclgroup.com"],
+    "notes": "Contact emails from dclgroup.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "PagarBook",
+    "emails": ["careers@pagarbook.com", "support@pagarbook.com", "contact@pagarbook.com"],
+    "notes": "Careers email from pagarbook.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Sapphire Software Solutions",
+    "emails": ["careers@sapphiresolutions.net", "contact@sapphiresolutions.net"],
+    "notes": "Careers email from sapphiresolutions.net",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Izmo Ltd",
+    "emails": ["kamaljit.kaur@izmoltd.com"],
+    "notes": "Contact email from izmoltd.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Prologic Web Solutions",
+    "emails": ["admin@prologicwebsolutions.com", "seo@prologicwebsolutions.com"],
+    "notes": "General emails from prologicwebsolutions.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ACMA Computers",
+    "emails": ["careers@acmacomputers.com", "info@acmacomputers.com"],
+    "notes": "Careers email from acmacomputers.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Knoldus Inc",
+    "emails": ["ta@knoldus.com"],
+    "notes": "Talent acquisition email from knoldus.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Cogniter Technologies",
+    "emails": ["jobs@cogniter.com"],
+    "notes": "Jobs email from cogniter.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "AppSquadz Software",
+    "emails": ["hr@appsquadz.com", "career@appsquadz.com", "sales@appsquadz.com"],
+    "notes": "HR email from appsquadz.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Techugo",
+    "emails": ["hr@techugo.com", "hr.careers@techugo.com", "sales@techugo.com"],
+    "notes": "HR emails from techugo.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Saraca Solutions",
+    "emails": ["contact@saracasolutions.com", "aayushi.sharma@saracasolutions.com"],
+    "notes": "Contact emails from saracasolutions.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Global Payments",
+    "emails": [],
+    "notes": "jobs@globalpayments.com is fraud/contact email; use careers portal for application",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Exotel",
+    "emails": ["hr@exotel.com"],
+    "notes": "HR email from exotel.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Expedien eSolutions",
+    "emails": ["info@expediens.com"],
+    "notes": "Info email from expediens.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "CI Infotech",
+    "emails": ["ciinfo@ciinfotech.net", "sales@ciinfotech.net", "support@ciinfotech.net"],
+    "notes": "Contact emails from ciinfotech.net",
+    "confidence": "high"
+  },
+  {
+    "companyName": "AIG Business Solution",
+    "emails": ["hr@aigbusiness.in"],
+    "notes": "HR email from aigbusiness.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Icreon Communications",
+    "emails": [],
+    "notes": "Not found; careers/contact form only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "i2k2 Networks",
+    "emails": ["hr@i2k2.com"],
+    "notes": "HR email from old official job post; verify before sending",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Cambay Consulting",
+    "emails": ["hr@cambaycs.com", "sales@cambaycs.com"],
+    "notes": "HR email from cambaycs.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Omnist Techhub Solutions",
+    "emails": ["hr@omnisttechhub.com", "info@omnisttechhub.com", "sales@omnisttechhub.com"],
+    "notes": "HR email from omnisttechhub.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Access Infotech",
+    "emails": ["careers@accessinfotechindia.com", "info@accessinfotechindia.com", "sales@accessinfotechindia.com"],
+    "notes": "Careers email from accessinfotechindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "In4velocity Systems",
+    "emails": ["careers@in4velocity.com", "sales@in4velocity.com"],
+    "notes": "Careers email from in4velocity.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Neugene International",
+    "emails": ["resume@neugeneinc.com"],
+    "notes": "Resume email from neugeneinc.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "BirchStreet Systems",
+    "emails": [],
+    "notes": "Not found; official careers/contact pages only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Saviance Technologies",
+    "emails": ["info@saviance.com"],
+    "notes": "Info email from saviance.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Nikom Infrasolutions",
+    "emails": ["info@nikom.in"],
+    "notes": "Info email from nikom.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Bonami Software",
+    "emails": ["contact@bonamisoftware.com"],
+    "notes": "Contact email from bonamisoftware.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "SuperSeva Services",
+    "emails": ["hr@superseva.com", "sales@superseva.com"],
+    "notes": "HR email from superseva.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "CoolBoots Media",
+    "emails": ["hello@coolbootsmedia.com"],
+    "notes": "Hello email from coolbootsmedia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Computer Consulting Operations Specialists",
+    "emails": [],
+    "notes": "Not found; no reliable official email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Netweb Technologies",
+    "emails": ["hr@netwebindia.com", "sakshi.k@netwebindia.com", "prateek.l@netwebindia.com", "info@netwebindia.com"],
+    "notes": "HR emails from netwebindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "CMS Securitas",
+    "emails": [],
+    "notes": "Not found for hiring; legal/company-secretary email exists, not suitable for job applications",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Mobisoft Infotech",
+    "emails": ["jobs@mobisoftinfotech.com", "business@mobisoftinfotech.com", "info@mobisoftinfotech.com"],
+    "notes": "Jobs email from mobisoftinfotech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Plaxonic Technologies",
+    "emails": ["hr@plaxonic.com", "contact@plaxonic.com"],
+    "notes": "HR email from plaxonic.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Samin TekMindz India",
+    "emails": ["info@tekmindz.com"],
+    "notes": "Info email from tekmindz.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Misha Infotech",
+    "emails": ["info@mishainfotech.com"],
+    "notes": "Info email from mishainfotech.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ACT21 Software",
+    "emails": [],
+    "notes": "Not found; official site/contact form only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Image InfoSystems",
+    "emails": ["careers@imageinfosystems.com"],
+    "notes": "Careers email from imageinfosystems.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Mobisy Technologies / Bizom",
+    "emails": ["hr@mobisy.com"],
+    "notes": "HR email from mobisy.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Highlands Info Tech",
+    "emails": ["info@highlands.in"],
+    "notes": "Info email from highlands.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Online24x7",
+    "emails": ["hr@online24x7.net", "support@online24x7.net"],
+    "notes": "HR email from online24x7.net",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Intellicus Technologies",
+    "emails": ["info@intellicus.com", "support@intellicus.com"],
+    "notes": "Info/support emails from intellicus.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Simulanis Solutions",
+    "emails": ["connect@simulanis.com", "support@simulanis.com"],
+    "notes": "Connect/support emails from simulanis.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Opt IT Technologies",
+    "emails": ["info@optit.in"],
+    "notes": "Info email from optit.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Designoweb Technologies",
+    "emails": ["hr@designoweb.com", "info@designoweb.com"],
+    "notes": "HR email from designoweb.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Techizer Tech Solution",
+    "emails": ["hrsupport@techizerindia.com", "info@techizerindia.com"],
+    "notes": "HR support email from techizerindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "IDS Next Business Solutions",
+    "emails": ["hr@idsnext.com", "sales@idsnext.com"],
+    "notes": "HR email from idsnext.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "MindMap Consulting",
+    "emails": ["info@mindmap.co.in"],
+    "notes": "Info email from mindmap.co.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Wings Infonet",
+    "emails": ["bangalore@wingsinfo.net", "bhubaneswar@wingsinfo.net"],
+    "notes": "City contact emails from wingsinfo.net; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Techsaga Corporations",
+    "emails": ["hr@techsaga.co.in"],
+    "notes": "HR email from techsaga.co.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Ingold Solutions",
+    "emails": ["contact@ingoldsolutions.in"],
+    "notes": "Contact email from ingoldsolutions.in",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Vichara Technologies",
+    "emails": ["info@vichara.com"],
+    "notes": "Info email from vichara.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Business Thrust Techsoft",
+    "emails": ["sales@bttechsoft.in"],
+    "notes": "Sales email from bttechsoft.in; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Netsoft Consulting Services",
+    "emails": ["netsoft@netsoftit.com"],
+    "notes": "General email from netsoftit.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "TechChefz Digital / TCZ Digital",
+    "emails": [],
+    "notes": "Not found; official contact/careers form only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Crownstack Technologies",
+    "emails": ["careers@crownstack.com", "hr@crownstack.com", "sales@crownstack.com"],
+    "notes": "Careers/HR emails from crownstack.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Appentus Technologies",
+    "emails": ["hr@appentus.com"],
+    "notes": "HR email from appentus.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Enthralltech / Enthral",
+    "emails": ["sales@enthral.ai"],
+    "notes": "Sales email from enthral.ai; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Zettaone Technologies India",
+    "emails": [],
+    "notes": "No official HR email found; official contact shows us-sales@zettaone.com",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Lirik Infotech / Lirik",
+    "emails": ["hiring@lirik.io"],
+    "notes": "Hiring email from lirik.io",
+    "confidence": "high"
+  },
+  {
+    "companyName": "PrismHR",
+    "emails": [],
+    "notes": "Not found; official careers portal only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Scry AI",
+    "emails": ["getstarted@scryai.com"],
+    "notes": "Get started email from scryai.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "AKS WebSoft",
+    "emails": ["hr@akswebsoft.com", "info@akswebsoft.com", "sales@akswebsoft.com", "support@akswebsoft.com"],
+    "notes": "HR email from akswebsoft.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Simpplr",
+    "emails": ["hello@simpplr.com"],
+    "notes": "Hello email from simpplr.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "RAH Infotech",
+    "emails": ["sales@rahinfotech.com", "support@rahinfotech.com"],
+    "notes": "Sales/support emails from rahinfotech.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Pel Softlabs",
+    "emails": ["contactus@pelsoftlabs.in"],
+    "notes": "Contact email from pelsoftlabs.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Lepide Software",
+    "emails": ["hr@lepide.com"],
+    "notes": "HR email from lepide.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Sonet Microsystems",
+    "emails": ["hradmin@sonetmicrosystems.com", "enquiry@sonetmicrosystems.com"],
+    "notes": "HR admin email from sonetmicrosystems.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Yiron Technologies",
+    "emails": ["careers@yirontechnologies.com", "hr@yirontechnologies.com", "sales@yirontechnologies.com"],
+    "notes": "Careers/HR emails from yirontechnologies.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "NSR Information Systems",
+    "emails": ["info@nsrinfosystems.com"],
+    "notes": "Info email from nsrinfosystems.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Sterco Digitex",
+    "emails": ["hr@stercodigitex.com", "info@stercodigitex.com"],
+    "notes": "HR email from stercodigitex.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "EM3 Agri Services",
+    "emails": ["contact@em3agri.com"],
+    "notes": "Contact email from em3agri.com; no HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "WebMob Technologies",
+    "emails": ["career@webmobtech.com", "sales@webmobtech.com"],
+    "notes": "Career email from webmobtech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "JMK Infosoft Solutions",
+    "emails": ["contact@jmkinfosoft.com"],
+    "notes": "Contact email from jmkinfosoft.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Ingenico ePayments India",
+    "emails": [],
+    "notes": "Not found; official India page + careers portal only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Excis Compliance",
+    "emails": [],
+    "notes": "Not found; official careers/contact form only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "HCL Infosystems",
+    "emails": ["hcltouch.reg@hcl.com"],
+    "notes": "Support email from official page; no HR email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Evision Technoserve",
+    "emails": ["info@evisiontechnoserve.com"],
+    "notes": "Info email from evisiontechnoserve.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "NR Consulting",
+    "emails": ["info@nrconsulting.com"],
+    "notes": "Info email from nrconsulting.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Diverse Lynx",
+    "emails": ["info@diverselynx.com"],
+    "notes": "Info email from diverselynx.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Elentec Power India",
+    "emails": [],
+    "notes": "Not found; official page shows location only, no public HR email found",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Opkey",
+    "emails": ["careers@opkey.com"],
+    "notes": "Careers email from opkey.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Fino Paytech / Fino Finance",
+    "emails": ["careers@finopaytech.com"],
+    "notes": "Careers email from finopaytech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "DynPro",
+    "emails": ["careers@dynproindia.com", "info@dynproindia.com"],
+    "notes": "Careers email from dynproindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Pitney Bowes India",
+    "emails": [],
+    "notes": "Not found; official page redirects job enquiries to careers portal",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Dahua Technology India",
+    "emails": ["Career.India@dahuatech.com"],
+    "notes": "Careers India email from dahuatech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "ScoreMe Solutions",
+    "emails": [],
+    "notes": "Not found; careers/open-positions page only",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Apex CoVantage",
+    "emails": ["hr@aci.apexcovantage.com"],
+    "notes": "HR email from aci.apexcovantage.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Credgenics",
+    "emails": [],
+    "notes": "Not found; contact/careers pages available, no direct hiring email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "MoveInSync Technology Solutions",
+    "emails": ["hello@moveinsync.com"],
+    "notes": "General email from moveinsync.com; careers page available, no direct HR email found",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "ProcMart",
+    "emails": [],
+    "notes": "Not found; no direct public HR/careers email found in checked sources",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Accentuate Business Solutions",
+    "emails": ["info@accentuatesol.com"],
+    "notes": "Info email from accentuatesol.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Zones Corporate Solutions",
+    "emails": ["HRTEAM@zones.com", "customerservice@zones.com"],
+    "notes": "HR team email from zones.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "VHS Consulting",
+    "emails": ["admin@vhsconsulting.net"],
+    "notes": "Admin email from vhsconsulting.net",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Archwell Operations",
+    "emails": [],
+    "notes": "Not found; official site shows careers link only, no email on contact page",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Centillion Solutions and Services",
+    "emails": ["info@centillionsolutions.com", "hrhead@centillionsolutions.com"],
+    "notes": "Info/HR emails from centillionsolutions.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Cinntra Info Tech Solutions",
+    "emails": [],
+    "notes": "Official careers/contact page only; email is protected/hidden on site",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Nirvana Solutions",
+    "emails": ["sales@nirvanasolutions.com"],
+    "notes": "Sales email — general, not HR; official contact form mentions career opportunities",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Quale Infotech",
+    "emails": ["info@qualeinfotech.com"],
+    "notes": "Info email from qualeinfotech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Techwise Digital",
+    "emails": ["delhi@indihire.com", "bangalore@indihire.com"],
+    "notes": "City contact emails from indihire.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Veremax Technologie Services",
+    "emails": ["info@veremax.co.in"],
+    "notes": "Info email from veremax.co.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Network People Services Technologies / NPST",
+    "emails": ["contact@npstx.com", "sales@npstx.com", "partnerservices@npstx.com"],
+    "notes": "Contact emails from npstx.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Pay Point India",
+    "emails": ["careers@paypointindia.com", "feedback@paypointindia.com", "customer.support@paypointindia.net"],
+    "notes": "Careers email from paypointindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Six Sails Technologies",
+    "emails": ["info@sixsails.com"],
+    "notes": "Info email from sixsails.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Megamax Services",
+    "emails": ["recruit@megamaxservices.com", "sales@megamaxservices.com"],
+    "notes": "Recruit email from megamaxservices.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Falcon Force",
+    "emails": ["info@expertserv.com"],
+    "notes": "Careers email under Falcon Force/ExpertServ page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Nickelfox Technologies",
+    "emails": [],
+    "notes": "Not found; official careers/application form only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Synoptics Technologies",
+    "emails": ["hr1@synoptics.co.in", "info@synoptics.co.in"],
+    "notes": "HR email from synoptics.co.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "MSR IT Solution",
+    "emails": ["accounts@msrlimited.com"],
+    "notes": "Registry/general email from msrlimited.com, not HR",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "MyOperator",
+    "emails": ["hello@myoperator.com", "support@myoperator.com"],
+    "notes": "Hello/support emails from myoperator.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "IRT Digital Analytics Solutions",
+    "emails": ["bangalore@iconresources.com", "delhi@iconresources.com", "mumbai@iconresources.com"],
+    "notes": "City contact emails from iconresources.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "QSS Technosoft",
+    "emails": ["hr@qsstechnosoft.com", "career@qsstechnosoft.com", "hello@qsstechnosoft.com"],
+    "notes": "HR email from qsstechnosoft.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Techtree IT Systems",
+    "emails": ["hr@techtreeit.com", "contact@techtreeit.com"],
+    "notes": "HR email from techtreeit.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Tsaaro",
+    "emails": ["info@tsaaro.com", "harsh.vardhan@tsaaro.com"],
+    "notes": "Info email from tsaaro.com; hiring post email",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Gamut InfoSystems",
+    "emails": ["ta02@gamutinfosystems.com", "sales@gamutinfosystems.com", "info@gamutinfosystems.com"],
+    "notes": "Talent acquisition email from gamutinfosystems.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Insight Business Machines",
+    "emails": ["info@insightindia.com"],
+    "notes": "Info email from insightindia.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Inflow Technologies",
+    "emails": ["info@inflowtechnologies.com"],
+    "notes": "Info email from inflowtechnologies.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Bharuwa Solutions",
+    "emails": ["info@bharuwasolutions.com"],
+    "notes": "Info email from bharuwasolutions.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "INK IT Solutions",
+    "emails": ["info@inkitsolutions.com"],
+    "notes": "Info email from inkitsolutions.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "OSP Labs",
+    "emails": ["sales@osplabs.com"],
+    "notes": "Sales email from osplabs.com; careers form based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Info-X Software Technology",
+    "emails": ["contact@infox.com", "accounts@infox.com"],
+    "notes": "Contact/accounts emails from infox.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Maxtra Technologies",
+    "emails": ["hr@maxtratechnologies.com", "sales@maxtratechnologies.com"],
+    "notes": "HR email from maxtratechnologies.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Syndrome Technologies",
+    "emails": ["info@syndrometech.net"],
+    "notes": "Info email from syndrometech.net",
+    "confidence": "high"
+  },
+  {
+    "companyName": "EliteMindz",
+    "emails": ["info@elitemindz.co"],
+    "notes": "Info email from elitemindz.co",
+    "confidence": "high"
+  },
+  {
+    "companyName": "EPSoft Technologies",
+    "emails": ["hello@epsoftinc.com", "techsupport@epsoftinc.com"],
+    "notes": "Hello/support emails from epsoftinc.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Innefu Labs",
+    "emails": ["jobs@innefu.com", "info@innefu.com"],
+    "notes": "Jobs email from innefu.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Contata Solutions",
+    "emails": ["india@contata.com", "sales@contata.com", "europe@contata.com"],
+    "notes": "India contact from contata.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "ITIO Innovex",
+    "emails": ["info@itio.in"],
+    "notes": "Info email from itio.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "TNS Networking Solutions",
+    "emails": ["info@tnspl.in"],
+    "notes": "Info email from tnspl.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "PaySense Services India",
+    "emails": ["support@gopaysense.com"],
+    "notes": "Support email — not ideal for jobs; use careers portal",
+    "confidence": "low"
+  },
+  {
+    "companyName": "LeewayHertz Technologies",
+    "emails": ["jobs@leewayhertz.com", "sales@leewayhertz.com"],
+    "notes": "Jobs email from leewayhertz.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Thinkitive Technologies",
+    "emails": ["hello@thinkitive.com", "careers@thinkitive.com"],
+    "notes": "Hello/careers emails from thinkitive.com contact page",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "Acro Technologies India",
+    "emails": ["sales@acrotechindia.com", "support@acrorma.com"],
+    "notes": "Sales/support emails from acrotechindia.com",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "CAMSDATA Technologies India",
+    "emails": ["info@camsdata.in"],
+    "notes": "Info email from camsdata.in",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Microware Computing & Consulting",
+    "emails": ["hr@microwarecorp.com", "sanjay.sangal@microwarecorp.com"],
+    "notes": "HR email from microwarecorp.com Facebook page",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Crave InfoTech",
+    "emails": ["careers@craveinfotech.com", "contact@craveinfotech.com"],
+    "notes": "Careers email from craveinfotech.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Utopia / Utopia Global",
+    "emails": ["sdesai@utopiainc.com"],
+    "notes": "Recruiter/job-post email from Cutshort",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Aryson Technologies",
+    "emails": ["milanhrdept@arysontechnologies.com", "contact@arysontechnologies.com"],
+    "notes": "HR department email from arysontechnologies.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "SRSG Broadcast",
+    "emails": ["hr@srsg.com"],
+    "notes": "HR email from Facebook hiring post",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "WebIndia Inc",
+    "emails": ["contact@webindiainc.com"],
+    "notes": "Contact email from webindiainc.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Virtual Engineering Services",
+    "emails": ["HR.India@VESTusa.com", "sales@VESTusa.com"],
+    "notes": "HR India email from vestusa.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Card Expertise",
+    "emails": ["hr@cardexpertise.com"],
+    "notes": "HR email from cardexpertise.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "ASPL Info Services",
+    "emails": ["recruitment@asplinfo.com", "sales@asplinfo.com"],
+    "notes": "Recruitment email from asplinfo.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "MyBillBook / FloBiz",
+    "emails": ["support@flobiz.in"],
+    "notes": "Support email — not ideal for jobs",
+    "confidence": "low"
+  },
+  {
+    "companyName": "Veative Labs",
+    "emails": ["keerti.verma@veative.com"],
+    "notes": "Registry/general only from ZaubaCorp records",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Global Education Ltd.",
+    "emails": ["vaibhav.ghurde@globaledu.net.in", "info@globaledu.net.in"],
+    "notes": "Contact emails from globaledu.net.in careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Spruce Infotech",
+    "emails": ["career@spruceinfotech.com", "hr@spruceinfotech.com"],
+    "notes": "Career/HR emails from spruceinfotech.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Adeptia",
+    "emails": ["jobs@adeptia.com"],
+    "notes": "Jobs email from adeptia.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Crystal Hues",
+    "emails": ["career@crystalhues.com", "noida@crystalhues.com", "info@crystalhues.com"],
+    "notes": "Career email from crystalhues.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Masters India",
+    "emails": ["info@mastersindia.co"],
+    "notes": "Info email from mastersindia.co",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "DRS IT Consultancy",
+    "emails": ["hr@drsconsultancy.in", "sales@drsconsultancy.in"],
+    "notes": "HR email from Instagram hiring post",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "FranConnect",
+    "emails": [],
+    "notes": "Not found; official careers/contact page only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Redian Software",
+    "emails": ["cv@rediansoftware.com", "info@rediansoftware.com", "sales@rediansoftware.com"],
+    "notes": "CV email from Instagram hiring post",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "Umbrella Infocare",
+    "emails": ["sales.aws@noventiq.com"],
+    "notes": "Sales/AWS contact via Noventiq; use job portal/careers",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Pragmatic Play / ARRISE",
+    "emails": [],
+    "notes": "Not found; official careers portal only",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Digital Avenues",
+    "emails": ["careers@digitalavenues.com", "biz@digitalavenues.com"],
+    "notes": "Careers email from digitalavenues.com careers page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Audax Labs",
+    "emails": ["support@audaxlabs.com"],
+    "notes": "Support email from audaxlabs.com; careers form exists",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Filix Consulting",
+    "emails": ["recruit@filixconsulting.com", "connect@filixconsulting.com"],
+    "notes": "Recruit email from filixbusinesstools.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Savantis Solutions India",
+    "emails": ["hr@savantis.com"],
+    "notes": "HR email from savantis.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Kinfotech",
+    "emails": ["ashish@kinfotechdigital.com"],
+    "notes": "Hiring-post email; company match is not 100% clear",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "Hotelogix",
+    "emails": ["support@hotelogix.com", "sales@hotelogix.com"],
+    "notes": "Support/sales emails from hotelogix.com; careers portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "McKinley & Rice",
+    "emails": [],
+    "notes": "Not found; official careers page only",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Wiselink Global Services",
+    "emails": ["wgspl2010@gmail.com"],
+    "notes": "Registry/general only from ZaubaCorp records",
+    "confidence": "low-medium"
+  },
+  {
+    "companyName": "Accord Fintech",
+    "emails": ["info@accordfintech.com", "corporate@accordfintech.com"],
+    "notes": "Info/corporate emails from accordfintech.com contact page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "DU Digital Global",
+    "emails": ["info@dudigitalglobal.com"],
+    "notes": "Info email from dudigitalglobal.com",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Acxiom Technologies",
+    "emails": ["sales@acxiomconsulting.com", "diksha.rajoria@acxiomconsulting.com"],
+    "notes": "Ambiguous match — likely Acxiom Consulting, not Acxiom Technologies",
+    "confidence": "low"
+  },
+  {
+    "companyName": "PRO Unlimited / Magnit",
+    "emails": ["ds.support@magnitglobal.com"],
+    "notes": "Support email from magnitglobal.com; careers portal based",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Empaxis Data Management",
+    "emails": ["careers@empaxis.com"],
+    "notes": "Careers email from empaxis.com LinkedIn page",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Rev Infotech",
+    "emails": ["contactus@revinfotech.com"],
+    "notes": "Contact email from revinfotech.com; careers page available",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "Axeno",
+    "emails": ["hr@axeno.co", "reachus@axeno.co"],
+    "notes": "HR email from axeno.co",
+    "confidence": "high"
+  },
+  {
+    "companyName": "IMTAC",
+    "emails": ["imtacadmin@imtac.com", "info@imtac.com", "noreply@imtac.com"],
+    "notes": "Admin/info emails from imtac.com career page",
+    "confidence": "medium-high"
+  },
+  {
+    "companyName": "Seoczar IT Services",
+    "emails": ["info@seoczar.com", "contact@seoczar.com"],
+    "notes": "Info/contact emails from seoczar.com; recruitment phone listed",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Jainam Technologies",
+    "emails": ["info@jainamtech.com", "navins@jainamtech.com"],
+    "notes": "Info/director-type emails from jainamtech.com; not HR",
+    "confidence": "medium"
+  },
+  {
+    "companyName": "IFI Techsolutions",
+    "emails": ["engage@ifi.tech"],
+    "notes": "Engage email from ifi.tech; careers page available",
+    "confidence": "high"
+  },
+  {
+    "companyName": "Ark Solutions",
+    "emails": ["HR@ARKSolutionsinc.com", "contactus@ARKSolutionsinc.com"],
+    "notes": "HR email from arksolutionsinc.com",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "companyName": "Enzigma Software",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "career_hr@enzigma.com;sales@enzigma.com"
+  },
+  {
+    "companyName": "Fulcrum Digital",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@fulcrumdigital.com"
+  },
+  {
+    "companyName": "Innominds",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "marketing@innominds.com"
+  },
+  {
+    "companyName": "Searce",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@searce.com"
+  },
+  {
+    "companyName": "Globant",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "hi@globant.com"
+  },
+  {
+    "companyName": "Apexon",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@apexon.com"
+  }
+]

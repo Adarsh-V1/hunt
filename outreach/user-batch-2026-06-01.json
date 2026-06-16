@@ -1,0 +1,32 @@
+[
+  {
+    "companyName": "Gramener",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@gramener.com;hr@gramener.com"
+  },
+  {
+    "companyName": "Course5 Intelligence",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@c5i.ai"
+  },
+  {
+    "companyName": "Hevo Data",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@hevodata.com"
+  },
+  {
+    "companyName": "LuminoGuru",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "hr@luminoguru.com"
+  },
+  {
+    "companyName": "Expert IT Brains",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "hr@expertitbrains.com"
+  },
+  {
+    "companyName": "Paxcom",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@paxcom.net"
+  }
+]

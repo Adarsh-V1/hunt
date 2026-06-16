@@ -1,0 +1,32 @@
+[
+  {
+    "companyName": "Talentica Software",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@talentica.com;info@talentica.com"
+  },
+  {
+    "companyName": "Josh Software",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "contact@joshsoftware.com"
+  },
+  {
+    "companyName": "Tudip Technologies",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@tudip.com"
+  },
+  {
+    "companyName": "Extentia Information Technology",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers.extentia@merkle.com"
+  },
+  {
+    "companyName": "e-Zest Solutions",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "info@e-zest.com"
+  },
+  {
+    "companyName": "Harbinger Group",
+    "roleTarget": "Full-Stack Developer",
+    "recipientEmail": "careers@harbingergroup.com;info@harbingergroup.com"
+  }
+]

@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-05-30T05:04:31.902Z",
+  "inputFile": "outreach/remaining-batch-2026-05-30.json",
+  "inputCount": 17,
+  "sentCount": 17,
+  "failedCount": 0,
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "results": [
+    {
+      "companyName": "Niyo Solutions",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "jagadish.b@goniyo.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<f20b37df-3f86-b216-618b-47c43179993c@gmail.com>",
+      "response": "250 2.0.0 OK  1780117394 d9443c01a7336-2bf23c43f0asm53268775ad.77 - gsmtp",
+      "accepted": [
+        "jagadish.b@goniyo.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Ezetap (Razorpay)",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "nishitha.kuriyas@razorpay.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<b4987de9-ba53-8de3-03bc-95758b10a9ff@gmail.com>",
+      "response": "250 2.0.0 OK  1780117399 98e67ed59e1d1-36bc0befe7asm4135828a91.11 - gsmtp",
+      "accepted": [
+        "nishitha.kuriyas@razorpay.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Open Financial Technologies",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "roshna.ravindran@open.money",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<e73b9f59-df15-bd4f-3d8d-ee1d587bb0f2@gmail.com>",
+      "response": "250 2.0.0 OK  1780117404 98e67ed59e1d1-36bbfc9831csm4813837a91.1 - gsmtp",
+      "accepted": [
+        "roshna.ravindran@open.money"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Avaal Technology Solutions",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "simran.srivastava@avaal.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<77f7bc19-b14c-2051-98c2-628f00799a54@gmail.com>",
+      "response": "250 2.0.0 OK  1780117409 41be03b00d2f7-c858108940bsm1797789a12.5 - gsmtp",
+      "accepted": [
+        "simran.srivastava@avaal.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Tech Mahindra",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "parul.thakur@techmahindra.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<27c33091-5bff-0872-1214-6ec5edf2b7c1@gmail.com>",
+      "response": "250 2.0.0 OK  1780117413 d9443c01a7336-2bf239e5d8esm46755255ad.3 - gsmtp",
+      "accepted": [
+        "parul.thakur@techmahindra.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "LTIMindtree",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "asheeshkumar.singh@ltimindtree.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<51aa94db-c5e7-3bd5-0164-5c917b136317@gmail.com>",
+      "response": "250 2.0.0 OK  1780117418 d9443c01a7336-2bf239e6f57sm37439835ad.13 - gsmtp",
+      "accepted": [
+        "asheeshkumar.singh@ltimindtree.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Persistent Systems",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "RecruitmentEnquiries@persistent.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<3047501e-feb5-24e2-b4c0-c8d6ae7ba7a3@gmail.com>",
+      "response": "250 2.0.0 OK  1780117423 41be03b00d2f7-c85771d367esm3437727a12.11 - gsmtp",
+      "accepted": [
+        "RecruitmentEnquiries@persistent.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Cyient",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "garima.arora@cyient.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<1bd7cdd2-ce8c-2a10-c825-2b7e7c8c0792@gmail.com>",
+      "response": "250 2.0.0 OK  1780117430 d9443c01a7336-2bf23b00ea6sm50995395ad.42 - gsmtp",
+      "accepted": [
+        "garima.arora@cyient.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "KPIT",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "Margiben.Wagh@kpit.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<7b4e7fa8-c7d1-4d14-7a6b-886f58dc204d@gmail.com>",
+      "response": "250 2.0.0 OK  1780117434 d9443c01a7336-2bf23c3a8afsm51728225ad.73 - gsmtp",
+      "accepted": [
+        "Margiben.Wagh@kpit.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Mphasis",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "hr@mphasis.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<acdec074-9127-520c-2931-c23525875ece@gmail.com>",
+      "response": "250 2.0.0 OK  1780117439 d9443c01a7336-2bf23b00ea6sm51003535ad.42 - gsmtp",
+      "accepted": [
+        "hr@mphasis.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Coforge",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "campus@coforge.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<cb49dec1-a736-3272-f27c-bfaadabe871a@gmail.com>",
+      "response": "250 2.0.0 OK  1780117444 d9443c01a7336-2bf239e7483sm36353805ad.14 - gsmtp",
+      "accepted": [
+        "campus@coforge.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Birlasoft",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "careers@birlasoft.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<285defeb-de15-e86a-1b30-3a6e11151136@gmail.com>",
+      "response": "250 2.0.0 OK  1780117449 d2e1a72fcca58-84214c93683sm3280939b3a.35 - gsmtp",
+      "accepted": [
+        "careers@birlasoft.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Zensar Technologies",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "careers@zensar.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<2b1a88ca-963f-fb03-9415-c9a4eabdb143@gmail.com>",
+      "response": "250 2.0.0 OK  1780117453 41be03b00d2f7-c85772d7342sm3483529a12.26 - gsmtp",
+      "accepted": [
+        "careers@zensar.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "CSS Corp (Movate)",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "abhishek.sao@csscorp.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<e3993cb2-028b-fead-4efe-c81d8611fbe0@gmail.com>",
+      "response": "250 2.0.0 OK  1780117458 98e67ed59e1d1-36bc0c391cbsm4107087a91.16 - gsmtp",
+      "accepted": [
+        "abhishek.sao@csscorp.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Microland",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "info@microland.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<e9d96d88-439e-5f0c-5761-e1b95c954e18@gmail.com>",
+      "response": "250 2.0.0 OK  1780117463 d9443c01a7336-2bf23c3eb31sm35200815ad.75 - gsmtp",
+      "accepted": [
+        "info@microland.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Datamatics",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "careers@datamatics.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<b69beb02-8ac8-bde9-8884-e394e9eb2596@gmail.com>",
+      "response": "250 2.0.0 OK  1780117467 98e67ed59e1d1-36bbfc971c8sm3861052a91.3 - gsmtp",
+      "accepted": [
+        "careers@datamatics.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    },
+    {
+      "companyName": "Xoriant",
+      "roleTarget": "Frontend / Full-Stack Developer",
+      "recipientEmail": "shweta.soni@xoriant.com",
+      "status": "Sent",
+      "sentDate": "2026-05-30",
+      "messageId": "<852f2da8-f4ff-cd90-d921-645c62a79f36@gmail.com>",
+      "response": "250 2.0.0 OK  1780117471 d2e1a72fcca58-84214c97aa0sm4423731b3a.29 - gsmtp",
+      "accepted": [
+        "shweta.soni@xoriant.com"
+      ],
+      "rejected": [],
+      "resumeFileName": "Adarsh_Pathania_resume.pdf"
+    }
+  ]
+}

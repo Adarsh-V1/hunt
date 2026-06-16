@@ -1,0 +1,3164 @@
+[
+  {
+    "companyNumber": 1,
+    "companyName": "Suffescom Solutions Inc",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 2,
+    "companyName": "Grazitti Interactive",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 3,
+    "companyName": "ChicMic Studios",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 4,
+    "companyName": "JungleWorks",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 5,
+    "companyName": "ToXSL Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 6,
+    "companyName": "Zapbuild Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 7,
+    "companyName": "SoftProdigy",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 8,
+    "companyName": "NetSmartz",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 9,
+    "companyName": "Seasia Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 10,
+    "companyName": "Debut Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 11,
+    "companyName": "VT Netzwelt",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 12,
+    "companyName": "GrayCell Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 13,
+    "companyName": "Webguruz Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 14,
+    "companyName": "IDS Infotech",
+    "location": "Mohali / Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 15,
+    "companyName": "Bebo Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 16,
+    "companyName": "Edifecs",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 17,
+    "companyName": "Infosys",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 18,
+    "companyName": "FIS Global",
+    "location": "Mohali / Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 19,
+    "companyName": "Emerson",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 20,
+    "companyName": "Quark",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 21,
+    "companyName": "SmartData Enterprises",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 22,
+    "companyName": "Apptunix",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 23,
+    "companyName": "Omninos Solutions",
+    "location": "Mohali / Kharar",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 24,
+    "companyName": "Ariel Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 25,
+    "companyName": "Deliverable Services",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 26,
+    "companyName": "Skysun",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 27,
+    "companyName": "NextPage IT Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 28,
+    "companyName": "Eminence Technology",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 29,
+    "companyName": "TRU IT",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 30,
+    "companyName": "Kommuno Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 31,
+    "companyName": "Ashriya Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 32,
+    "companyName": "Kaspro Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 33,
+    "companyName": "Walkwel Technology",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 34,
+    "companyName": "Codetribe Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 35,
+    "companyName": "Delta4 Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 36,
+    "companyName": "RGB Web Tech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 37,
+    "companyName": "Ditstek Innovations",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 38,
+    "companyName": "LuminoGuru",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 39,
+    "companyName": "SoftRadix Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 40,
+    "companyName": "WorksDelight",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 41,
+    "companyName": "tecHindustan",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 42,
+    "companyName": "Inimist Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 43,
+    "companyName": "Codobux",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 44,
+    "companyName": "Emboss Digital",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 45,
+    "companyName": "BIG HAPPY",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 46,
+    "companyName": "Meadbery",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 47,
+    "companyName": "AcmeMinds",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 48,
+    "companyName": "CipherStudio",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 49,
+    "companyName": "Premium Transfers",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 50,
+    "companyName": "The Future University",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 51,
+    "companyName": "Lytegen",
+    "location": "Mohali / Chandigarh / Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 52,
+    "companyName": "Essence Innovation",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 53,
+    "companyName": "Dipole Tech Innovations",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 54,
+    "companyName": "Betasoft Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 55,
+    "companyName": "Prologic Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 56,
+    "companyName": "Dikonia",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 57,
+    "companyName": "LDT Technology",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 58,
+    "companyName": "WritingMinds Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 59,
+    "companyName": "SuccessVisa",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 60,
+    "companyName": "Maxxmann Communications",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 61,
+    "companyName": "Myura Wellness",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 62,
+    "companyName": "Rojgar Group",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A",
+    "emails": ["hr@rojgargroup.com"],
+    "status": "Sent",
+    "appliedDate": "2026-05-29",
+    "notes": "Official Rojgar Group about page lists hr@rojgargroup.com. SMTP sent on 2026-05-29; email used: hr@rojgargroup.com; resume filename: Adarsh_Pathania_resume.pdf; result: Email sent successfully; Gmail message id: a6ff25c0-c507-5b6b-b5d3-c01befec1685@gmail.com."
+  },
+  {
+    "companyNumber": 63,
+    "companyName": "Webcreaters",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 64,
+    "companyName": "Euclide Software Solution",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 65,
+    "companyName": "BizBooks Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 66,
+    "companyName": "Electrovese Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 67,
+    "companyName": "Sunfocus Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 68,
+    "companyName": "A1 Technology",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 69,
+    "companyName": "Kays Harbor Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 70,
+    "companyName": "FocalCode",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 71,
+    "companyName": "CS Soft Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 72,
+    "companyName": "RV Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 73,
+    "companyName": "Kbizsoft Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 74,
+    "companyName": "Code Brew Labs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 75,
+    "companyName": "Netgains",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 76,
+    "companyName": "Technocrats Horizons",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 77,
+    "companyName": "OATI",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 78,
+    "companyName": "Basware",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 79,
+    "companyName": "Zscaler",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 80,
+    "companyName": "Maropost",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 81,
+    "companyName": "XenonStack",
+    "location": "Mohali / Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 82,
+    "companyName": "Antier Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 83,
+    "companyName": "CBitss Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 84,
+    "companyName": "Vinove Software",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 85,
+    "companyName": "Ink Web Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 86,
+    "companyName": "WebSpero Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 87,
+    "companyName": "Klocrix Business Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 88,
+    "companyName": "Tecocraft Infusion",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 89,
+    "companyName": "Young Decade IT Software",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 90,
+    "companyName": "Net Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 91,
+    "companyName": "Trantor",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 92,
+    "companyName": "eClerx",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 93,
+    "companyName": "Finxera",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 94,
+    "companyName": "Oceaneering",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 95,
+    "companyName": "Precisely / Winshuttle",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 96,
+    "companyName": "Harmony Data Integration",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 97,
+    "companyName": "Relinns Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 98,
+    "companyName": "Ficode Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 99,
+    "companyName": "Techrbm",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 100,
+    "companyName": "Tekki Web Solutions",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 101,
+    "companyName": "W3care Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 102,
+    "companyName": "Escalon Services",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 103,
+    "companyName": "RoundGlass",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 104,
+    "companyName": "Jorie Healthcare",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 105,
+    "companyName": "SmartLayer Business Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 106,
+    "companyName": "HashStudioz Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 107,
+    "companyName": "NetFrux Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 108,
+    "companyName": "Code Garage Tech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 109,
+    "companyName": "75way Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 110,
+    "companyName": "Impinge Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 111,
+    "companyName": "Vlogic Labs",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 112,
+    "companyName": "Meander Software",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 113,
+    "companyName": "OXO Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 114,
+    "companyName": "WebHopers Infotech",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 115,
+    "companyName": "CS Infotech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 116,
+    "companyName": "KVR WebTech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 117,
+    "companyName": "Alliance IT",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 118,
+    "companyName": "SEO Discovery",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 119,
+    "companyName": "Dignitas Digital",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 120,
+    "companyName": "Agile Soft Systems",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 121,
+    "companyName": "Webomaze Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 122,
+    "companyName": "Cogniter Technologies",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 123,
+    "companyName": "BR Softech",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 124,
+    "companyName": "Signity Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 125,
+    "companyName": "Tkxel",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 126,
+    "companyName": "Ksolves India",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 127,
+    "companyName": "Techugo",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 128,
+    "companyName": "Konstant Infosolutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 129,
+    "companyName": "NetSet Software",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 130,
+    "companyName": "Infiniti Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 131,
+    "companyName": "Zaptech Solutions",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 132,
+    "companyName": "Promatics Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 133,
+    "companyName": "Click Labs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 134,
+    "companyName": "Jugnoo",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 135,
+    "companyName": "Pumpkart",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 136,
+    "companyName": "uTrade Solutions",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 137,
+    "companyName": "Drish Infotech",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 138,
+    "companyName": "CodeBlend Labs",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 139,
+    "companyName": "TechnoScore",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 140,
+    "companyName": "eNest Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 141,
+    "companyName": "Alphanumeric Ideas",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 142,
+    "companyName": "CodeOptimal Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 143,
+    "companyName": "DevelopTech IT Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 144,
+    "companyName": "Indivar Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 145,
+    "companyName": "Logiciel Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 146,
+    "companyName": "AM Webtech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 147,
+    "companyName": "Sebiz Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 148,
+    "companyName": "Aviox Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 149,
+    "companyName": "Ailoitte Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 150,
+    "companyName": "Finoit Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 151,
+    "companyName": "Appwrk IT Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 152,
+    "companyName": "Clavax Technologies",
+    "location": "Mohali / Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 153,
+    "companyName": "QSS Technosoft",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 154,
+    "companyName": "Applify",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 155,
+    "companyName": "TechAhead",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 156,
+    "companyName": "Codiant Software Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 157,
+    "companyName": "Tech Prastish",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 158,
+    "companyName": "WebMobril Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 159,
+    "companyName": "CodeAegis",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 160,
+    "companyName": "Radiansys",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 161,
+    "companyName": "Unify Group",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 162,
+    "companyName": "Aqlix IT Solutions",
+    "location": "Mani Majra / Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 163,
+    "companyName": "RW Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 164,
+    "companyName": "Xornor Technologies",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 165,
+    "companyName": "Rudra IT Networks",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 166,
+    "companyName": "Wave Infotech",
+    "location": "Chandigarh / Mohali",
+    "roleTarget": "",
+    "priorityTier": "B",
+    "emails": ["info@waveinfotech.biz"],
+    "status": "Sent",
+    "appliedDate": "2026-05-30",
+    "notes": "Official Wave Infotech Panchkula contact page lists info@waveinfotech.biz as the public company inbox. SMTP sent on 2026-05-30; email used: info@waveinfotech.biz; resume filename: Adarsh_Pathania_resume.pdf; result: Email sent successfully; Gmail message id: 7f8bd4ac-e70c-529f-31b2-1178ff2a56de@gmail.com."
+  },
+  {
+    "companyNumber": 167,
+    "companyName": "Nabuz Technologies",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 168,
+    "companyName": "Fab Web Studio",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 169,
+    "companyName": "Fna Marketing Solutions",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 170,
+    "companyName": "Centennial Infotech",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 171,
+    "companyName": "Reinsoft IT",
+    "location": "Panchkula",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 172,
+    "companyName": "WebMob Technologies",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 173,
+    "companyName": "Techno Deviser",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 174,
+    "companyName": "iTechnolabs",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 175,
+    "companyName": "Mansa Infotech",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 176,
+    "companyName": "Techwink Services",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 177,
+    "companyName": "Deftsoft",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 178,
+    "companyName": "SeoYug",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 179,
+    "companyName": "Techies India Inc",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 180,
+    "companyName": "Master Software Solutions",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 181,
+    "companyName": "Indecomm Global Services",
+    "location": "Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 182,
+    "companyName": "Nagarro",
+    "location": "Chandigarh / NCR",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 183,
+    "companyName": "TCS",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 184,
+    "companyName": "Wipro",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 185,
+    "companyName": "HCLTech",
+    "location": "Chandigarh / Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 186,
+    "companyName": "Accenture",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 187,
+    "companyName": "Cognizant",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 188,
+    "companyName": "Capgemini",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 189,
+    "companyName": "Tech Mahindra",
+    "location": "Chandigarh",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 190,
+    "companyName": "Publicis Sapient",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 191,
+    "companyName": "EPAM",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 192,
+    "companyName": "GlobalLogic",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 193,
+    "companyName": "Qburst",
+    "location": "Remote / North India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 194,
+    "companyName": "Kellton Tech",
+    "location": "North India",
+    "roleTarget": "",
+    "priorityTier": "C",
+    "emails": ["career@kellton.com"],
+    "status": "Sent",
+    "appliedDate": "2026-05-29",
+    "notes": "Official Kellton contact page says to email resumes to career@kellton.com. SMTP sent on 2026-05-29; email used: career@kellton.com; resume filename: Adarsh_Pathania_resume.pdf; result: Email sent successfully; Gmail message id: 5726fd39-1d8b-4dce-3056-0498309a6b79@gmail.com."
+  },
+  {
+    "companyNumber": 195,
+    "companyName": "Damco Solutions",
+    "location": "Chandigarh / NCR",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 196,
+    "companyName": "Dotsquares",
+    "location": "North India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 197,
+    "companyName": "Appinventiv",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 198,
+    "companyName": "Chetu India",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 199,
+    "companyName": "Ranosys Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 200,
+    "companyName": "ValueCoders",
+    "location": "Remote / NCR",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 201,
+    "companyName": "TatvaSoft",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 202,
+    "companyName": "Radixweb",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 203,
+    "companyName": "Bacancy Technology",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 204,
+    "companyName": "Simform",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 205,
+    "companyName": "Solulab",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 206,
+    "companyName": "Hyperlink InfoSystem",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 207,
+    "companyName": "Hidden Brains",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 208,
+    "companyName": "Peerbits",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 209,
+    "companyName": "OpenXcell",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 210,
+    "companyName": "MindInventory",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 211,
+    "companyName": "CMARIX",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 212,
+    "companyName": "Space-O Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 213,
+    "companyName": "Elsner Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 214,
+    "companyName": "eInfochips",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 215,
+    "companyName": "Zignuts Technolab",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 216,
+    "companyName": "Aubergine Solutions",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 217,
+    "companyName": "Wednesday Solutions",
+    "location": "Remote / Pune",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 218,
+    "companyName": "GeekyAnts",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 219,
+    "companyName": "Josh Software",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 220,
+    "companyName": "Thoughtworks",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 221,
+    "companyName": "Persistent Systems",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 222,
+    "companyName": "LTIMindtree",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 223,
+    "companyName": "Mphasis",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 224,
+    "companyName": "Birlasoft",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 225,
+    "companyName": "Coforge",
+    "location": "Remote / Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 226,
+    "companyName": "Zensar Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 227,
+    "companyName": "Happiest Minds",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 228,
+    "companyName": "Sonata Software",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 229,
+    "companyName": "Hexaware",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 230,
+    "companyName": "Mindtree",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 231,
+    "companyName": "Cybage Software",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 232,
+    "companyName": "Xebia",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 233,
+    "companyName": "Nagarro Digital",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 234,
+    "companyName": "Aspire Systems",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 235,
+    "companyName": "Brillio",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 236,
+    "companyName": "Intellect Design Arena",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 237,
+    "companyName": "Newgen Software",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 238,
+    "companyName": "RateGain",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 239,
+    "companyName": "Paytm",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 240,
+    "companyName": "Pine Labs",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 241,
+    "companyName": "Innovaccer",
+    "location": "Noida / Chandigarh possible",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 242,
+    "companyName": "BrowserStack",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 243,
+    "companyName": "Postman",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 244,
+    "companyName": "Razorpay",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 245,
+    "companyName": "CRED",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 246,
+    "companyName": "Meesho",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 247,
+    "companyName": "Groww",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 248,
+    "companyName": "Zepto",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 249,
+    "companyName": "Zomato",
+    "location": "Gurugram / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 250,
+    "companyName": "Swiggy",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 251,
+    "companyName": "Flipkart",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 252,
+    "companyName": "Walmart Global Tech",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 253,
+    "companyName": "Adobe",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 254,
+    "companyName": "Microsoft",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 255,
+    "companyName": "Google India",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 256,
+    "companyName": "Amazon",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 257,
+    "companyName": "Salesforce",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 258,
+    "companyName": "ServiceNow",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 259,
+    "companyName": "Atlassian",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 260,
+    "companyName": "Oracle",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 261,
+    "companyName": "SAP Labs",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 262,
+    "companyName": "IBM",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 263,
+    "companyName": "Kyndryl",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 264,
+    "companyName": "EY GDS",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 265,
+    "companyName": "Deloitte",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 266,
+    "companyName": "PwC AC",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 267,
+    "companyName": "KPMG Global Services",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 268,
+    "companyName": "Genpact",
+    "location": "Noida / Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 269,
+    "companyName": "EXL Service",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 270,
+    "companyName": "Amdocs",
+    "location": "Gurugram / Pune",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 271,
+    "companyName": "Airtel Digital",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 272,
+    "companyName": "Jio Platforms",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 273,
+    "companyName": "MakeMyTrip",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 274,
+    "companyName": "Goibibo",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 275,
+    "companyName": "Ixigo",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 276,
+    "companyName": "Urban Company",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 277,
+    "companyName": "Cars24",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 278,
+    "companyName": "Spinny",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 279,
+    "companyName": "PolicyBazaar",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 280,
+    "companyName": "Paisabazaar",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 281,
+    "companyName": "SirionLabs",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 282,
+    "companyName": "Shipsy",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 283,
+    "companyName": "Builder.ai",
+    "location": "Gurugram / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 284,
+    "companyName": "FarEye",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 285,
+    "companyName": "Wingify",
+    "location": "Delhi / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 286,
+    "companyName": "LambdaTest",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "A"
+  },
+  {
+    "companyNumber": 287,
+    "companyName": "Leegality",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 288,
+    "companyName": "Statiq",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 289,
+    "companyName": "Park+",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 290,
+    "companyName": "Magicpin",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 291,
+    "companyName": "Zupee",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 292,
+    "companyName": "Junglee Games",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 293,
+    "companyName": "GreyOrange",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 294,
+    "companyName": "Sprinklr",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 295,
+    "companyName": "Skuad",
+    "location": "Gurugram / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 296,
+    "companyName": "Zopper",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 297,
+    "companyName": "Josh Technology Group",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 298,
+    "companyName": "Nagarro Gurgaon",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 299,
+    "companyName": "Daffodil Software",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 300,
+    "companyName": "To The New",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 301,
+    "companyName": "Successive Digital",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 302,
+    "companyName": "AppSierra",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 303,
+    "companyName": "Mobiloitte",
+    "location": "Delhi / Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 304,
+    "companyName": "RipenApps",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 305,
+    "companyName": "Octal IT Solution",
+    "location": "North India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 306,
+    "companyName": "Techugo Apps",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 307,
+    "companyName": "Kellton",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 308,
+    "companyName": "NIIT Technologies / Coforge",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 309,
+    "companyName": "HestaBit",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 310,
+    "companyName": "Binmile",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 311,
+    "companyName": "Appventurez",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 312,
+    "companyName": "Sparx IT Solutions",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 313,
+    "companyName": "SynapseIndia",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 314,
+    "companyName": "SourceFuse",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 315,
+    "companyName": "R Systems",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 316,
+    "companyName": "Iris Software",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 317,
+    "companyName": "Sopra Steria",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 318,
+    "companyName": "Birlasoft Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 319,
+    "companyName": "HCL Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 320,
+    "companyName": "Ericsson",
+    "location": "Noida / Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 321,
+    "companyName": "Samsung R&D",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 322,
+    "companyName": "NEC Corporation India",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 323,
+    "companyName": "NTT Data",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 324,
+    "companyName": "GlobalLogic Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 325,
+    "companyName": "Adobe Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 326,
+    "companyName": "Cadence Design Systems",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 327,
+    "companyName": "Synopsys",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 328,
+    "companyName": "Kronos / UKG",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 329,
+    "companyName": "Huron Consulting",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 330,
+    "companyName": "ION Group",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 331,
+    "companyName": "Fiserv",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 332,
+    "companyName": "EbixCash",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 333,
+    "companyName": "Biz2Credit",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 334,
+    "companyName": "Magic Software",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 335,
+    "companyName": "3Pillar Global",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 336,
+    "companyName": "Globallogic Gurgaon",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 337,
+    "companyName": "Nagarro Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 338,
+    "companyName": "Xoriant",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 339,
+    "companyName": "Mastek",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 340,
+    "companyName": "Datamatics",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 341,
+    "companyName": "Fulcrum Digital",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 342,
+    "companyName": "Quinnox",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 343,
+    "companyName": "YASH Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 344,
+    "companyName": "KPIT",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 345,
+    "companyName": "Altimetrik",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 346,
+    "companyName": "Apexon",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 347,
+    "companyName": "Encora",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 348,
+    "companyName": "Grid Dynamics",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 349,
+    "companyName": "UST",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 350,
+    "companyName": "Virtusa",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 351,
+    "companyName": "EPAM India",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 352,
+    "companyName": "Srijan Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 353,
+    "companyName": "McKinley Rice",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 354,
+    "companyName": "Bluebash",
+    "location": "Mohali / Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 355,
+    "companyName": "Azilen Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 356,
+    "companyName": "Talentica Software",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 357,
+    "companyName": "Tekion",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 358,
+    "companyName": "Incedo",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 359,
+    "companyName": "Publicis Sapient Gurgaon",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 360,
+    "companyName": "Decimal Technologies",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 361,
+    "companyName": "LeewayHertz",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 362,
+    "companyName": "Kellton Gurgaon",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "C"
+  },
+  {
+    "companyNumber": 363,
+    "companyName": "Appinventiv Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 364,
+    "companyName": "Successive Technologies",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 365,
+    "companyName": "Chetu Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 366,
+    "companyName": "Innostax",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 367,
+    "companyName": "Dew Solutions",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 368,
+    "companyName": "Unthinkable Solutions",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 369,
+    "companyName": "OrangeMantra",
+    "location": "Gurugram",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 370,
+    "companyName": "Mobikasa",
+    "location": "Delhi / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 371,
+    "companyName": "TechAhead Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 372,
+    "companyName": "ThinkSys",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 373,
+    "companyName": "KiwiTech",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 374,
+    "companyName": "Damco Solutions Noida",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 375,
+    "companyName": "smartData Noida / remote hiring",
+    "location": "Remote / North India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 376,
+    "companyName": "Mindfire Solutions",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 377,
+    "companyName": "Rishabh Software",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 378,
+    "companyName": "SPEC India",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 379,
+    "companyName": "ManekTech",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 380,
+    "companyName": "Brainvire Infotech",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 381,
+    "companyName": "BoTree Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 382,
+    "companyName": "Third Rock Techkno",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 383,
+    "companyName": "Agile Infoways",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 384,
+    "companyName": "Capital Numbers",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 385,
+    "companyName": "Unified Infotech",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 386,
+    "companyName": "Ajackus",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 387,
+    "companyName": "Nickelfox",
+    "location": "Noida / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 388,
+    "companyName": "TechChefz Digital",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 389,
+    "companyName": "Intelegencia",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 390,
+    "companyName": "FictiveBox",
+    "location": "Mohali / Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 391,
+    "companyName": "Kbizsoft",
+    "location": "Mohali",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 392,
+    "companyName": "Webuters Technologies",
+    "location": "Mohali / Chandigarh region",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 393,
+    "companyName": "OrangeMantra Chandigarh hiring",
+    "location": "Chandigarh / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 394,
+    "companyName": "E2logy",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 395,
+    "companyName": "eLuminous Technologies",
+    "location": "Remote / India",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 396,
+    "companyName": "The NineHertz",
+    "location": "North India / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 397,
+    "companyName": "Quytech",
+    "location": "Gurugram / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 398,
+    "companyName": "Mobulous",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 399,
+    "companyName": "Algoworks",
+    "location": "Noida",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 400,
+    "companyName": "Daffodil Software",
+    "location": "Gurugram / Remote",
+    "roleTarget": "",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 401,
+    "companyName": "CredAble",
+    "location": "Remote India",
+    "roleTarget": "Frontend / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 402,
+    "companyName": "Fibe",
+    "location": "Remote India",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 403,
+    "companyName": "MoneyTap",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 404,
+    "companyName": "KreditBee",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 405,
+    "companyName": "Jupiter Money",
+    "location": "Remote / NCR",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 406,
+    "companyName": "Fi Money",
+    "location": "Remote India",
+    "roleTarget": "React / Web",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 407,
+    "companyName": "Smallcase",
+    "location": "Remote India",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 408,
+    "companyName": "Upstox",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 409,
+    "companyName": "Angel One",
+    "location": "Remote / NCR",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 410,
+    "companyName": "5paisa",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 411,
+    "companyName": "Zerodha",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 412,
+    "companyName": "CoinDCX",
+    "location": "Remote India",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 413,
+    "companyName": "CoinSwitch",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 414,
+    "companyName": "WazirX",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 415,
+    "companyName": "Exotel",
+    "location": "Remote India",
+    "roleTarget": "Frontend / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 416,
+    "companyName": "Knowlarity",
+    "location": "Gurugram",
+    "roleTarget": "React / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 417,
+    "companyName": "MyOperator",
+    "location": "Noida / NCR",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 418,
+    "companyName": "Ozonetel",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 419,
+    "companyName": "Yellow.ai",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 420,
+    "companyName": "Haptik",
+    "location": "Remote India",
+    "roleTarget": "React / Chat UI",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 421,
+    "companyName": "Gupshup",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 422,
+    "companyName": "Route Mobile",
+    "location": "NCR / Remote",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 423,
+    "companyName": "Netcore Cloud",
+    "location": "Remote India",
+    "roleTarget": "Frontend / Dashboard",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 424,
+    "companyName": "WebEngage",
+    "location": "Remote India",
+    "roleTarget": "React / Product UI",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 425,
+    "companyName": "LeadSquared",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 426,
+    "companyName": "Freshworks",
+    "location": "Remote India",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 427,
+    "companyName": "Zoho",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 428,
+    "companyName": "Keka HR",
+    "location": "Remote India",
+    "roleTarget": "Frontend / SaaS",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 429,
+    "companyName": "Darwinbox",
+    "location": "Remote India",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 430,
+    "companyName": "PeopleStrong",
+    "location": "Gurugram",
+    "roleTarget": "Frontend / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 431,
+    "companyName": "Leena AI",
+    "location": "Gurugram",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 432,
+    "companyName": "Testsigma",
+    "location": "Remote India",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 433,
+    "companyName": "Katalon India",
+    "location": "Remote",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 434,
+    "companyName": "Observe.AI",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 435,
+    "companyName": "Uniphore",
+    "location": "Remote India",
+    "roleTarget": "UI Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 436,
+    "companyName": "Arya.ai",
+    "location": "Remote India",
+    "roleTarget": "Frontend / AI dashboard",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 437,
+    "companyName": "Mad Street Den",
+    "location": "Remote India",
+    "roleTarget": "React / AI product",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 438,
+    "companyName": "Qure.ai",
+    "location": "Remote India",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 439,
+    "companyName": "Niramai",
+    "location": "Remote India",
+    "roleTarget": "Web Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 440,
+    "companyName": "SigTuple",
+    "location": "Remote India",
+    "roleTarget": "Frontend / Healthcare UI",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 441,
+    "companyName": "HealthifyMe",
+    "location": "Remote India",
+    "roleTarget": "React / Web",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 442,
+    "companyName": "Mfine",
+    "location": "Remote India",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 443,
+    "companyName": "Medibuddy",
+    "location": "Remote India",
+    "roleTarget": "Frontend Engineer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 444,
+    "companyName": "NestorBird",
+    "location": "Noida",
+    "roleTarget": "Frontend / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 445,
+    "companyName": "Wits Innovation Lab",
+    "location": "Noida",
+    "roleTarget": "React / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 446,
+    "companyName": "Paxcom",
+    "location": "Noida",
+    "roleTarget": "Frontend / Full-stack",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 447,
+    "companyName": "Infogain",
+    "location": "Noida",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 448,
+    "companyName": "Moglix",
+    "location": "Noida",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 449,
+    "companyName": "IndiaMART",
+    "location": "Noida",
+    "roleTarget": "React Developer",
+    "priorityTier": "B"
+  },
+  {
+    "companyNumber": 450,
+    "companyName": "Info Edge",
+    "location": "Noida",
+    "roleTarget": "Frontend Developer",
+    "priorityTier": "B"
+  }
+]

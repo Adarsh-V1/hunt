@@ -1,0 +1,479 @@
+{
+  "generatedAt": "2026-05-28T01:33:01.219Z",
+  "resumeAttached": "Adarsh_Pathania_resume.pdf",
+  "sentCount": 29,
+  "failedCount": 0,
+  "skippedCount": 5,
+  "results": [
+    {
+      "no": 1,
+      "company": "Deccan AI Experts",
+      "role": "Junior Frontend / JS / TS Developer",
+      "recipients": "hr@deccan.ai",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<4aa82b7d-1c1a-5245-1045-7aaac219b0ab@gmail.com>",
+      "response": "250 2.0.0 OK  1779931842 98e67ed59e1d1-36b90be1132sm163819a91.10 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@deccan.ai"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 2,
+      "company": "BairesDev",
+      "role": "Junior JavaScript Developer",
+      "recipients": "recruiting.process@bairesdev.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<7930eaeb-661a-b424-4d31-3a87e75e7b2b@gmail.com>",
+      "response": "250 2.0.0 OK  1779931847 d9443c01a7336-2bed2061c59sm110885325ad.2 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "recruiting.process@bairesdev.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 3,
+      "company": "PENNEP",
+      "role": "Software Engineer-I",
+      "recipients": "careers@pennep.com, hr@pennep.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<6f60eb55-04ff-a280-9216-a7336d28efd2@gmail.com>",
+      "response": "250 2.0.0 OK  1779931852 d2e1a72fcca58-841d6eb0587sm3412011b3a.21 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "careers@pennep.com",
+        "hr@pennep.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 4,
+      "company": "Inficore Soft",
+      "role": "HTML/CSS / Frontend Intern",
+      "recipients": "support@inficoresoft.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<72a76523-d1f3-1348-d446-1df05b495655@gmail.com>",
+      "response": "250 2.0.0 OK  1779931857 d2e1a72fcca58-841d7301255sm3890576b3a.57 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "support@inficoresoft.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 5,
+      "company": "Offer18",
+      "role": "PHP Developer",
+      "recipients": "career@offer18.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e68bb9b1-cb5d-3823-58fa-45a1200a1b60@gmail.com>",
+      "response": "250 2.0.0 OK  1779931862 d9443c01a7336-2beb5903bcasm173772695ad.77 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "career@offer18.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 6,
+      "company": "Deqode",
+      "role": "MERN / React Developer",
+      "recipients": "hr@deqode.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<85753c16-96e7-c77b-0ff8-098e93a7d947@gmail.com>",
+      "response": "250 2.0.0 OK  1779931868 98e67ed59e1d1-36b908da770sm179030a91.2 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@deqode.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 7,
+      "company": "TCS",
+      "role": "React JS / Node JS Developer",
+      "recipients": "careers@tcs.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<3e78fa46-0f07-2463-91ba-1d427980edd1@gmail.com>",
+      "response": "250 2.0.0 OK  1779931873 98e67ed59e1d1-36b90be0f51sm160531a91.9 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "careers@tcs.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 9,
+      "company": "Helios Tech Labs",
+      "role": "Full Stack Internship",
+      "recipients": "hr@heliostechlabs.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<a5e4b9f5-ff10-6cdf-cc46-744a83c429a5@gmail.com>",
+      "response": "250 2.0.0 OK  1779931878 d9443c01a7336-2beb58e4fcfsm168567955ad.71 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@heliostechlabs.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 10,
+      "company": "ChicMic Studios",
+      "role": "React Native / Node.js Developer",
+      "recipients": "hr@chicmicstudios.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<87b27233-c4a2-d9b7-bcd5-ac9b49d74e4d@gmail.com>",
+      "response": "250 2.0.0 OK  1779931883 d2e1a72fcca58-841d6ed040asm4243974b3a.27 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@chicmicstudios.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 11,
+      "company": "APPWRK IT Solutions",
+      "role": "Full Stack Developer",
+      "recipients": "contact@appwrk.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<8db2744f-b752-55f2-13b8-72b522a3e0bb@gmail.com>",
+      "response": "250 2.0.0 OK  1779931888 d9443c01a7336-2beb58b2cd6sm170681835ad.52 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "contact@appwrk.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 12,
+      "company": "Urban Ground GmbH",
+      "role": "Full-Stack Engineer",
+      "recipients": "careers@urbanground.de",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<2f21d6df-a6e7-3e70-785a-1965a191ab1a@gmail.com>",
+      "response": "250 2.0.0 OK  1779931893 d2e1a72fcca58-841d6ebb97bsm3426201b3a.23 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "careers@urbanground.de"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 13,
+      "company": "CLO Virtual Fashion",
+      "role": "Front-end Developer",
+      "recipients": "career@clo3d.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<8fad0284-4969-e010-79b1-36feda6b9ef3@gmail.com>",
+      "response": "250 2.0.0 OK  1779931897 d9443c01a7336-2bf0825ee37sm4115315ad.41 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "career@clo3d.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 14,
+      "company": "ConceptServe Technologies",
+      "role": "React.js Developer",
+      "recipients": "hr@conceptserve.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<da3f12f5-9dd1-897a-96c7-dc2e81b24d92@gmail.com>",
+      "response": "250 2.0.0 OK  1779931902 d9443c01a7336-2beb56e090fsm178945735ad.34 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@conceptserve.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 15,
+      "company": "More Retail Pvt Ltd",
+      "role": "Frontend Developer React",
+      "recipients": "hello@more.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<464d9985-8e03-9ece-f575-1f53dd1991a6@gmail.com>",
+      "response": "250 2.0.0 OK  1779931907 d9443c01a7336-2beb5695f3dsm165076475ad.1 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hello@more.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 16,
+      "company": "C4D Technology",
+      "role": "Backend / Web Developer",
+      "recipients": "support@connect4digital.co.uk",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<9a5339a0-bb19-1b10-35c1-b5848882d1bc@gmail.com>",
+      "response": "250 2.0.0 OK  1779931912 d9443c01a7336-2beb569592dsm160590135ad.16 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "support@connect4digital.co.uk"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 17,
+      "company": "ChicMic Studios",
+      "role": "Senior Node.js Developer",
+      "recipients": "mandeep.kaur@chicmicstudios.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<23186eca-428b-4b95-e986-e93408fad4a2@gmail.com>",
+      "response": "250 2.0.0 OK  1779931917 d9443c01a7336-2beb58dde5fsm166857235ad.70 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "mandeep.kaur@chicmicstudios.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 18,
+      "company": "SimbaQuartz",
+      "role": "React Native Developer",
+      "recipients": "jobs@simbaquartz.com, hr@simbaquartz.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<ba1d5742-1f9c-00c3-f951-f5a63cb66e1a@gmail.com>",
+      "response": "250 2.0.0 OK  1779931922 98e67ed59e1d1-36b9092ff50sm173586a91.10 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "jobs@simbaquartz.com",
+        "hr@simbaquartz.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 19,
+      "company": "Premium Transfers",
+      "role": "Full Stack Developer",
+      "recipients": "info@premiumchauffeur.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<472205a9-9dc0-4af1-ef06-5052ba5b4c50@gmail.com>",
+      "response": "250 2.0.0 OK  1779931927 d9443c01a7336-2beb591a277sm168467265ad.80 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "info@premiumchauffeur.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 20,
+      "company": "Gallagher",
+      "role": "Associate Software Engineer",
+      "recipients": "Careers@ajg.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<91fb3c06-c319-55a9-d8b3-f8ce38216630@gmail.com>",
+      "response": "250 2.0.0 OK  1779931931 d9443c01a7336-2beff36894dsm9047295ad.37 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "Careers@ajg.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 21,
+      "company": "Anayat Global Works",
+      "role": "Website Developer",
+      "recipients": "hr@anayatglobalworks.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<80af2974-8bff-474a-61c2-f63a7108dfad@gmail.com>",
+      "response": "250 2.0.0 OK  1779931936 41be03b00d2f7-c852054dad7sm13534153a12.17 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@anayatglobalworks.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 23,
+      "company": "Datman",
+      "role": "Software Engineer",
+      "recipients": "hr@dataman.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<175429d9-674d-c1d6-a934-0f186745c9eb@gmail.com>",
+      "response": "250 2.0.0 OK  1779931941 d9443c01a7336-2beb56e090fsm178954955ad.34 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hr@dataman.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 24,
+      "company": "Datum Technologies Group",
+      "role": "Frontend Developer",
+      "recipients": "offshorejobs@datuminnovations.com, info.india@datumtg.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<f801fe1d-b4ce-fb18-b183-215fc1420f47@gmail.com>",
+      "response": "250 2.0.0 OK  1779931945 98e67ed59e1d1-36b7e7f99basm201451a91.3 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "offshorejobs@datuminnovations.com",
+        "info.india@datumtg.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 26,
+      "company": "RGB Web Tech",
+      "role": "Web / Angular / Frontend Developer",
+      "recipients": "rgbwebtech@gmail.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<283772f9-52f1-c0d3-a40e-a19d7684b38b@gmail.com>",
+      "response": "250 2.0.0 OK  1779931951 d2e1a72fcca58-841f51c47c4sm192797b3a.35 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "rgbwebtech@gmail.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 27,
+      "company": "Resolute AI",
+      "role": "Frontend Developer",
+      "recipients": "contact@resoluteai.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<6a1c51ee-79ac-df27-1ee2-4c2e7eaee3b7@gmail.com>",
+      "response": "250 2.0.0 OK  1779931955 d9443c01a7336-2beb58dde5fsm166866165ad.70 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "contact@resoluteai.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 28,
+      "company": "Capacity Web Solutions",
+      "role": "Frontend / HTML Developer",
+      "recipients": "career@capacitywebsolutions.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<85fa0466-b909-15c8-db4b-a791ce25d2d1@gmail.com>",
+      "response": "250 2.0.0 OK  1779931960 d9443c01a7336-2beb58e4fcfsm168585325ad.71 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "career@capacitywebsolutions.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 29,
+      "company": "Lincoln International",
+      "role": "UI/UX Developer",
+      "recipients": "india_careers@lincolninternational.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<e375ee0b-be4c-2e84-5146-dc6dea2de557@gmail.com>",
+      "response": "250 2.0.0 OK  1779931965 41be03b00d2f7-c85202b3867sm13176137a12.11 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "india_careers@lincolninternational.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 31,
+      "company": "bebo Technologies",
+      "role": "Software Engineer Database",
+      "recipients": "hiring@bebotechnologies.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<3f3ab3d9-4457-3833-beeb-e08d6e6e8686@gmail.com>",
+      "response": "250 2.0.0 OK  1779931969 d9443c01a7336-2bf09fea662sm2775875ad.78 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "hiring@bebotechnologies.com"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 33,
+      "company": "Chandigarh University",
+      "role": "Moodle Developer",
+      "recipients": "jobs@cumail.in",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<c322e5f9-3bab-e688-bacc-b8107786e761@gmail.com>",
+      "response": "250 2.0.0 OK  1779931974 d9443c01a7336-2beb56d750asm163096625ad.33 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "jobs@cumail.in"
+      ],
+      "rejected": []
+    },
+    {
+      "no": 34,
+      "company": "Vrinda International",
+      "role": "Java Full Stack Developer",
+      "recipients": "himanshu@vrinda-international.com",
+      "status": "Sent",
+      "sentDate": "2026-05-28",
+      "messageId": "<dfe631cb-337d-5fe6-0226-cf3c431cb7fa@gmail.com>",
+      "response": "250 2.0.0 OK  1779931979 d9443c01a7336-2beb5695b83sm153819945ad.9 - gsmtp",
+      "resumeFileName": "Adarsh_Pathania_resume.pdf",
+      "accepted": [
+        "himanshu@vrinda-international.com"
+      ],
+      "rejected": []
+    }
+  ],
+  "skipped": [
+    {
+      "no": 8,
+      "company": "Outlier",
+      "role": "Freelance Fullstack Developer",
+      "reason": "onboarding@outlier.ai is listed as signup/onboarding support only"
+    },
+    {
+      "no": 22,
+      "company": "Accenture India",
+      "role": "Frontend / Web / Full Stack Engineer",
+      "reason": "listed contacts are candidate support/fraud-check routes, not application emails"
+    },
+    {
+      "no": 25,
+      "company": "Mindtel",
+      "role": "Full Stack Engineer",
+      "reason": "email is a weak related-source match and needs verification first"
+    },
+    {
+      "no": 30,
+      "company": "Quess IT Staffing",
+      "role": "Full Stack Developer",
+      "reason": "help@quesscorp.com is general help and portal is preferred"
+    },
+    {
+      "no": 32,
+      "company": "Tesco Bengaluru",
+      "role": "SDE II",
+      "reason": "candidate care route is listed as portal-only for applications"
+    }
+  ]
+}
